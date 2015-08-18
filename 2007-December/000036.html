@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+ <HEAD>
+   <TITLE> [Trinitas-main] PluginLoader unter Linux
+   </TITLE>
+   <LINK REL="Index" HREF="http://lists.berlios.de/pipermail/trinitas-main/2007-December/index.html" >
+   <LINK REL="made" HREF="mailto:trinitas-main%40lists.berlios.de?Subject=Re%3A%20%5BTrinitas-main%5D%20PluginLoader%20unter%20Linux&In-Reply-To=%3C15c4e6840712110940x2bde8b7ta66cbe6d805a6385%40mail.gmail.com%3E">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <style type="text/css">
+       pre {
+           white-space: pre-wrap;       /* css-2.1, curent FF, Opera, Safari */
+           }
+   </style>
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   
+   <LINK REL="Next"  HREF="000037.html">
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[Trinitas-main] PluginLoader unter Linux</H1>
+    <B>Jannis Froese</B> 
+    <A HREF="mailto:trinitas-main%40lists.berlios.de?Subject=Re%3A%20%5BTrinitas-main%5D%20PluginLoader%20unter%20Linux&In-Reply-To=%3C15c4e6840712110940x2bde8b7ta66cbe6d805a6385%40mail.gmail.com%3E"
+       TITLE="[Trinitas-main] PluginLoader unter Linux">ichthys1 at jesus.de
+       </A><BR>
+    <I>Tue Dec 11 18:40:24 CET 2007</I>
+    <P><UL>
+        
+        <LI>Next message: <A HREF="000037.html">[Trinitas-main] PluginLoader unter Linux
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#36">[ date ]</a>
+              <a href="thread.html#36">[ thread ]</a>
+              <a href="subject.html#36">[ subject ]</a>
+              <a href="author.html#36">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>Hi,
+Ich habe heute versucht, die aktuelle Version des PluginLoaders unter Linux
+mit Code::Blocks (Version svn4680) zu compilieren.
+Dabei habe ich zwei Fehler erhalten. Vielleicht habe ich auch nur vergessen
+ein Verzeichnis in der Einstellungen anzugeben, aber das bezweifele ich.
+Hier mein Build Log:
+
+
+-------------- Build: default in PluginLoader ---------------
+
+Linking console executable: PluginLoader
+.objs/PluginLoader.o: In function `PluginLoader::LoadPlugin(char*)':
+/home/ichthys1/trinitas/trunk/tests/pluginTest/PluginLoader.cpp:118:
+undefined reference to `dlopen'
+/home/ichthys1/trinitas/trunk/tests/pluginTest/PluginLoader.cpp:125:
+undefined reference to `dlsym'
+collect2: ld gab 1 als Ende-Status zur&#252;ck
+Process terminated with status 1 (0 minutes, 0 seconds)
+2 errors, 0 warnings
+
+Ich bin kein C++ Experte, von daher meine Frage: Was stimmt am Code nicht?
+Fehlt ein Include?
+
+Jannis
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: &lt;<A HREF="https://lists.berlios.de/pipermail/trinitas-main/attachments/20071211/3c5a1fc1/attachment.html">https://lists.berlios.de/pipermail/trinitas-main/attachments/20071211/3c5a1fc1/attachment.html</A>&gt;
+</PRE>
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	
+	<LI>Next message: <A HREF="000037.html">[Trinitas-main] PluginLoader unter Linux
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#36">[ date ]</a>
+              <a href="thread.html#36">[ thread ]</a>
+              <a href="subject.html#36">[ subject ]</a>
+              <a href="author.html#36">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="https://lists.berlios.de/mailman/listinfo/trinitas-main">More information about the Trinitas-main
+mailing list</a><br>
+</body></html>

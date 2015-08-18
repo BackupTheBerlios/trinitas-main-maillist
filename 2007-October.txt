@@ -1,0 +1,1014 @@
+From mail at projectconceptor.de  Tue Oct  2 16:18:55 2007
+From: mail at projectconceptor.de (Paradoxon)
+Date: Tue, 02 Oct 2007 16:18:55 +0200
+Subject: [Trinitas-main] Besprechung letzen Dienstag
+Message-ID: <4702534F.6020507@projectconceptor.de>
+
+Endlich eine Zusammenfassung ?ber den Chat letzen Dienstag.
+
+ich machs kurz, damit ihr einen kleinen ?berblick bekommt::
+
+*- ?berlick ?ber im letzen Chat besprochenes*
+*- Aufgaben die gemacht werden m?ssen
+- Alternativer Chat Client (Webbasiert)
+*
+*?berlick ?ber im letzen Chat besprochenes*
+   1. KURZ Vorstellen (ganz ganz kurz jeder)
+   2. Projectlead warum und wer wir sind (ganz ganz kurz )
+          * wir unterst?tzen
+          * wir halten den R?cken frei
+          * wir planen
+          * wir motivieren
+          * /wir werden Fehler machen
+                o weist uns in LIEBE und KONSTRUKTIV darauf hin
+/          * ES WERDEN ANGRIFFE VOM TEUFEL KOMMEN!!!
+          * findet jemanden der f?r euch speziell betet
+          * sucht/findet Ruhe in der Bibel
+   3. Teamwork
+          * Es wird Probleme geben
+          * Es wird definitiv anders als ihr euch das Vorstellt
+                o Grafischen Einschr?nkungen
+                o Programmtechnische Einschr?nkung
+                o anderes Design von den Designer
+                o andere Vorstellung der Teammitglieder
+                o ..../*.(noch nicht im Chat besprochen)
+                   */*o im Team m?sst ihr lernen loszulassen
+*/*                   */*o ihr d?rft nicht alles kontrollieren (in der 
+Hand haben wollen)
+*/*                   */*o das ist essentiell wichtig um im Team dieses 
+gro?e Projekt zu stemmen
+*/*                   */*o helft Leuten im Team die noch nicht so weit 
+sind wie ihr
+*/*                   */*o stellt Fragen an Leute im Team die besser 
+sind wie ihr (und gebt auch f?r euch pers?nlich zu dass andere besser 
+sein k?nnen und d?rfen.)
+*/*                   */*o am Anfang wird schwerer sein und auch h?rter 
+dadurch werden aber am Ende werden wir insgesamt schneller sein.
+*          * Zust?ndigkeit (also zum erst Teamleiter und dann erst zur
+            Projektleitung)
+          * Verteilung der Aufgaben
+          * andere werden Fehler machen
+                o ist ok, da kein Budget was davon abh?ngt
+                o biblisch reagieren
+                o beten
+                o .....
+   4. Ablauf der Entwicklung
+          * Scrum ?hnliche Methode...
+          * Es gibt viele Todos....
+          * Freigabe des Planungsdokuments von googledocs
+          * n?chster Schritt Prototyp (Zwei Teams ein Server und ein 
+Client Team)
+          * Planung MessageProtokoll f?r Server (damit zwei Teams 
+unabh?ngig voneinander funktioniert)
+          * Wo seht ihr Probleme
+
+*Aufgaben die gemacht werden m?ssen*
+So dann noch was die n?chsten Schritte sind:
+Mokups 	Netzwerktest 	Testziele: * Irrlichtintegration * Risikofaktoren 
+ermitteln * Performance * Stabilit?t * Notwendige Grundlagen 
+feststellen 	Teilweise Simon Hoss
+
+	Grafiktest 	Testziele: * Laden von Objekten * Risikofaktoren ermitteln 
+* Performance bottelnecks ermittlen * Vertrautmachen mit IrrlichtEngine 
+* Methode zum Entfernungsermittlung herausfinden * Verstehen des 
+Eventsausl?sen abh?ngig von Postitionen 	Teilweise Simon Hoss
+
+	Physiktest 	Testziele: * NewtonIntegration Irrlichtintegration * 
+Risikofaktoren ermitteln * Performance * Stabilit?t * Umfang der 
+Verwendung kl?ren * ist eine dynamische festlegung der Komplexit?t 
+anhand der Maschinenenleistung mgl.
+** Komplexit?t des Switches zu Physx ermitteln*
+	Teilweise Simon Hoss
+
+	Soundtest 	Testziele: * Irrlichtintegration * Risikofaktoren ermitteln 
+* Performance * Sound abh?ngig von Position sowie Blickrichtung 	
+
+	LuaEnginetest 	Testziele: * Integration mit anderen Engines * 
+Risikofaktoren ermitteln * Performance * Absch?tzung des Aufwandes * wie 
+k?nnen eigene Objekte einfach in Lua integriert werden * Umfang der 
+M?glichkeiten * Wir ein bestimmtes Classendesign ben?tig um Lua zu 
+unterst?tzen 	Schakal
+
+	Threadtest 	Test Wie verhalt?lt sich * Windows * Linux * Mac Wie 
+bekommen wir portabilit?t hin * kleinster gemeinsamer Nenner.. * 
+Plattform Anwendungen nur um "zu starten" und Threads aufzubauen 	
+
+	Portierbarkeit 	Test * Wie kann man Plattformunabh?ngiges Pluginsystem 
+erstellen *Welche Grundlagen sind zu beachten um portabel zu programmieren 	
+
+	Grafiken
+	* Grafikentw?rfe f?r Charakter
+* Grafikentw?rfe f?r H?use
+* Grafikentw?rfe f?r Objekte
+* erste Blenderfiels
+* Blenderintegration mit Irrlicht ?berpr?fen
+	Teilweise Florian
+
+
+*Alternativer Chat Client (Webbasiert)*
+
+unter der folgenden Adresse k?nnt ihr ganz einfach in unseren Channel 
+mitreden
+http://ircatwork.com/
+Nick: denkt euch einen eigenen aus
+Server: irc.freenode.net
+Cannel #Trinitas
+
+Gottes Segen auch allen
+Matthias
+
+-- 
+Matthias Lindner
+Lazarettstr. 10
+
+45127 Essen
+
+Tel/Fax.: 0201-2480986
+Mail:	mail at projectconceptor.de
+
+
+www.online-mit-gott.de
+trinitas.berlios.de
+www.fishers-girl.de
+www.projectconceptor.de
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071002/9e2f7f7b/attachment.html>
+
+From mail at projectconceptor.de  Wed Oct  3 16:06:40 2007
+From: mail at projectconceptor.de (Paradoxon)
+Date: Wed, 03 Oct 2007 16:06:40 +0200
+Subject: [Trinitas-main] Update Besprechung am Dienstag den 25.09.07
+Message-ID: <4703A1F0.4070804@projectconceptor.de>
+
+Da anscheinend meine andere Mail ihren weg nicht zu euch gefunden hat )
+hier der link f?r euch wo ihr sie lesen k?nnt
+
+https://lists.berlios.de/pipermail/trinitas-main/2007-October/000002.html
+
+gby
+Matthias
+
+-- 
+Matthias Lindner
+Lazarettstr. 10
+
+45127 Essen
+
+Tel/Fax.: 0201-2480986
+Mail:	mail at projectconceptor.de
+
+
+www.online-mit-gott.de
+trinitas.berlios.de
+www.fishers-girl.de
+www.projectconceptor.de
+
+
+
+From jo at oswald-cm.de  Tue Oct  9 11:24:03 2007
+From: jo at oswald-cm.de (Juergen Oswald)
+Date: Tue, 09 Oct 2007 11:24:03 +0200
+Subject: [Trinitas-main] Hallo Leute
+Message-ID: <470B48B3.3060001@oswald-cm.de>
+
+Hallo Leute,
+
+ich denk ich sollte mich kurz vorstellen.
+
+Mein Name ist Juergen Oswald alias "spacepainter".
+Ich bin t?tig im Bereich Mediengestaltung mit Fokus auf 3D.
+Auf das Projekt, bin ich ?ber jesus.de, aufmerksam geworden.
+
+?ber das Konzept des Games bin ich mir noch nicht so ganz
+im Klaren, was ich davon halten soll.
+Dennoch sehe ich hier eine Chance einen/meinen Beitrag zu leisten.
+
+Das hei?t, ich sehe meinen Beitrag allgemein im grafischen
+und besonders im 3D-Bereich.
+
+Da ja bei dem Projekt, in erster Linie auf open source Software
+gesetzt wird, ist f?r mich der erste Punkt:
+Wie bekomme ich 3D-Modelle und besonders Animationen,
+von meiner Arbeitsumgebung in die entsprechende open source Software.
+In diesem Fall maya => Blender => irrlicht engine.
+Evtl. gibt es auch einen anderen Weg: maya => irrlicht engine.
+Aber evtl. ist Blender ja die bessere Schnittstelle, da ich von Matthias 
+wei?,
+dass noch zwei andere Leute hier mit Blender arbeiten.
+An dieser Stelle: Auf gute Zusammenarbeit. Da werden wohl noch
+einige Fragen von mir zum Thema Blender auf euch zukommen ;-)
+
+Nach vielen vergeblichen Versuchen und Sackgassen,
+ist es mir gelungen ein animiertes, texturiertes Testmodell
+von maya nach blender zu transferieren.
+Der Testfile liegt unter:
+Data/Blenderfiles/Tests/Convert_anim_to_Blender
+
+Sollte jemand Ideen und Wege hierzu wissen, immer her damit.
+
+Da ich mich in Blender nicht auskenne, bin ich ja schon froh,
+das ich auf die schnelle die Textur zuweisen und die Animation pr?fen 
+konnte.
+Allerdings ist es mir nicht gelungen, die polygone des meshs
+zu gl?tten, obwohl ich 80 Grad eingegeben habe.
+Aber da k?nnen dann wohl die Blenderleute ansetzen.
+
+
+Gruss und Segen
+Juergen
+
+PS: Die ganze Projektverwaltung ?ber berlios und mit svn
+ist noch ziemlich neu und ungewohnt neu f?r mich
+=> gemach, gemach ;-)
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071009/14224319/attachment.html>
+
+From mail at projectconceptor.de  Tue Oct  9 13:43:34 2007
+From: mail at projectconceptor.de (Paradoxon)
+Date: Tue, 09 Oct 2007 13:43:34 +0200
+Subject: [Trinitas-main] Hallo Leute
+In-Reply-To: <470B48B3.3060001@oswald-cm.de>
+References: <470B48B3.3060001@oswald-cm.de>
+Message-ID: <470B6966.2040403@projectconceptor.de>
+
+Hallo J?rgen,
+
+sieht doch schon sehr vielversprechend aus... die Animation
+
+Das Weichzeichnen wird unter Blender
+im Konfigurationspanel*   
+    Editing (F9)*
+unter
+    *Link an Materials *
+mit dem Button
+    *Set Smooth*
+angeschaltet :)
+
+Gby
+Matthias :)
+
+Juergen Oswald schrieb:
+> Hallo Leute,
+>
+> ich denk ich sollte mich kurz vorstellen.
+>
+> Mein Name ist Juergen Oswald alias "spacepainter".
+> Ich bin t?tig im Bereich Mediengestaltung mit Fokus auf 3D.
+> Auf das Projekt, bin ich ?ber jesus.de, aufmerksam geworden.
+>
+> ?ber das Konzept des Games bin ich mir noch nicht so ganz
+> im Klaren, was ich davon halten soll.
+> Dennoch sehe ich hier eine Chance einen/meinen Beitrag zu leisten.
+>
+> Das hei?t, ich sehe meinen Beitrag allgemein im grafischen
+> und besonders im 3D-Bereich.
+>
+> Da ja bei dem Projekt, in erster Linie auf open source Software
+> gesetzt wird, ist f?r mich der erste Punkt:
+> Wie bekomme ich 3D-Modelle und besonders Animationen,
+> von meiner Arbeitsumgebung in die entsprechende open source Software.
+> In diesem Fall maya => Blender => irrlicht engine.
+> Evtl. gibt es auch einen anderen Weg: maya => irrlicht engine.
+> Aber evtl. ist Blender ja die bessere Schnittstelle, da ich von 
+> Matthias wei?,
+> dass noch zwei andere Leute hier mit Blender arbeiten.
+> An dieser Stelle: Auf gute Zusammenarbeit. Da werden wohl noch
+> einige Fragen von mir zum Thema Blender auf euch zukommen ;-)
+>
+> Nach vielen vergeblichen Versuchen und Sackgassen,
+> ist es mir gelungen ein animiertes, texturiertes Testmodell
+> von maya nach blender zu transferieren.
+> Der Testfile liegt unter:
+> Data/Blenderfiles/Tests/Convert_anim_to_Blender
+>
+> Sollte jemand Ideen und Wege hierzu wissen, immer her damit.
+>
+> Da ich mich in Blender nicht auskenne, bin ich ja schon froh,
+> das ich auf die schnelle die Textur zuweisen und die Animation pr?fen 
+> konnte.
+> Allerdings ist es mir nicht gelungen, die polygone des meshs
+> zu gl?tten, obwohl ich 80 Grad eingegeben habe.
+> Aber da k?nnen dann wohl die Blenderleute ansetzen.
+>
+>
+> Gruss und Segen
+> Juergen
+>
+> PS: Die ganze Projektverwaltung ?ber berlios und mit svn
+> ist noch ziemlich neu und ungewohnt neu f?r mich
+> => gemach, gemach ;-)
+>
+>
+>
+> ------------------------------------------------------------------------
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>   
+
+
+-- 
+Matthias Lindner
+Lazarettstr. 10
+
+45127 Essen
+
+Tel/Fax.: 0201-2480986
+Mail:	mail at projectconceptor.de
+
+
+www.online-mit-gott.de
+trinitas.berlios.de
+www.fishers-girl.de
+www.projectconceptor.de
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071009/df599811/attachment.html>
+
+From trinitas at oswald-crossmedia.de  Tue Oct  9 15:00:02 2007
+From: trinitas at oswald-crossmedia.de (Juergen swald)
+Date: Tue, 09 Oct 2007 15:00:02 +0200
+Subject: [Trinitas-main] Hallo Leute
+In-Reply-To: <470B6966.2040403@projectconceptor.de>
+References: <470B48B3.3060001@oswald-cm.de>
+	<470B6966.2040403@projectconceptor.de>
+Message-ID: <470B7B52.7000803@oswald-crossmedia.de>
+
+Hallo Matthias,
+
+ok danke, habs gefunden.
+Muss einem ja aber auch gesagt werden ;-)
+Ich kenn halt 0 - 180.
+
+Eigentlich wollte ich mein Schreiben ja auf die Seite stellen,
+so wie deine Beitr?ge. Ging aber wohl daneben.
+Ich mein so, das jeder mitlesen und schreiben kann.
+
+Gru? und Segen
+Juergen
+
+
+Paradoxon schrieb:
+> Hallo J?rgen,
+>
+> sieht doch schon sehr vielversprechend aus... die Animation
+>
+> Das Weichzeichnen wird unter Blender
+> im Konfigurationspanel*   
+>     Editing (F9)*
+> unter
+>     *Link an Materials *
+> mit dem Button
+>     *Set Smooth*
+> angeschaltet :)
+>
+> Gby
+> Matthias :)
+>
+> Juergen Oswald schrieb:
+>> Hallo Leute,
+>>
+>> ich denk ich sollte mich kurz vorstellen.
+>>
+>> Mein Name ist Juergen Oswald alias "spacepainter".
+>> Ich bin t?tig im Bereich Mediengestaltung mit Fokus auf 3D.
+>> Auf das Projekt, bin ich ?ber jesus.de, aufmerksam geworden.
+>>
+>> ?ber das Konzept des Games bin ich mir noch nicht so ganz
+>> im Klaren, was ich davon halten soll.
+>> Dennoch sehe ich hier eine Chance einen/meinen Beitrag zu leisten.
+>>
+>> Das hei?t, ich sehe meinen Beitrag allgemein im grafischen
+>> und besonders im 3D-Bereich.
+>>
+>> Da ja bei dem Projekt, in erster Linie auf open source Software
+>> gesetzt wird, ist f?r mich der erste Punkt:
+>> Wie bekomme ich 3D-Modelle und besonders Animationen,
+>> von meiner Arbeitsumgebung in die entsprechende open source Software.
+>> In diesem Fall maya => Blender => irrlicht engine.
+>> Evtl. gibt es auch einen anderen Weg: maya => irrlicht engine.
+>> Aber evtl. ist Blender ja die bessere Schnittstelle, da ich von 
+>> Matthias wei?,
+>> dass noch zwei andere Leute hier mit Blender arbeiten.
+>> An dieser Stelle: Auf gute Zusammenarbeit. Da werden wohl noch
+>> einige Fragen von mir zum Thema Blender auf euch zukommen ;-)
+>>
+>> Nach vielen vergeblichen Versuchen und Sackgassen,
+>> ist es mir gelungen ein animiertes, texturiertes Testmodell
+>> von maya nach blender zu transferieren.
+>> Der Testfile liegt unter:
+>> Data/Blenderfiles/Tests/Convert_anim_to_Blender
+>>
+>> Sollte jemand Ideen und Wege hierzu wissen, immer her damit.
+>>
+>> Da ich mich in Blender nicht auskenne, bin ich ja schon froh,
+>> das ich auf die schnelle die Textur zuweisen und die Animation pr?fen 
+>> konnte.
+>> Allerdings ist es mir nicht gelungen, die polygone des meshs
+>> zu gl?tten, obwohl ich 80 Grad eingegeben habe.
+>> Aber da k?nnen dann wohl die Blenderleute ansetzen.
+>>
+>>
+>> Gruss und Segen
+>> Juergen
+>>
+>> PS: Die ganze Projektverwaltung ?ber berlios und mit svn
+>> ist noch ziemlich neu und ungewohnt neu f?r mich
+>> => gemach, gemach ;-)
+>>
+>>
+>>
+>> ------------------------------------------------------------------------
+>>
+>> _______________________________________________
+>> Trinitas-main mailing list
+>> Trinitas-main at lists.berlios.de
+>> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>   
+>
+>
+> -- 
+> Matthias Lindner
+> Lazarettstr. 10
+>
+> 45127 Essen
+>
+> Tel/Fax.: 0201-2480986
+> Mail:	mail at projectconceptor.de
+>
+>
+> www.online-mit-gott.de
+> trinitas.berlios.de
+> www.fishers-girl.de
+> www.projectconceptor.de
+>   
+> ------------------------------------------------------------------------
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>   
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071009/83351695/attachment.html>
+
+From ichthys1 at jesus.de  Tue Oct  9 18:22:47 2007
+From: ichthys1 at jesus.de (Jannis Froese)
+Date: Tue, 9 Oct 2007 18:22:47 +0200
+Subject: [Trinitas-main] Hallo Leute
+In-Reply-To: <470B7B52.7000803@oswald-crossmedia.de>
+References: <470B48B3.3060001@oswald-cm.de>
+	<470B6966.2040403@projectconceptor.de>
+	<470B7B52.7000803@oswald-crossmedia.de>
+Message-ID: <15c4e6840710090922m36c6b16ej865fb999885b9b19@mail.gmail.com>
+
+Hi J?rgen,
+
+was hei?t hier
+
+>>Eigentlich wollte ich mein Schreiben ja auf die Seite stellen,
+>>so wie deine Beitr?ge. Ging aber wohl daneben.
+>>Ich mein so, das jeder mitlesen und schreiben kann.
+
+Wir lesen ja alle mit (ich zumindest).
+
+Gr??e
+Jannis
+
+
+Am 09.10.07 schrieb Juergen swald <trinitas at oswald-crossmedia.de>:
+>
+> Hallo Matthias,
+>
+> ok danke, habs gefunden.
+> Muss einem ja aber auch gesagt werden ;-)
+> Ich kenn halt 0 - 180.
+>
+> Eigentlich wollte ich mein Schreiben ja auf die Seite stellen,
+> so wie deine Beitr?ge. Ging aber wohl daneben.
+> Ich mein so, das jeder mitlesen und schreiben kann.
+>
+> Gru? und Segen
+> Juergen
+>
+>
+> Paradoxon schrieb:
+>
+> Hallo J?rgen,
+>
+> sieht doch schon sehr vielversprechend aus... die Animation
+>
+> Das Weichzeichnen wird unter Blender
+> im Konfigurationspanel*
+>     Editing (F9)*
+> unter
+>     *Link an Materials *
+> mit dem Button
+>     *Set Smooth*
+> angeschaltet :)
+>
+> Gby
+> Matthias :)
+>
+> Juergen Oswald schrieb:
+>
+> Hallo Leute,
+>
+> ich denk ich sollte mich kurz vorstellen.
+>
+> Mein Name ist Juergen Oswald alias "spacepainter".
+> Ich bin t?tig im Bereich Mediengestaltung mit Fokus auf 3D.
+> Auf das Projekt, bin ich ?ber jesus.de, aufmerksam geworden.
+>
+> ?ber das Konzept des Games bin ich mir noch nicht so ganz
+> im Klaren, was ich davon halten soll.
+> Dennoch sehe ich hier eine Chance einen/meinen Beitrag zu leisten.
+>
+> Das hei?t, ich sehe meinen Beitrag allgemein im grafischen
+> und besonders im 3D-Bereich.
+>
+> Da ja bei dem Projekt, in erster Linie auf open source Software
+> gesetzt wird, ist f?r mich der erste Punkt:
+> Wie bekomme ich 3D-Modelle und besonders Animationen,
+> von meiner Arbeitsumgebung in die entsprechende open source Software.
+> In diesem Fall maya => Blender => irrlicht engine.
+> Evtl. gibt es auch einen anderen Weg: maya => irrlicht engine.
+> Aber evtl. ist Blender ja die bessere Schnittstelle, da ich von Matthias
+> wei?,
+> dass noch zwei andere Leute hier mit Blender arbeiten.
+> An dieser Stelle: Auf gute Zusammenarbeit. Da werden wohl noch
+> einige Fragen von mir zum Thema Blender auf euch zukommen ;-)
+>
+> Nach vielen vergeblichen Versuchen und Sackgassen,
+> ist es mir gelungen ein animiertes, texturiertes Testmodell
+> von maya nach blender zu transferieren.
+> Der Testfile liegt unter:
+> Data/Blenderfiles/Tests/Convert_anim_to_Blender
+>
+> Sollte jemand Ideen und Wege hierzu wissen, immer her damit.
+>
+> Da ich mich in Blender nicht auskenne, bin ich ja schon froh,
+> das ich auf die schnelle die Textur zuweisen und die Animation pr?fen
+> konnte.
+> Allerdings ist es mir nicht gelungen, die polygone des meshs
+> zu gl?tten, obwohl ich 80 Grad eingegeben habe.
+> Aber da k?nnen dann wohl die Blenderleute ansetzen.
+>
+>
+> Gruss und Segen
+> Juergen
+>
+> PS: Die ganze Projektverwaltung ?ber berlios und mit svn
+> ist noch ziemlich neu und ungewohnt neu f?r mich
+> => gemach, gemach ;-)
+>
+>
+>
+> ------------------------------
+>
+> _______________________________________________
+> Trinitas-main mailing listTrinitas-main at lists.berlios.dehttps://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+>
+> --
+> Matthias Lindner
+> Lazarettstr. 10
+>
+> 45127 Essen
+>
+> Tel/Fax.: 0201-2480986
+> Mail:	mail at projectconceptor.de
+>
+> www.online-mit-gott.detrinitas.berlios.dewww.fishers-girl.dewww.projectconceptor.de
+>
+> ------------------------------
+>
+> _______________________________________________
+> Trinitas-main mailing listTrinitas-main at lists.berlios.dehttps://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071009/d0eb57c9/attachment.html>
+
+From davidjablonski at web.de  Tue Oct  9 19:24:46 2007
+From: davidjablonski at web.de (davidjablonski at web.de)
+Date: Tue, 09 Oct 2007 19:24:46 +0200
+Subject: [Trinitas-main] Lua, Probleme und Funktionen
+Message-ID: <816742552@web.de>
+
+Na ihr,
+
+ich hab mich bisschen mit LUA in C++ und so besch?ftigt.
+Erstmal wollte ich ?ber meine bisherigen "Erfolge" sprechen.
+Es ist mir gelungen - ja gut Simon hat es viel schneller hingekriegt, aber hat mir nicht geholfen :) -
+Lua-Skripte mit C++ aufzurufen und auszuf?hren.
+Ferner habe ich es geschafft, in LUA  C++-Funktionen aufzurufen. So geht es:
+
+In C++ registriert man erstmal eine Funktion, die auch in Lua aufgerufen werden kann:
+
+lua_register(L,"addiere",cAddiere);
+
+"Addiere" ist hierbei das, was in Lua steht, zB Addiere(5,10)
+cAddiere ist der Name der C++-Funktion, die wir aufrufen wollen.
+Die Funktion ist aber nicht "normal", sondern sieht so aus:
+
+static int cAddiere(lua_State* L)
+{
+	double a,b;
+	a = lua_tonumber(L, 1);
+	b = lua_tonumber(L, 2);
+	lua_pushnumber(L,a+b);
+	return 1;
+}
+
+1 und 2 sind dabei Indizes des von C++ und LUA gemeinsam benutzten Stacks.
+Als Lua-Skript hat man dann folgendes:
+
+ergebnis=addiere(100,200)
+print ergebnis
+
+(wundert euch nicht ?ber die fehlenden ;
+die KANN man machen, und ich als C++-
+Hasser lasse die bewusst weg :P )
+
+Et voil?...als Ausgabe erh?lt man 300 :)
+Wenn ihr euch selbst ?berzeugen wollt:
+>>>> Trinitas\tests\lua\basics
+
+Ok, das waren schon die Erfolge.
+Jetzt die Probleme.
+Aus Erfahrung mit Lua kann ich sagen, dass wir
+ebenfalls MySQL brauchen. Der Grund: Damit C++
+wei?, welche Skripte aufgerufen werden sollen!
+Beispiel:
+Ein Spieler benutzt eine Axt auf einen Baum.
+F?r diesen Fall gibt es (bzw. wird es geben) diese Funktion (in LUA):
+
+Function UseItemWithItem(SourceItem, TargetItem, User)
+   ....
+End Function
+
+Da es in allen Skripten nicht nur einmal diese Funktion geben wird,
+wird dann in der MySQL-Tabelle gespeichert, welche Lua-Skripte
+mit welchen Objekten zu tun haben.
+Dies ist nur ein Vorschlag, den ich f?r sehr gut halte. Falls euch was
+besseres einf?llt, nur zu :P
+
+
+Momentan arbeite ich an einer C++-Funktion, die eine Lua-Funktion aufruft,
+die beliebig viele Parameter besitzen kann. Soweit bin ich schon:
+
+void CallLuaFunction(lua_State* lState, const char* fncName, int nResults, ...)
+{
+    int i;
+    char* param;
+    lua_getfield(L, LUA_GLOBALSINDEX, fncName);
+    va_list args;
+    va_start(args,param);
+    while(param!=NULL)
+    {
+        i++;
+        lua_pushstring(lState,param);
+        param = va_arg(args,char*);
+    }
+    va_end(args);
+    lua_call(lState,i,nResults);
+}
+
+Habs noch nicht getestet ^^
+So das wars, Gottes reichen Segen f?r euch alle,
+David Jablonski
+______________________________________________________________________________
+Jetzt neu! Im riesigen WEB.DE Club SmartDrive Dateien freigeben und mit 
+Freunden teilen! http://www.freemail.web.de/club/smartdrive_ttc.htm/?mc=021134
+
+
+
+From trinitas at oswald-crossmedia.de  Wed Oct 10 09:48:03 2007
+From: trinitas at oswald-crossmedia.de (Juergen swald)
+Date: Wed, 10 Oct 2007 09:48:03 +0200
+Subject: [Trinitas-main] Hallo Leute
+In-Reply-To: <15c4e6840710090922m36c6b16ej865fb999885b9b19@mail.gmail.com>
+References: <470B48B3.3060001@oswald-cm.de>	<470B6966.2040403@projectconceptor.de>	<470B7B52.7000803@oswald-crossmedia.de>
+	<15c4e6840710090922m36c6b16ej865fb999885b9b19@mail.gmail.com>
+Message-ID: <470C83B3.8010507@oswald-crossmedia.de>
+
+Hallo Janand,
+
+ja habs eben erst entdeckt, da? es ja doch gefunzt hat.
+War das erste mal einfach nur zu ungeduldig ;-)
+
+Gru? und Segen
+Juergen
+
+
+
+
+Jannis Froese schrieb:
+> Hi J?rgen,
+>  
+> was hei?t hier
+>  
+> >>Eigentlich wollte ich mein Schreiben ja auf die Seite stellen,
+> >>so wie deine Beitr?ge. Ging aber wohl daneben.
+> >>Ich mein so, das jeder mitlesen und schreiben kann.
+>  
+> Wir lesen ja alle mit (ich zumindest).
+>  
+> Gr??e
+> Jannis
+>
+>  
+> Am 09.10.07 schrieb *Juergen swald* <trinitas at oswald-crossmedia.de 
+> <mailto:trinitas at oswald-crossmedia.de>>:
+>
+>     Hallo Matthias,
+>
+>     ok danke, habs gefunden.
+>     Muss einem ja aber auch gesagt werden ;-)
+>     Ich kenn halt 0 - 180.
+>
+>     Eigentlich wollte ich mein Schreiben ja auf die Seite stellen,
+>     so wie deine Beitr?ge. Ging aber wohl daneben.
+>     Ich mein so, das jeder mitlesen und schreiben kann.
+>
+>     Gru? und Segen
+>     Juergen
+>
+>
+>     Paradoxon schrieb:
+>>     Hallo J?rgen,
+>>
+>>     sieht doch schon sehr vielversprechend aus... die Animation
+>>
+>>     Das Weichzeichnen wird unter Blender
+>>     im Konfigurationspanel*   
+>>         Editing (F9)*
+>>     unter
+>>         *Link an Materials *
+>>     mit dem Button
+>>         *Set Smooth*
+>>     angeschaltet :)
+>>
+>>     Gby
+>>     Matthias :)
+>>
+>>     Juergen Oswald schrieb:
+>>>     Hallo Leute,
+>>>
+>>>     ich denk ich sollte mich kurz vorstellen.
+>>>
+>>>     Mein Name ist Juergen Oswald alias "spacepainter".
+>>>     Ich bin t?tig im Bereich Mediengestaltung mit Fokus auf 3D.
+>>>     Auf das Projekt, bin ich ?ber jesus.de <http://jesus.de/>,
+>>>     aufmerksam geworden.
+>>>
+>>>     ?ber das Konzept des Games bin ich mir noch nicht so ganz
+>>>     im Klaren, was ich davon halten soll.
+>>>     Dennoch sehe ich hier eine Chance einen/meinen Beitrag zu leisten.
+>>>
+>>>     Das hei?t, ich sehe meinen Beitrag allgemein im grafischen
+>>>     und besonders im 3D-Bereich.
+>>>
+>>>     Da ja bei dem Projekt, in erster Linie auf open source Software
+>>>     gesetzt wird, ist f?r mich der erste Punkt:
+>>>     Wie bekomme ich 3D-Modelle und besonders Animationen,
+>>>     von meiner Arbeitsumgebung in die entsprechende open source
+>>>     Software.
+>>>     In diesem Fall maya => Blender => irrlicht engine.
+>>>     Evtl. gibt es auch einen anderen Weg: maya => irrlicht engine.
+>>>     Aber evtl. ist Blender ja die bessere Schnittstelle, da ich von
+>>>     Matthias wei?,
+>>>     dass noch zwei andere Leute hier mit Blender arbeiten.
+>>>     An dieser Stelle: Auf gute Zusammenarbeit. Da werden wohl noch
+>>>     einige Fragen von mir zum Thema Blender auf euch zukommen ;-)
+>>>
+>>>     Nach vielen vergeblichen Versuchen und Sackgassen,
+>>>     ist es mir gelungen ein animiertes, texturiertes Testmodell
+>>>     von maya nach blender zu transferieren.
+>>>     Der Testfile liegt unter:
+>>>     Data/Blenderfiles/Tests/Convert_anim_to_Blender
+>>>
+>>>     Sollte jemand Ideen und Wege hierzu wissen, immer her damit.
+>>>
+>>>     Da ich mich in Blender nicht auskenne, bin ich ja schon froh,
+>>>     das ich auf die schnelle die Textur zuweisen und die Animation
+>>>     pr?fen konnte.
+>>>     Allerdings ist es mir nicht gelungen, die polygone des meshs
+>>>     zu gl?tten, obwohl ich 80 Grad eingegeben habe.
+>>>     Aber da k?nnen dann wohl die Blenderleute ansetzen.
+>>>
+>>>
+>>>     Gruss und Segen
+>>>     Juergen
+>>>
+>>>     PS: Die ganze Projektverwaltung ?ber berlios und mit svn
+>>>     ist noch ziemlich neu und ungewohnt neu f?r mich
+>>>     => gemach, gemach ;-)
+>>>
+>>>
+>>>
+>>>     ------------------------------------------------------------------------
+>>>
+>>>     _______________________________________________
+>>>     Trinitas-main mailing list
+>>>     Trinitas-main at lists.berlios.de <mailto:Trinitas-main at lists.berlios.de>
+>>>     https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>>       
+>>
+>>
+>>     -- 
+>>     Matthias Lindner
+>>     Lazarettstr. 10
+>>
+>>     45127 Essen
+>>
+>>     Tel/Fax.: 0201-2480986
+>>     Mail:	mail at projectconceptor.de <mailto:mail at projectconceptor.de>
+>>
+>>
+>>     www.online-mit-gott.de <http://www.online-mit-gott.de/>
+>>     trinitas.berlios.de <http://trinitas.berlios.de/>
+>>     www.fishers-girl.de <http://www.fishers-girl.de/>
+>>     www.projectconceptor.de <http://www.projectconceptor.de/>
+>>       
+>>     ------------------------------------------------------------------------
+>>
+>>     _______________________________________________
+>>     Trinitas-main mailing list
+>>     Trinitas-main at lists.berlios.de <mailto:Trinitas-main at lists.berlios.de>
+>>     https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>       
+>
+>
+>     _______________________________________________
+>     Trinitas-main mailing list
+>     Trinitas-main at lists.berlios.de <mailto:Trinitas-main at lists.berlios.de>
+>     https://lists.berlios.de/mailman/listinfo/trinitas-main
+>     <https://lists.berlios.de/mailman/listinfo/trinitas-main>
+>
+>
+> ------------------------------------------------------------------------
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>   
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071010/2661a2a4/attachment.html>
+
+From mail at projectconceptor.de  Wed Oct 10 09:58:31 2007
+From: mail at projectconceptor.de (Paradoxon)
+Date: Wed, 10 Oct 2007 09:58:31 +0200
+Subject: [Trinitas-main] =?iso-8859-15?q?Look_und_Feel__+_Gr=F6=DFe_des_Sp?=
+	=?iso-8859-15?q?ielfeldes?=
+In-Reply-To: <308272362@web.de>
+References: <308272362@web.de>
+Message-ID: <470C8627.5020606@projectconceptor.de>
+
+Hi alle zusammen
+Florian und J?rgen   hatten einige interessante Fragen... deswegen 
+stelle ich sie mal in die Main
+
+1. Frage der Gr??e des Spielfeldes
+
+    * Also die Gr??e des  ist nicht 100% festgelegt, da jede neue Map
+      eine unterschiedliche gr??e haben, die zu dem ja auch das Gamplay
+      des Maps beeinflusst
+    * minimumgrenze w?rde ich bei 100 x 100 Metern sehen.
+    * die Grenze nach oben wird uns wahrscheinlich von Irrlich und dem
+      Computer auf dem das Spiel gespielt wird vorgegeben,
+          o allerdings d?rften auch sehr gro?e Maps nicht zu einem
+            rasanten multiplayer Spielvergn?gen f?hren, da man die
+            meiste Zeit mit laufen besch?ftigt w?re.
+          o ich w?rde erst einmal pi mal daumen die Grenze auf 1000 x
+            1000 Metern festlegen... das m?ssen wir aber im laufe der
+            Entwicklung noch mal neu bewerten und ersteinmal "erforschen
+          o Wichtig ist au?erdem, dass die sichtbare Gr??e des
+            Spielfeldes gr??er sein muss, als die Spielbare.. sonst kann
+            man an den Rand des Maps laufen und runter in den Agrund schauen
+
+
+Bei Fragen nach dem Look und Feel des Spieles w?rde ich sehr stark 
+versuchen an die Qualit?t von S.W.I.N.E. heranzukommen (?brigens ein 
+freies Spiel...)
+Wir k?nnten noch eine gr??ere Zoomstufe w?hlen, so dass die Geb?ude und 
+Personen ein wenig gr??er werden.
+Screenshots:
+http://scr3.golem.de/?d=0512/swine&a=42316&s=7
+Herunterladbar:
+http://www.winload.de/download/49012/Spiele/Strategie/S.W.I.N.E-1.html
+
+
+gby
+Matthias
+
+florian mann schrieb:
+>
+> hey matthias,
+>
+> geht um folgendes:
+>
+> ich kam aus dem urlaub wieder und wollte mich an die arbeit mchen da 
+> stellte sich mir die frage: wie gro? soll die map eigendlich werden???
+>
+> vll hast du dir schon eine gr??e ?berlegt dann w?rde ich dich bitten 
+> mir die zu sagen (am besten die kantenl?nge und in metern die der 
+> spierler in der virtuellen welt zur?cklegenm?ssen um an eine seite 
+> abzulaufen)
+>
+> das w?rs gottes segen mfg florian
+>
+>
+>
+> Der WEB.DE SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!   
+> *http://smartsurfer.web.de/?mc=100071&distributionid=000000000066* 
+> <http://smartsurfer.web.de/?mc=100071&distributionid=000000000066>  
+>
+
+
+-- 
+Matthias Lindner
+Lazarettstr. 10
+
+45127 Essen
+
+Tel/Fax.: 0201-2480986
+Mail:	mail at projectconceptor.de
+
+
+www.online-mit-gott.de
+trinitas.berlios.de
+www.fishers-girl.de
+www.projectconceptor.de
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071010/88fa3648/attachment.html>
+
+From jo at oswald-cm.de  Fri Oct 19 11:11:47 2007
+From: jo at oswald-cm.de (Juergen Oswald)
+Date: Fri, 19 Oct 2007 11:11:47 +0200
+Subject: [Trinitas-main] Eintrag in Developer Forum
+Message-ID: <471874D3.5010607@oswald-cm.de>
+
+Hallo Leute,
+
+ich wollte Euch mitteilen, dass ich einen Beitrag
+(Thema Grafik) im Developer Forum er?ffnet habe.
+
+Es ist n?tig sich einzuloggen,
+um darauf zuzugreifen.
+
+
+Gru? und Segen Euch allen.
+Juergen
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071019/626b0716/attachment.html>
+
+From trinitas at oswald-crossmedia.de  Wed Oct 24 08:52:07 2007
+From: trinitas at oswald-crossmedia.de (Juergen Oswald)
+Date: Wed, 24 Oct 2007 08:52:07 +0200
+Subject: [Trinitas-main] =?iso-8859-15?q?Neue_Beitr=E4ge_im_Dev-Forum?=
+Message-ID: <471EEB97.10000@oswald-crossmedia.de>
+
+Hallo Leute,
+
+nur f?r den Fall, dass Ihr das Monitoring des Developer Forums
+nicht aktiviert habt, und somit auch nicht benachrichtigt werdet,
+wenn neue Beitr?ge reingestellt werden, schick ich Euch diese Mail.
+
+Also, ich habe neue Beitr?ge reingestellt
+und auch neue Daten per SVN hochgeladen.
+
+
+Gru? und Segen
+Juergen
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071024/13e991ea/attachment.html>
+

@@ -1,0 +1,621 @@
+From trinitas at oswald-crossmedia.de  Mon Nov  3 15:33:23 2008
+From: trinitas at oswald-crossmedia.de (Juergen Oswald)
+Date: Mon, 03 Nov 2008 15:33:23 +0100
+Subject: [Trinitas-main] wiedereinsteig
+In-Reply-To: <ce6499060810311539j59dc050bx6a45afc6195895c@mail.gmail.com>
+References: <944383059@web.de> <490599DE.5040703@oswald-crossmedia.de>
+	<ce6499060810311539j59dc050bx6a45afc6195895c@mail.gmail.com>
+Message-ID: <490F0BB3.6070601@oswald-crossmedia.de>
+
+Da im Forum niemand antwortet vlt mal so
+
+Zur Info
+Ich hab 3 - 4 Skizzen hochgeladen
+vlt schon mal. Bin nich mehr ganz auf dem laufenden.
+http://svn.berlios.de/svnroot/repos/trinitas/trunk/data/artwork/draft/Skizzen_jo
+
+
+TEXTUREN:
+es geht prim?r um Texturen f?r die Figuren.
+Also: Body, Kopf  bzw. Gesicht, H?nde, Beine, F?sse.
+
+Im Web find ich nix lizenzfreies.
+
+Kann jemand gut Fotografieren?
+Die K?rper, bzw. K?rperteile sollten von allen Seiten fotografiert werden,
+so dass eine Abwicklung erstellt werden kann.
+Min von 4 Seiten + oben und Unten.
+Das Licht sollte diffus sein => gleiches Licht von allen Seiten,
+so das keine harten Lichter oder Schatten auftreten.
+
+Gut w?re bei der Gelegenheit auch gleich noch Stoff mit Falten.
+Am besten Wei? oder Beige, auf jeden Fall einfarbig ohne Muster.
+Ausser es hat zuf?llig jemand ein paar Kleidungsst?cke
+aus der Zeit Jesu aus Pal?stina im Schrank h?ngen.
+Ansonsten tuts vtl. auch n Kleid oder n Stoff ?ber einen Gegenstand 
+geh?ngt.
+
+Aber vlt will ja auch jemand anders die Texturen machen.
+W?r ja auch ne M?glichkeit.
+
+Gru?
+Juergen
+
+
+
+Simon Ho? schrieb:
+> hmmm, viele viele Fragen :)
+> Ich w?rde denken das man sowas nur ?ber tests rausbekomt, wie das 
+> performance technisch aussieht! Ich bin der Meinung umso n?her an der 
+> Realit?t umso besser :) (stellt sich sowieso die Frage wie nahe man 
+> der Realit?t bei Toon Rendering kommen kann?! =)   )
+>
+> Am 27. Oktober 2008 11:37 schrieb Juergen Oswald 
+> <trinitas at oswald-crossmedia.de <mailto:trinitas at oswald-crossmedia.de>>:
+>
+>     Ich denke es nicht das Thema, ob das Kinn zu kantig ist oder nicht,
+>     denn das ist "Geschmacksache".
+>
+>     Wichtig ist, aus Informationen und Material etwas Eigenst?ndiges
+>     zu kreieren.
+>     Etwas mit eigener "Handschrift". Und m?glichst auch aus einem Guss.
+>     Und des is kein Pappenstiel!
+>
+>     Zu den Shadern:
+>     Werden da nur Shader zugewiesen, oder werden da auch Texturen
+>     ben?tigt,
+>     die mit diesen Shadern berechnet werden.
+>     Dann sollte man festlegen, wie die Texturen beschaffen sein sollen.
+>     Weil, wenn es ein einfacher Farbton is, dann wird doch gar keine
+>     Textur ben?tigt ! ? ? ?
+>     Z.B. Gesicht:
+>     Einfacher Farbton => Keine Textur n?tig
+>     Narbe im Gesicht => Textur
+>     Soll in dem Fall das Gesicht nur ein Farbton sein, oder auch
+>     Farbschattierungen aufweisen,
+>     was ja schon ein Schritt in Richtung Realismus ist. => Wo ist die
+>     Grenze ?
+>
+>
+>     Gru? und Segen
+>     Juergen
+>
+>
+>
+>
+>
+>     florian mann schrieb:
+>>>     -----Urspr?ngliche Nachricht-----
+>>>     Von: "Simon Ho?" <simonhoss at googlemail.com> <mailto:simonhoss at googlemail.com>
+>>>     Gesendet: 25.10.08 21:52:49
+>>>     An: trinitas-main at lists.berlios.de <mailto:trinitas-main at lists.berlios.de>
+>>>     Betreff: Re: [Trinitas-main] wiedereinsteig
+>>>         
+>>       
+>>>     wo sehr gut gezeichnet! Mir gef?llt das sehr gut, nur ist das Gesicht 
+>>>     f?r mein Geschmack ein bisschen makant vll. m?sste das Gesicht ein 
+>>>     bisschen weicher (z.B. das Kinn!)
+>>>
+>>>
+>>>     2008/10/25 florian mann <der-erbe-saurons at web.de> <mailto:der-erbe-saurons at web.de>
+>>>
+>>>         
+>>>>     -----Urspr?ngliche Nachricht-----
+>>>>           
+>>>      > Von: "Paradoxon" <dev at projectconceptor.de> <mailto:dev at projectconceptor.de>
+>>>         
+>>>>     Gesendet: 25.10.08 17:53:04
+>>>>           
+>>>>     An: trinitas-main at lists.berlios.de <mailto:trinitas-main at lists.berlios.de>
+>>>>           
+>>>      > Betreff: Re: [Trinitas-main] wiedereinsteig
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>         
+>>>>     Jo das Passiert, wenn man im Stress administriert,
+>>>>           
+>>>      > der Contentfilter war drin, wollte damit e-mail adressen "
+>>>     autofiltern"
+>>>      > lassen
+>>>      > damit ihr keine Spams bekommt,
+>>>      >
+>>>      > leider filter der auch standartm??ig anh?nge raus (obwohl ich das
+>>>      > rausgenommen hatt)
+>>>      > hatte wohl vergessen den ?bernehemen button zu dr?cken.
+>>>      >
+>>>      > so sorry..
+>>>      > also auf ein drittes ;-)
+>>>      >
+>>>      > Boar aber jetzt muss ich aber wirklich arbeiten
+>>>      > ab Montag bin ich ne Woche weg..
+>>>      > und bis dahin muss Gottesdienst vorbereiten!
+>>>      > also kommt von meiner Seite ersteinmal wenig
+>>>      > jetzt
+>>>      > gby
+>>>      > Matthias
+>>>      > _______________________________________________
+>>>      > Trinitas-main mailing list
+>>>      > Trinitas-main at lists.berlios.de <mailto:Trinitas-main at lists.berlios.de>
+>>>      > https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>>      >
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>     _____________________________________________________________________
+>>>      Der WEB.DE <http://WEB.DE> SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!
+>>>     http://smartsurfer.web.de/?mc=100071&distributionid=000000000066 <http://smartsurfer.web.de/?mc=100071&distributionid=000000000066>
+>>>
+>>>
+>>>     _______________________________________________
+>>>      Trinitas-main mailing list
+>>>     Trinitas-main at lists.berlios.de <mailto:Trinitas-main at lists.berlios.de>
+>>>     https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>>
+>>>
+>>>      _______________________________________________ Trinitas-main 
+>>>     mailing list Trinitas-main at lists.berlios.de <mailto:Trinitas-main at lists.berlios.de> https://lists.berlios.de/
+>>>
+>>>     mailman/listinfo/trinitas-main 
+>>>         
+>>     was mich jetzt noch interessieren w?rde... ist einer von euch game-designer von beruf oder in dem gew?rbe zuhause? ist n?hmlich so nen ziehmlicher traumberuf von mir... und bin auf der suche nach informationen ...
+>>     ____________________________________________________________________
+>>     Psssst! Schon vom neuen WEB.DE <http://WEB.DE> MultiMessenger geh?rt? 
+>>     Der kann`s mit allen: http://www.produkte.web.de/messenger/?did=3123
+>>
+>>     _______________________________________________
+>>     Trinitas-main mailing list
+>>     Trinitas-main at lists.berlios.de <mailto:Trinitas-main at lists.berlios.de>
+>>     https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>
+>>       
+>
+>
+>     _______________________________________________
+>     Trinitas-main mailing list
+>     Trinitas-main at lists.berlios.de <mailto:Trinitas-main at lists.berlios.de>
+>     https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+> ------------------------------------------------------------------------
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>   
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081103/de2b2f43/attachment.html>
+
+From simonhoss at googlemail.com  Mon Nov  3 19:35:17 2008
+From: simonhoss at googlemail.com (=?ISO-8859-1?Q?Simon_Ho=DF?=)
+Date: Mon, 3 Nov 2008 19:35:17 +0100
+Subject: [Trinitas-main] wiedereinsteig
+In-Reply-To: <490F0BB3.6070601@oswald-crossmedia.de>
+References: <944383059@web.de> <490599DE.5040703@oswald-crossmedia.de>
+	<ce6499060810311539j59dc050bx6a45afc6195895c@mail.gmail.com>
+	<490F0BB3.6070601@oswald-crossmedia.de>
+Message-ID: <ce6499060811031035m5ed149b3u6a8e8d1471734f09@mail.gmail.com>
+
+ich kann mit sowas leider nicht dienen, aber falls mal Landschafts/Stein
+oder Metall Texturen ben?tigt werden, kann ich da was liefern!
+
+Leider habe ich auch keine Kamera :(
+
+Gr??le
+
+Am 3. November 2008 15:33 schrieb Juergen Oswald <
+trinitas at oswald-crossmedia.de>:
+
+>  Da im Forum niemand antwortet vlt mal so
+>
+> Zur Info
+> Ich hab 3 - 4 Skizzen hochgeladen
+> vlt schon mal. Bin nich mehr ganz auf dem laufenden.
+>
+> http://svn.berlios.de/svnroot/repos/trinitas/trunk/data/artwork/draft/Skizzen_jo
+>
+>
+> TEXTUREN:
+> es geht prim?r um Texturen f?r die Figuren.
+> Also: Body, Kopf  bzw. Gesicht, H?nde, Beine, F?sse.
+>
+> Im Web find ich nix lizenzfreies.
+>
+> Kann jemand gut Fotografieren?
+> Die K?rper, bzw. K?rperteile sollten von allen Seiten fotografiert werden,
+> so dass eine Abwicklung erstellt werden kann.
+> Min von 4 Seiten + oben und Unten.
+> Das Licht sollte diffus sein => gleiches Licht von allen Seiten,
+> so das keine harten Lichter oder Schatten auftreten.
+>
+> Gut w?re bei der Gelegenheit auch gleich noch Stoff mit Falten.
+> Am besten Wei? oder Beige, auf jeden Fall einfarbig ohne Muster.
+> Ausser es hat zuf?llig jemand ein paar Kleidungsst?cke
+> aus der Zeit Jesu aus Pal?stina im Schrank h?ngen.
+> Ansonsten tuts vtl. auch n Kleid oder n Stoff ?ber einen Gegenstand
+> geh?ngt.
+>
+> Aber vlt will ja auch jemand anders die Texturen machen.
+> W?r ja auch ne M?glichkeit.
+>
+> Gru?
+> Juergen
+>
+>
+>
+> Simon Ho? schrieb:
+>
+> hmmm, viele viele Fragen :)
+> Ich w?rde denken das man sowas nur ?ber tests rausbekomt, wie das
+> performance technisch aussieht! Ich bin der Meinung umso n?her an der
+> Realit?t umso besser :) (stellt sich sowieso die Frage wie nahe man der
+> Realit?t bei Toon Rendering kommen kann?! =)   )
+>
+> Am 27. Oktober 2008 11:37 schrieb Juergen Oswald <
+> trinitas at oswald-crossmedia.de>:
+>
+>> Ich denke es nicht das Thema, ob das Kinn zu kantig ist oder nicht,
+>> denn das ist "Geschmacksache".
+>>
+>> Wichtig ist, aus Informationen und Material etwas Eigenst?ndiges zu
+>> kreieren.
+>> Etwas mit eigener "Handschrift". Und m?glichst auch aus einem Guss.
+>> Und des is kein Pappenstiel!
+>>
+>> Zu den Shadern:
+>> Werden da nur Shader zugewiesen, oder werden da auch Texturen ben?tigt,
+>> die mit diesen Shadern berechnet werden.
+>> Dann sollte man festlegen, wie die Texturen beschaffen sein sollen.
+>> Weil, wenn es ein einfacher Farbton is, dann wird doch gar keine Textur
+>> ben?tigt ! ? ? ?
+>> Z.B. Gesicht:
+>> Einfacher Farbton => Keine Textur n?tig
+>> Narbe im Gesicht => Textur
+>> Soll in dem Fall das Gesicht nur ein Farbton sein, oder auch
+>> Farbschattierungen aufweisen,
+>> was ja schon ein Schritt in Richtung Realismus ist. => Wo ist die Grenze ?
+>>
+>>
+>>
+>> Gru? und Segen
+>> Juergen
+>>
+>>
+>>
+>>
+>>
+>> florian mann schrieb:
+>>
+>>  -----Urspr?ngliche Nachricht-----
+>> Von: "Simon Ho?" <simonhoss at googlemail.com> <simonhoss at googlemail.com>
+>> Gesendet: 25.10.08 21:52:49
+>> An: trinitas-main at lists.berlios.de
+>> Betreff: Re: [Trinitas-main] wiedereinsteig
+>>
+>>
+>>     wo sehr gut gezeichnet! Mir gef?llt das sehr gut, nur ist das Gesicht
+>> f?r mein Geschmack ein bisschen makant vll. m?sste das Gesicht ein
+>> bisschen weicher (z.B. das Kinn!)
+>>
+>>
+>> 2008/10/25 florian mann <der-erbe-saurons at web.de> <der-erbe-saurons at web.de>
+>>
+>>      -----Urspr?ngliche Nachricht-----
+>>
+>>
+>>   > Von: "Paradoxon" <dev at projectconceptor.de> <dev at projectconceptor.de>
+>>
+>>  Gesendet: 25.10.08 17:53:04
+>>
+>>
+>>  An: trinitas-main at lists.berlios.de
+>>
+>>   > Betreff: Re: [Trinitas-main] wiedereinsteig
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>  Jo das Passiert, wenn man im Stress administriert,
+>>
+>>
+>>   > der Contentfilter war drin, wollte damit e-mail adressen "
+>> autofiltern"
+>>  > lassen
+>>  > damit ihr keine Spams bekommt,
+>>  >
+>>  > leider filter der auch standartm??ig anh?nge raus (obwohl ich das
+>>  > rausgenommen hatt)
+>>  > hatte wohl vergessen den ?bernehemen button zu dr?cken.
+>>  >
+>>  > so sorry..
+>>  > also auf ein drittes ;-)
+>>  >
+>>  > Boar aber jetzt muss ich aber wirklich arbeiten
+>>  > ab Montag bin ich ne Woche weg..
+>>  > und bis dahin muss Gottesdienst vorbereiten!
+>>  > also kommt von meiner Seite ersteinmal wenig
+>>  > jetzt
+>>  > gby
+>>  > Matthias
+>>  > _______________________________________________
+>>  > Trinitas-main mailing list
+>>  > Trinitas-main at lists.berlios.de
+>>  > https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>  >
+>>
+>>
+>>
+>>
+>>
+>> _____________________________________________________________________
+>>  Der WEB.DE SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!http://smartsurfer.web.de/?mc=100071&distributionid=000000000066
+>>
+>>
+>> _______________________________________________
+>>  Trinitas-main mailing listTrinitas-main at lists.berlios.dehttps://lists.berlios.de/mailman/listinfo/trinitas-main
+>>
+>>
+>>  _______________________________________________ Trinitas-main
+>> mailing list Trinitas-main at lists.berlios.de https://lists.berlios.de/
+>>
+>> mailman/listinfo/trinitas-main
+>>
+>>
+>>  was mich jetzt noch interessieren w?rde... ist einer von euch game-designer von beruf oder in dem gew?rbe zuhause? ist n?hmlich so nen ziehmlicher traumberuf von mir... und bin auf der suche nach informationen ...
+>> ____________________________________________________________________
+>> Psssst! Schon vom neuen WEB.DE MultiMessenger geh?rt?
+>> Der kann`s mit allen: http://www.produkte.web.de/messenger/?did=3123
+>>
+>> _______________________________________________
+>> Trinitas-main mailing listTrinitas-main at lists.berlios.dehttps://lists.berlios.de/mailman/listinfo/trinitas-main
+>>
+>>
+>>
+>> _______________________________________________
+>> Trinitas-main mailing list
+>> Trinitas-main at lists.berlios.de
+>> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>
+>>
+> ------------------------------
+>
+> _______________________________________________
+> Trinitas-main mailing listTrinitas-main at lists.berlios.dehttps://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081103/9acbe0d6/attachment.html>
+
+From ichthys1 at jesus.de  Mon Nov  3 21:03:04 2008
+From: ichthys1 at jesus.de (Jannis Froese)
+Date: Mon, 3 Nov 2008 21:03:04 +0100
+Subject: [Trinitas-main] wiedereinsteig
+In-Reply-To: <490F0BB3.6070601@oswald-crossmedia.de>
+References: <944383059@web.de> <490599DE.5040703@oswald-crossmedia.de>
+	<ce6499060810311539j59dc050bx6a45afc6195895c@mail.gmail.com>
+	<490F0BB3.6070601@oswald-crossmedia.de>
+Message-ID: <15c4e6840811031203l26498b2bp17142bc6a8020f0@mail.gmail.com>
+
+Die Skizzen sehen echt gut aus.
+
+Texturen k?nnte ich vielleicht ein paar machen, aber da ich mit dem diffusen
+Licht bei mir ein paar Probleme habe, eher nur Stoff oder ?hnliches. Ich
+werde mal sehen, was bei mir so m?glich ist. Aber mit K?rper wird das wohl
+eher nichts.
+
+Gr??e
+ichthys1
+
+
+Am 3. November 2008 15:33 schrieb Juergen Oswald <
+trinitas at oswald-crossmedia.de>:
+
+>  Da im Forum niemand antwortet vlt mal so
+>
+> Zur Info
+> Ich hab 3 - 4 Skizzen hochgeladen
+> vlt schon mal. Bin nich mehr ganz auf dem laufenden.
+>
+> http://svn.berlios.de/svnroot/repos/trinitas/trunk/data/artwork/draft/Skizzen_jo
+>
+>
+> TEXTUREN:
+> es geht prim?r um Texturen f?r die Figuren.
+> Also: Body, Kopf  bzw. Gesicht, H?nde, Beine, F?sse.
+>
+> Im Web find ich nix lizenzfreies.
+>
+> Kann jemand gut Fotografieren?
+> Die K?rper, bzw. K?rperteile sollten von allen Seiten fotografiert werden,
+> so dass eine Abwicklung erstellt werden kann.
+> Min von 4 Seiten + oben und Unten.
+> Das Licht sollte diffus sein => gleiches Licht von allen Seiten,
+> so das keine harten Lichter oder Schatten auftreten.
+>
+> Gut w?re bei der Gelegenheit auch gleich noch Stoff mit Falten.
+> Am besten Wei? oder Beige, auf jeden Fall einfarbig ohne Muster.
+> Ausser es hat zuf?llig jemand ein paar Kleidungsst?cke
+> aus der Zeit Jesu aus Pal?stina im Schrank h?ngen.
+> Ansonsten tuts vtl. auch n Kleid oder n Stoff ?ber einen Gegenstand
+> geh?ngt.
+>
+> Aber vlt will ja auch jemand anders die Texturen machen.
+> W?r ja auch ne M?glichkeit.
+>
+> Gru?
+> Juergen
+>
+>
+>
+> Simon Ho? schrieb:
+>
+> hmmm, viele viele Fragen :)
+> Ich w?rde denken das man sowas nur ?ber tests rausbekomt, wie das
+> performance technisch aussieht! Ich bin der Meinung umso n?her an der
+> Realit?t umso besser :) (stellt sich sowieso die Frage wie nahe man der
+> Realit?t bei Toon Rendering kommen kann?! =)   )
+>
+> Am 27. Oktober 2008 11:37 schrieb Juergen Oswald <
+> trinitas at oswald-crossmedia.de>:
+>
+>> Ich denke es nicht das Thema, ob das Kinn zu kantig ist oder nicht,
+>> denn das ist "Geschmacksache".
+>>
+>> Wichtig ist, aus Informationen und Material etwas Eigenst?ndiges zu
+>> kreieren.
+>> Etwas mit eigener "Handschrift". Und m?glichst auch aus einem Guss.
+>> Und des is kein Pappenstiel!
+>>
+>> Zu den Shadern:
+>> Werden da nur Shader zugewiesen, oder werden da auch Texturen ben?tigt,
+>> die mit diesen Shadern berechnet werden.
+>> Dann sollte man festlegen, wie die Texturen beschaffen sein sollen.
+>> Weil, wenn es ein einfacher Farbton is, dann wird doch gar keine Textur
+>> ben?tigt ! ? ? ?
+>> Z.B. Gesicht:
+>> Einfacher Farbton => Keine Textur n?tig
+>> Narbe im Gesicht => Textur
+>> Soll in dem Fall das Gesicht nur ein Farbton sein, oder auch
+>> Farbschattierungen aufweisen,
+>> was ja schon ein Schritt in Richtung Realismus ist. => Wo ist die Grenze ?
+>>
+>>
+>>
+>> Gru? und Segen
+>> Juergen
+>>
+>>
+>>
+>>
+>>
+>> florian mann schrieb:
+>>
+>>  -----Urspr?ngliche Nachricht-----
+>> Von: "Simon Ho?" <simonhoss at googlemail.com> <simonhoss at googlemail.com>
+>> Gesendet: 25.10.08 21:52:49
+>> An: trinitas-main at lists.berlios.de
+>> Betreff: Re: [Trinitas-main] wiedereinsteig
+>>
+>>
+>>     wo sehr gut gezeichnet! Mir gef?llt das sehr gut, nur ist das Gesicht
+>> f?r mein Geschmack ein bisschen makant vll. m?sste das Gesicht ein
+>> bisschen weicher (z.B. das Kinn!)
+>>
+>>
+>> 2008/10/25 florian mann <der-erbe-saurons at web.de> <der-erbe-saurons at web.de>
+>>
+>>      -----Urspr?ngliche Nachricht-----
+>>
+>>
+>>   > Von: "Paradoxon" <dev at projectconceptor.de> <dev at projectconceptor.de>
+>>
+>>  Gesendet: 25.10.08 17:53:04
+>>
+>>
+>>  An: trinitas-main at lists.berlios.de
+>>
+>>   > Betreff: Re: [Trinitas-main] wiedereinsteig
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>  Jo das Passiert, wenn man im Stress administriert,
+>>
+>>
+>>   > der Contentfilter war drin, wollte damit e-mail adressen "
+>> autofiltern"
+>>  > lassen
+>>  > damit ihr keine Spams bekommt,
+>>  >
+>>  > leider filter der auch standartm??ig anh?nge raus (obwohl ich das
+>>  > rausgenommen hatt)
+>>  > hatte wohl vergessen den ?bernehemen button zu dr?cken.
+>>  >
+>>  > so sorry..
+>>  > also auf ein drittes ;-)
+>>  >
+>>  > Boar aber jetzt muss ich aber wirklich arbeiten
+>>  > ab Montag bin ich ne Woche weg..
+>>  > und bis dahin muss Gottesdienst vorbereiten!
+>>  > also kommt von meiner Seite ersteinmal wenig
+>>  > jetzt
+>>  > gby
+>>  > Matthias
+>>  > _______________________________________________
+>>  > Trinitas-main mailing list
+>>  > Trinitas-main at lists.berlios.de
+>>  > https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>  >
+>>
+>>
+>>
+>>
+>>
+>> _____________________________________________________________________
+>>  Der WEB.DE SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!http://smartsurfer.web.de/?mc=100071&distributionid=000000000066
+>>
+>>
+>> _______________________________________________
+>>  Trinitas-main mailing listTrinitas-main at lists.berlios.dehttps://lists.berlios.de/mailman/listinfo/trinitas-main
+>>
+>>
+>>  _______________________________________________ Trinitas-main
+>> mailing list Trinitas-main at lists.berlios.de https://lists.berlios.de/
+>>
+>> mailman/listinfo/trinitas-main
+>>
+>>
+>>  was mich jetzt noch interessieren w?rde... ist einer von euch game-designer von beruf oder in dem gew?rbe zuhause? ist n?hmlich so nen ziehmlicher traumberuf von mir... und bin auf der suche nach informationen ...
+>> ____________________________________________________________________
+>> Psssst! Schon vom neuen WEB.DE MultiMessenger geh?rt?
+>> Der kann`s mit allen: http://www.produkte.web.de/messenger/?did=3123
+>>
+>> _______________________________________________
+>> Trinitas-main mailing listTrinitas-main at lists.berlios.dehttps://lists.berlios.de/mailman/listinfo/trinitas-main
+>>
+>>
+>>
+>> _______________________________________________
+>> Trinitas-main mailing list
+>> Trinitas-main at lists.berlios.de
+>> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>
+>>
+> ------------------------------
+>
+> _______________________________________________
+> Trinitas-main mailing listTrinitas-main at lists.berlios.dehttps://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081103/057003ca/attachment.html>
+

@@ -1,0 +1,611 @@
+From ichthys1 at jesus.de  Tue Dec 11 18:40:24 2007
+From: ichthys1 at jesus.de (Jannis Froese)
+Date: Tue, 11 Dec 2007 18:40:24 +0100
+Subject: [Trinitas-main] PluginLoader unter Linux
+Message-ID: <15c4e6840712110940x2bde8b7ta66cbe6d805a6385@mail.gmail.com>
+
+Hi,
+Ich habe heute versucht, die aktuelle Version des PluginLoaders unter Linux
+mit Code::Blocks (Version svn4680) zu compilieren.
+Dabei habe ich zwei Fehler erhalten. Vielleicht habe ich auch nur vergessen
+ein Verzeichnis in der Einstellungen anzugeben, aber das bezweifele ich.
+Hier mein Build Log:
+
+
+-------------- Build: default in PluginLoader ---------------
+
+Linking console executable: PluginLoader
+.objs/PluginLoader.o: In function `PluginLoader::LoadPlugin(char*)':
+/home/ichthys1/trinitas/trunk/tests/pluginTest/PluginLoader.cpp:118:
+undefined reference to `dlopen'
+/home/ichthys1/trinitas/trunk/tests/pluginTest/PluginLoader.cpp:125:
+undefined reference to `dlsym'
+collect2: ld gab 1 als Ende-Status zur?ck
+Process terminated with status 1 (0 minutes, 0 seconds)
+2 errors, 0 warnings
+
+Ich bin kein C++ Experte, von daher meine Frage: Was stimmt am Code nicht?
+Fehlt ein Include?
+
+Jannis
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071211/3c5a1fc1/attachment.html>
+
+From simonhoss at googlemail.com  Tue Dec 11 20:14:57 2007
+From: simonhoss at googlemail.com (=?ISO-8859-1?Q?Simon_Ho=DF?=)
+Date: Tue, 11 Dec 2007 20:14:57 +0100
+Subject: [Trinitas-main] PluginLoader unter Linux
+In-Reply-To: <15c4e6840712110940x2bde8b7ta66cbe6d805a6385@mail.gmail.com>
+References: <15c4e6840712110940x2bde8b7ta66cbe6d805a6385@mail.gmail.com>
+Message-ID: <ce6499060712111114n2abd0175xd89dd402628fee63@mail.gmail.com>
+
+du brauchst noch eine library... such mal nach libdl.a oder libdl.so und gib
+die im linker mit an!
+
+2007/12/11, Jannis Froese <ichthys1 at jesus.de>:
+>
+> Hi,
+> Ich habe heute versucht, die aktuelle Version des PluginLoaders unter
+> Linux mit Code::Blocks (Version svn4680) zu compilieren.
+> Dabei habe ich zwei Fehler erhalten. Vielleicht habe ich auch nur
+> vergessen ein Verzeichnis in der Einstellungen anzugeben, aber das
+> bezweifele ich.
+> Hier mein Build Log:
+>
+>
+> -------------- Build: default in PluginLoader ---------------
+>
+> Linking console executable: PluginLoader
+> .objs/PluginLoader.o: In function `PluginLoader::LoadPlugin(char*)':
+> /home/ichthys1/trinitas/trunk/tests/pluginTest/PluginLoader.cpp:118:
+> undefined reference to `dlopen'
+> /home/ichthys1/trinitas/trunk/tests/pluginTest/PluginLoader.cpp:125:
+> undefined reference to `dlsym'
+> collect2: ld gab 1 als Ende-Status zur?ck
+> Process terminated with status 1 (0 minutes, 0 seconds)
+> 2 errors, 0 warnings
+>
+> Ich bin kein C++ Experte, von daher meine Frage: Was stimmt am Code nicht?
+> Fehlt ein Include?
+>
+> Jannis
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071211/b3c9ad35/attachment.html>
+
+From ichthys1 at jesus.de  Fri Dec 14 13:33:07 2007
+From: ichthys1 at jesus.de (Jannis Froese)
+Date: Fri, 14 Dec 2007 13:33:07 +0100
+Subject: [Trinitas-main] PluginLoader unter Linux
+In-Reply-To: <ce6499060712111114n2abd0175xd89dd402628fee63@mail.gmail.com>
+References: <15c4e6840712110940x2bde8b7ta66cbe6d805a6385@mail.gmail.com>
+	<ce6499060712111114n2abd0175xd89dd402628fee63@mail.gmail.com>
+Message-ID: <15c4e6840712140433w710d694ewdef049ba9961084@mail.gmail.com>
+
+Danke f?r den Tipp. Funktioniert jetzt einwandfrei (zumindest das Compilen).
+Dann kommen wir ja schon zum ausf?hren des Programms. Da ist eigentlich mehr
+gedacht als folgendes, oder?
+
+Searching Plugin in:    Plugins
+> hier!
+> try to load:    ..
+> loading: ... Plugins/..
+> try to load:    .
+> loading: ... Plugins/.
+> try to load:    .svn
+> loading: ... Plugins/.svn
+> try to load:    FirstPlugin.so
+> loading: ... Plugins/FirstPlugin.so
+> Libhandle found
+> terminate called after throwing an instance of 'std::out_of_range'
+>   what():  vector::_M_range_check
+> Aborted (core dumped)
+>
+
+Was w?rdet ihr denn dazu sagen?
+
+Jannis
+2007/12/11, Simon Ho? <simonhoss at googlemail.com>:
+>
+> du brauchst noch eine library... such mal nach libdl.a oder libdl.so und
+> gib die im linker mit an!
+>
+> 2007/12/11, Jannis Froese <ichthys1 at jesus.de >:
+> >
+> > Hi,
+> > Ich habe heute versucht, die aktuelle Version des PluginLoaders unter
+> > Linux mit Code::Blocks (Version svn4680) zu compilieren.
+> > Dabei habe ich zwei Fehler erhalten. Vielleicht habe ich auch nur
+> > vergessen ein Verzeichnis in der Einstellungen anzugeben, aber das
+> > bezweifele ich.
+> > Hier mein Build Log:
+> >
+> >
+> > -------------- Build: default in PluginLoader ---------------
+> >
+> > Linking console executable: PluginLoader
+> > .objs/PluginLoader.o: In function `PluginLoader::LoadPlugin(char*)':
+> > /home/ichthys1/trinitas/trunk/tests/pluginTest/PluginLoader.cpp:118:
+> > undefined reference to `dlopen'
+> > /home/ichthys1/trinitas/trunk/tests/pluginTest/PluginLoader.cpp:125:
+> > undefined reference to `dlsym'
+> > collect2: ld gab 1 als Ende-Status zur?ck
+> > Process terminated with status 1 (0 minutes, 0 seconds)
+> > 2 errors, 0 warnings
+> >
+> > Ich bin kein C++ Experte, von daher meine Frage: Was stimmt am Code
+> > nicht? Fehlt ein Include?
+> >
+> > Jannis
+> >
+> > _______________________________________________
+> > Trinitas-main mailing list
+> > Trinitas-main at lists.berlios.de
+> > https://lists.berlios.de/mailman/listinfo/trinitas-main
+> >
+> >
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071214/ce7d6d79/attachment.html>
+
+From ichthys1 at jesus.de  Fri Dec 14 14:40:50 2007
+From: ichthys1 at jesus.de (Jannis Froese)
+Date: Fri, 14 Dec 2007 14:40:50 +0100
+Subject: [Trinitas-main] PluginLoader unter Linux
+In-Reply-To: <15c4e6840712140433w710d694ewdef049ba9961084@mail.gmail.com>
+References: <15c4e6840712110940x2bde8b7ta66cbe6d805a6385@mail.gmail.com>
+	<ce6499060712111114n2abd0175xd89dd402628fee63@mail.gmail.com>
+	<15c4e6840712140433w710d694ewdef049ba9961084@mail.gmail.com>
+Message-ID: <15c4e6840712140540v290e84a2r30af7832b0bedbee@mail.gmail.com>
+
+Ich habe mal geschaut, wann die letzte "erw?nschte" Ausgabe kommt, und bin
+auf diesen Abschnitt gekommen:
+
+TrinitasPlugin* PluginLoader::LoadPlugin(char *file) {
+>     TrinitasPlugin  *loadedPlugin = NULL;
+>     #ifndef WIN32
+>         cout << "loading: ... " << file <<std::endl;
+>         void* libraryHandle = dlopen(file, RTLD_LAZY);
+>         if (libraryHandle != NULL) {
+>             cout << "Libhandle found" << std::endl;
+>             //using typedef to define a Functiontemplate for the loaded
+> symbols
+>             typedef TrinitasPlugin* (*pluginFunction)(long);
+>             //using the functionvar the Plugin as referrence
+>             pluginFunction thePlugin;
+>             thePlugin = (pluginFunction) dlsym(libraryHandle, "s");
+>             if (thePlugin != NULL) {
+>                 cout << "symbol loaded" << file <<std::endl;
+>                 //call getPlugin with the actual ID
+>                 loadedPlugin = thePlugin(mPlugins->size()+1);
+>                 cout << loadedPlugin->GetName() << " Calling Do() ";
+>                 loadedPlugin->Do();
+>                 cout << std::endl;
+>             }
+>
+>         }
+>        // dlclose(libraryHandle);
+>     #else // Windwos stuff
+>        [...]
+>     #endif
+>      return loadedPlugin;
+>  }
+
+
+Dabei ist allerdings thePlugin auch nach der Zeile "thePlugin =
+(pluginFunction) dlsym(libraryHandle, "s");" gleich NULL.
+Aber mich bringt das immer noch nicht so recht weiter.
+Hat einer von euch eine Idee. Ich bin ja bekanntlich noch nicht so der C++
+Experte.
+
+Jannis
+
+
+2007/12/14, Jannis Froese <ichthys1 at jesus.de>:
+>
+> Danke f?r den Tipp. Funktioniert jetzt einwandfrei (zumindest das
+> Compilen).
+> Dann kommen wir ja schon zum ausf?hren des Programms. Da ist eigentlich
+> mehr gedacht als folgendes, oder?
+>
+> Searching Plugin in:    Plugins
+> > hier!
+> > try to load:    ..
+> > loading: ... Plugins/..
+> > try to load:    .
+> > loading: ... Plugins/.
+> > try to load:    .svn
+> > loading: ... Plugins/.svn
+> > try to load:    FirstPlugin.so
+> > loading: ... Plugins/FirstPlugin.so
+> > Libhandle found
+> > terminate called after throwing an instance of 'std::out_of_range'
+> >   what():  vector::_M_range_check
+> > Aborted (core dumped)
+> >
+>
+> Was w?rdet ihr denn dazu sagen?
+>
+> Jannis
+> 2007/12/11, Simon Ho? <simonhoss at googlemail.com>:
+> >
+> > du brauchst noch eine library... such mal nach libdl.a oder libdl.so und
+> > gib die im linker mit an!
+> >
+> > 2007/12/11, Jannis Froese < ichthys1 at jesus.de >:
+> > >
+> > > Hi,
+> > > Ich habe heute versucht, die aktuelle Version des PluginLoaders unter
+> > > Linux mit Code::Blocks (Version svn4680) zu compilieren.
+> > > Dabei habe ich zwei Fehler erhalten. Vielleicht habe ich auch nur
+> > > vergessen ein Verzeichnis in der Einstellungen anzugeben, aber das
+> > > bezweifele ich.
+> > > Hier mein Build Log:
+> > >
+> > >
+> > > -------------- Build: default in PluginLoader ---------------
+> > >
+> > > Linking console executable: PluginLoader
+> > > .objs/PluginLoader.o: In function `PluginLoader::LoadPlugin(char*)':
+> > > /home/ichthys1/trinitas/trunk/tests/pluginTest/PluginLoader.cpp:118:
+> > > undefined reference to `dlopen'
+> > > /home/ichthys1/trinitas/trunk/tests/pluginTest/PluginLoader.cpp:125:
+> > > undefined reference to `dlsym'
+> > > collect2: ld gab 1 als Ende-Status zur?ck
+> > > Process terminated with status 1 (0 minutes, 0 seconds)
+> > > 2 errors, 0 warnings
+> > >
+> > > Ich bin kein C++ Experte, von daher meine Frage: Was stimmt am Code
+> > > nicht? Fehlt ein Include?
+> > >
+> > > Jannis
+> > >
+> > > _______________________________________________
+> > > Trinitas-main mailing list
+> > > Trinitas-main at lists.berlios.de
+> > > https://lists.berlios.de/mailman/listinfo/trinitas-main
+> > >
+> > >
+> >
+> > _______________________________________________
+> > Trinitas-main mailing list
+> > Trinitas-main at lists.berlios.de
+> > https://lists.berlios.de/mailman/listinfo/trinitas-main
+> >
+> >
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071214/03b616b2/attachment.html>
+
+From mail at projectconceptor.de  Fri Dec 14 21:11:48 2007
+From: mail at projectconceptor.de (Paradoxon)
+Date: Fri, 14 Dec 2007 21:11:48 +0100
+Subject: [Trinitas-main] PluginLoader unter Linux
+In-Reply-To: <15c4e6840712140540v290e84a2r30af7832b0bedbee@mail.gmail.com>
+References: <15c4e6840712110940x2bde8b7ta66cbe6d805a6385@mail.gmail.com>	<ce6499060712111114n2abd0175xd89dd402628fee63@mail.gmail.com>	<15c4e6840712140433w710d694ewdef049ba9961084@mail.gmail.com>
+	<15c4e6840712140540v290e84a2r30af7832b0bedbee@mail.gmail.com>
+Message-ID: <4762E384.4070605@projectconceptor.de>
+
+He Janni,
+
+tausend Dank f?r dein Testen von dem Pluginsystem ! Echt genial!
+
+Jo :)
+Soweit bin ich auch unter Mac :)
+Das Problem d?rfte beim erstellen der Lib sein, dass das getPlugin 
+Symbol nicht ordnungsgem?? exportiert wird...
+muss mal schauen woran es liegt.. Wennn ich Zeit hab
+
+gby
+MAtthias
+
+Jannis Froese schrieb:
+> Ich habe mal geschaut, wann die letzte "erw?nschte" Ausgabe kommt, und 
+> bin auf diesen Abschnitt gekommen:
+>
+>     TrinitasPlugin* PluginLoader::LoadPlugin(char *file) {
+>         TrinitasPlugin  *loadedPlugin = NULL;
+>         #ifndef WIN32
+>             cout << "loading: ... " << file <<std::endl;
+>             void* libraryHandle = dlopen(file, RTLD_LAZY);
+>             if (libraryHandle != NULL) {
+>                 cout << "Libhandle found" << std::endl;
+>                 //using typedef to define a Functiontemplate for the
+>     loaded symbols
+>                 typedef TrinitasPlugin* (*pluginFunction)(long);
+>                 //using the functionvar the Plugin as referrence
+>                 pluginFunction thePlugin;
+>                 thePlugin = (pluginFunction) dlsym(libraryHandle, "s");
+>                 if (thePlugin != NULL) {
+>                     cout << "symbol loaded" << file <<std::endl;
+>                     //call getPlugin with the actual ID
+>                     loadedPlugin = thePlugin(mPlugins->size()+1);
+>                     cout << loadedPlugin->GetName() << " Calling Do() ";
+>                     loadedPlugin->Do();
+>                     cout << std::endl;
+>                 }
+>
+>             }
+>            // dlclose(libraryHandle);
+>         #else // Windwos stuff
+>            [...]
+>         #endif
+>          return loadedPlugin;
+>      }
+>
+>
+> Dabei ist allerdings thePlugin auch nach der Zeile "thePlugin = 
+> (pluginFunction) dlsym(libraryHandle, "s");" gleich NULL.
+> Aber mich bringt das immer noch nicht so recht weiter.
+> Hat einer von euch eine Idee. Ich bin ja bekanntlich noch nicht so der 
+> C++ Experte.
+>
+> Jannis
+>
+>
+> 2007/12/14, Jannis Froese <ichthys1 at jesus.de <mailto:ichthys1 at jesus.de>>:
+>
+>     Danke f?r den Tipp. Funktioniert jetzt einwandfrei (zumindest das
+>     Compilen).
+>     Dann kommen wir ja schon zum ausf?hren des Programms. Da ist
+>     eigentlich mehr gedacht als folgendes, oder?
+>
+>         Searching Plugin in:    Plugins
+>         hier!
+>         try to load:    ..
+>         loading: ... Plugins/..
+>         try to load:    .
+>         loading: ... Plugins/.
+>         try to load:    .svn
+>         loading: ... Plugins/.svn
+>         try to load:    FirstPlugin.so
+>         loading: ... Plugins/FirstPlugin.so
+>         Libhandle found
+>         terminate called after throwing an instance of 'std::out_of_range'
+>           what():  vector::_M_range_check
+>         Aborted (core dumped)
+>
+>
+>     Was w?rdet ihr denn dazu sagen?
+>
+>     Jannis
+>     2007/12/11, Simon Ho? <simonhoss at googlemail.com
+>     <mailto:simonhoss at googlemail.com>>:
+>
+>         du brauchst noch eine library... such mal nach libdl.a oder
+>         libdl.so und gib die im linker mit an!
+>
+>         2007/12/11, Jannis Froese < ichthys1 at jesus.de
+>         <mailto:ichthys1 at jesus.de> >:
+>
+>             Hi,
+>             Ich habe heute versucht, die aktuelle Version des
+>             PluginLoaders unter Linux mit Code::Blocks (Version
+>             svn4680) zu compilieren.
+>             Dabei habe ich zwei Fehler erhalten. Vielleicht habe ich
+>             auch nur vergessen ein Verzeichnis in der Einstellungen
+>             anzugeben, aber das bezweifele ich.
+>             Hier mein Build Log:
+>
+>
+>             -------------- Build: default in PluginLoader ---------------
+>
+>             Linking console executable: PluginLoader
+>             .objs/PluginLoader.o: In function
+>             `PluginLoader::LoadPlugin(char*)':
+>             /home/ichthys1/trinitas/trunk/tests/pluginTest/PluginLoader.cpp:118:
+>             undefined reference to `dlopen'
+>             /home/ichthys1/trinitas/trunk/tests/pluginTest/PluginLoader.cpp:125:
+>             undefined reference to `dlsym'
+>             collect2: ld gab 1 als Ende-Status zur?ck
+>             Process terminated with status 1 (0 minutes, 0 seconds)
+>             2 errors, 0 warnings
+>              
+>             Ich bin kein C++ Experte, von daher meine Frage: Was
+>             stimmt am Code nicht? Fehlt ein Include?
+>
+>             Jannis
+>
+>             _______________________________________________
+>             Trinitas-main mailing list
+>             Trinitas-main at lists.berlios.de
+>             <mailto:Trinitas-main at lists.berlios.de>
+>             https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+>
+>         _______________________________________________
+>         Trinitas-main mailing list
+>         Trinitas-main at lists.berlios.de
+>         <mailto:Trinitas-main at lists.berlios.de>
+>         https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+>
+> ------------------------------------------------------------------------
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>   
+
+
+-- 
+Matthias Lindner
+Lazarettstr. 10
+
+45127 Essen
+
+Tel/Fax.: 0201-2480986
+Mail:	mail at projectconceptor.de
+
+
+www.online-mit-gott.de
+trinitas.berlios.de
+www.fishers-girl.de
+www.projectconceptor.de
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071214/f2be1aa6/attachment.html>
+
+From mail at projectconceptor.de  Tue Dec 18 23:59:38 2007
+From: mail at projectconceptor.de (Paradoxon)
+Date: Tue, 18 Dec 2007 23:59:38 +0100
+Subject: [Trinitas-main] Herausforderung Portierung
+Message-ID: <476850DA.9050702@projectconceptor.de>
+
+Wie einige sicher schon mitbekommen haben,
+haben wir ein Testprogramm f?r Pluginladen & das
+schreiben von portablen Code angefangen.
+
+Nun funktioniert es unter Windows bereits relativ gut
+unter Linux haben wir aber noch ein paar Probleme
+(das sogenannte Symbol getPlugin wird nicht gefunden)
+Wenn jemand ein wenig ahnung hat von Linux oder
+Mac Programmierung,
+
+w?re es cool wenn er sich das ganze noch mal anschauen k?nnte.
+Wenn jemand sich mal durch google durchw?hlen will.
+
+Ich br?uchte ein tool, was aus einer kompilierten Lib
+(also ner dynamischen Libary oder eben Plugin)
+die Symbole herauslesen kann.
+Das w?rde mir unglaublich viel helfen.
+
+Gottes Segen
+Matthias
+
+-- 
+Matthias Lindner
+Lazarettstr. 10
+
+45127 Essen
+
+Tel/Fax.: 0201-2480986
+
+
+
+www.online-mit-gott.de
+trinitas.berlios.de
+www.fishers-girl.de
+www.projectconceptor.de
+
+
+
+From simonhoss at googlemail.com  Wed Dec 19 09:24:41 2007
+From: simonhoss at googlemail.com (=?ISO-8859-1?Q?Simon_Ho=DF?=)
+Date: Wed, 19 Dec 2007 09:24:41 +0100
+Subject: [Trinitas-main] Herausforderung Portierung
+In-Reply-To: <476850DA.9050702@projectconceptor.de>
+References: <476850DA.9050702@projectconceptor.de>
+Message-ID: <ce6499060712190024r28e85bfct7c01d7732239870b@mail.gmail.com>
+
+hallo,
+ich kann mich ab Freitag mal ranwagen vorher habe ich keine Zeit!
+
+LG
+
+Am 18.12.07 schrieb Paradoxon <mail at projectconceptor.de>:
+>
+> Wie einige sicher schon mitbekommen haben,
+> haben wir ein Testprogramm f?r Pluginladen & das
+> schreiben von portablen Code angefangen.
+>
+> Nun funktioniert es unter Windows bereits relativ gut
+> unter Linux haben wir aber noch ein paar Probleme
+> (das sogenannte Symbol getPlugin wird nicht gefunden)
+> Wenn jemand ein wenig ahnung hat von Linux oder
+> Mac Programmierung,
+>
+> w?re es cool wenn er sich das ganze noch mal anschauen k?nnte.
+> Wenn jemand sich mal durch google durchw?hlen will.
+>
+> Ich br?uchte ein tool, was aus einer kompilierten Lib
+> (also ner dynamischen Libary oder eben Plugin)
+> die Symbole herauslesen kann.
+> Das w?rde mir unglaublich viel helfen.
+>
+> Gottes Segen
+> Matthias
+>
+> --
+> Matthias Lindner
+> Lazarettstr. 10
+>
+> 45127 Essen
+>
+> Tel/Fax.: 0201-2480986
+>
+>
+>
+> www.online-mit-gott.de
+> trinitas.berlios.de
+> www.fishers-girl.de
+> www.projectconceptor.de
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071219/5b177c1b/attachment.html>
+
+From mail at projectconceptor.de  Tue Dec 25 12:38:37 2007
+From: mail at projectconceptor.de (Paradoxon)
+Date: Tue, 25 Dec 2007 12:38:37 +0100
+Subject: [Trinitas-main] Gesegnete Weihnachten und frohes neues Jahr
+Message-ID: <4770EBBD.3020108@projectconceptor.de>
+
+He alle zusammen,
+
+ich w?nsche euch ein wirklich gesegnetes Weihnachten
+und dass uns allen nicht die Geschenke sondern
+der lebendige Jesus wichtig ist.
+
+Die Projektleitung wird, denke ich,
+erst wieder im neuen Jahr richtig aktiv werden.
+
+Bis dahin bete ich ganz sehr f?r euch und das Projekt
+und ich denke, das ist das wichtigste
+
+Gottes Segen
+Matthias
+
+
+-- 
+Matthias Lindner
+Lazarettstr. 10
+
+45127 Essen
+
+Tel/Fax.: 0201-2480986
+
+
+
+www.online-mit-gott.de
+trinitas.berlios.de
+www.fishers-girl.de
+www.projectconceptor.de
+
+
+

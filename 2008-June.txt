@@ -1,0 +1,97 @@
+From ichthys1 at jesus.de  Fri Jun 20 20:13:38 2008
+From: ichthys1 at jesus.de (Jannis Froese)
+Date: Fri, 20 Jun 2008 20:13:38 +0200
+Subject: [Trinitas-main] es geht weiter
+Message-ID: <15c4e6840806201113n74880a7t8a4365b2c2b9c271@mail.gmail.com>
+
+Schon rund 3 Monate hat sich mit Trinitas ziemlich wenig (um nicht zu sagen
+nichts) getan.
+Aber jetzt soll es endlich wieder weitergehen.
+Dazu m?ssen wir aber zuerst das Designdokument wirklich einwandfrei machen.
+Es m?ssen s?mtliche L?cken, Unklarheiten und M?glichkeiten f?r
+Fehlinterpretationen ausger?umt werden.
+
+Und da 2 Augen bekanntlich bei weitem nicht alles sehen k?nnen und auch 4
+nicht immer ausreichen, brauchen wir eure Hilfe.
+Ich habe unter trinitas.berlios.de/dev/forum ein Forum eingerichtet. Dort
+m?sst ihr euch Registrieren und mir eine kurze Mail schreiben, damit ich
+euren Benutzer freischalten kann.
+Anschlie?end findet ihr dort das Forum "Designdokument". Dort k?nnt ihr
+alles reinschreiben, was euch zum Designdokument einf?llt.
+Au?erdem ist dies die letzte Gelegenheit, ?nderungsvorschl?ge einzubringen
+und zu diskutieren.
+Wenn zu einem Thema 3 Tage lang keine Meinung mehr abgegeben wurde, wird die
+?nderung in das Designdokument eingetragen.
+
+Am Ende dieser Phase sollte ein m?glichst perfektes und makelloses
+Designdokument vorhanden sein, da es f?r die komplette weitere Entwicklung
+stets unser Leitfaden seien wird und entsprechend auch m?glichst nicht mehr
+ge?ndert wird.
+
+Jannis
+
+PS: Das Forum wird sich wohl nicht nur auf das Designdokument beschr?nken.
+Wenn ihr Ideen f?r weitere Kategorien habt, mailt mir einfach.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20080620/65570de5/attachment.html>
+
+From davidjablonski at web.de  Sat Jun 21 20:33:05 2008
+From: davidjablonski at web.de (davidjablonski at web.de)
+Date: Sat, 21 Jun 2008 20:33:05 +0200
+Subject: [Trinitas-main] Freischalten...
+Message-ID: <31858131.1214073186465.JavaMail.fmail@fmcert01.dlan.cinetic.de>
+
+Schaltest mich frei?? :
+
+'Schakal'
+
+
+Jo, danke, und be blessed
+David
+_________________________________________________________________________
+In 5 Schritten zur eigenen Homepage. Jetzt Domain sichern und gestalten! 
+Nur 3,99 EUR/Monat! http://www.maildomain.web.de/?mc=021114
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: smime.p7s
+Type: application/pkcs7-signature
+Size: 1768 bytes
+Desc: S/MIME Cryptographic Signature
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20080621/f87b1e99/attachment.bin>
+
+From ichthys1 at jesus.de  Sun Jun 22 12:50:08 2008
+From: ichthys1 at jesus.de (Jannis Froese)
+Date: Sun, 22 Jun 2008 12:50:08 +0200
+Subject: [Trinitas-main] Freischalten...
+In-Reply-To: <31858131.1214073186465.JavaMail.fmail@fmcert01.dlan.cinetic.de>
+References: <31858131.1214073186465.JavaMail.fmail@fmcert01.dlan.cinetic.de>
+Message-ID: <15c4e6840806220350l78afa590xfc79f3858e7f5f1d@mail.gmail.com>
+
+jo, ist erledigt
+
+Am 21. Juni 2008 20:33 schrieb <davidjablonski at web.de>:
+
+> Schaltest mich frei?? :
+>
+> 'Schakal'
+>
+>
+> Jo, danke, und be blessed
+> David
+> _________________________________________________________________________
+> In 5 Schritten zur eigenen Homepage. Jetzt Domain sichern und gestalten!
+> Nur 3,99 EUR/Monat! http://www.maildomain.web.de/?mc=021114
+>
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20080622/d4ba1637/attachment.html>
+

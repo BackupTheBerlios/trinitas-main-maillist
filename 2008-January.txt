@@ -1,0 +1,19 @@
+From ichthys1 at jesus.de  Wed Jan  2 15:58:47 2008
+From: ichthys1 at jesus.de (Jannis Froese)
+Date: Wed, 2 Jan 2008 15:58:47 +0100
+Subject: [Trinitas-main] 1. Meeting auf Homepage
+Message-ID: <15c4e6840801020658u741f7ea9pf103acdcd74a26a6@mail.gmail.com>
+
+Ich habe mal unser erstes Treffen bei ICQ unter
+http://trinitas.berlios.de/dev ins Internet gestellt. Ich habe mich dazu
+entschlossen, es nicht in die regul?re Homepage aufzunehmen, da der Nutzen
+f?r einen, der nicht aktiv Mitarbeitet sehr gering ist. Evtl. werde ich noch
+einen Passwortschutz hinzuf?gen, mal sehen.
+Das 2. Meeting ist nicht dabei, weil mein Linux-Dateisystem besch?digt ist
+und ich deshalb leider nicht rankomme.
+
+Jannis
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20080102/4100a63c/attachment.html>
+

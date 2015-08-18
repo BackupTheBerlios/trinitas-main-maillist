@@ -1,0 +1,238 @@
+From mail at projectconceptor.de  Tue Sep 11 18:36:11 2007
+From: mail at projectconceptor.de (Paradoxon)
+Date: Tue, 11 Sep 2007 18:36:11 +0200
+Subject: [Trinitas-main] Wo fangen wir an
+In-Reply-To: <259122621@web.de>
+References: <259122621@web.de>
+Message-ID: <46E6C3FB.3050405@projectconceptor.de>
+
+Hi Florian,
+
+Inhalt:
+* Charakterstuide
+* Umgang mit SVN
+* Map
+* Software
+
+also vorerst werden wir versuchen die Maps im NT zu halten. Das gibt ja 
+schon mal gen?gend Stoff.
+Wichtig w?ren ersteinmal Hand oder Photoshopzeichnungen von den Charakteren.
+
+Damit sollten wir anfangen. Aber dort wirds auch schwierig :)
+Und zwar m?ssen die Charaktere m?glichst toonhaft / ansprechend aber 
+auch ein wenig realistisch sein.
+d.h. da w?re ein sehr ansprechender Mittelweg die l?sung.
+
+Das ganze soll ja ein wenig toonhaft werden, da eine ein wenig toonhafte 
+Umgebung meist sich schneller berrechnen l?sst.
+
+Ansonsten br?uchten wir ca 4 (oder mehr) verschiedene Charaktere (man 
+soll ja als Spieler sich einen Charakter aussuchen k?nnen)
+
+Dabei jeweils die Vorder, Seiten und Hinteransicht.
+
+So und nun kommen wir zu dem "Opensource" Teil :)
+
+Du brauchst ein installiertes tortoise svn:
+http://tortoisesvn.tigris.org/
+
+Danach musst du dir unser Projekt runterladen (es gibt schon eine menge 
+Dateien .. aber der kleinste Teil ist von uns Programmiert wurden)
+dazu einfach ein neues Verzeichniss erstellen (am besten Trinitas 
+genannt).. dann rechte Maustaste drauf und auf *svn checkout* gehen
+
+dort dann
+svn+ssh:///designer/@svn.berlios.de/svnroot/repos/trinitas
+eingeben und danach wenn du aufgefordert wirst dein Passwort (kann 
+manchmal 3x fragen :-D )
+
+Wenn dann alles runtergeladen wurde...
+Kannst du unter
+
+\Trinitas\trunk\data\artwork
+
+entsprchende Verzeichnisse anlegen z.b:
+
+\Trinitas\trunk\data\artwork\draft\Charakter1\
+oder halt
+\Trinitas\trunk\data\artwork\draft\Hannes
+oder ...
+\Trinitas\trunk\data\artwork\draft\Hund
+
+usw..
+dann dort in das Verzeichnis deine Bilddateien ablegen
+also z.b.:
+\Trinitas\trunk\data\artwork\draft\Charakter1\Charakter1_left.png
+\Trinitas\trunk\data\artwork\draft\Charakter1\Charakter1_front.png
+\Trinitas\trunk\data\artwork\draft\Charakter1\Charakter1_back.png
+
+
+Dann wenn du alles reingeschoben hast, was du wolltest
+auf
+\Trinitas\trunk\data\artwork\draft\Charakter1\
+rechten Mausklick dann auf
+TortoiseSVN->+(Add)
+dann wird alles hinzugef?gt und es erscheint ein Ausrufezeichen..
+danach auf rechtsklick
+\Trinitas\trunk\data\artwork\draft
+und auf SVN Commit
+dort dann noch kuzr nen Kommentar abgeben (also der kuzr beschreibt, 
+wass du ver?ndert hast)
+z.b.:
+Erste Charakterstudie fertig
+Dateien:
+Charakter1_left.png
+Charakter1_front.png
+Charakter1_back.png
+hinzugef?gt
+
+
+
+Ach ja und f?r die *erste Map* w?rde ich mal auf Korinth pl?dieren davon 
+gibts auch ne Grafik, die vielleicht als Leitfaden dienen kann.
+
+
+Als 3d Softwar verwenden wir
+*Blender (www.blender.org), da es opensource und kostenlos ist und einen 
+gro?en Funktionsumfang hat.
+Als Graifksoftware k?nnt ihr alles verwenden solange es keine Raubkopie 
+ist, da heutzutage jede Bildsoftware in der Lage ist Wasserzeichen in 
+Bildern zu verstecken, die es Konzernen m?glich macht den Urheber und 
+die Legalit?t der zur Erstellung verwendeten Produkte zu ?berpr?fen.
+Es w?re sehr sehr doof, wenn nen Schlagzeile rausk?me.. christliches 
+Spiel verwendet Raubkopien zum erstellen iherer Daten.
+
+Empfehlung: Gimp (is frei :))
+www.gimp.org
+
+
+
+Wow das ist jetzt lang geworden.. :)
+
+deswegen stell ichs mal in die Trinitas-main Mailing list.. eventuell 
+finden es einige andere auch interessant
+
+
+Bei Fragen einfach an mich wenden :) oder ins Forum oder besser noch an 
+die Trinitas-Main Mailinglist
+
+Gottes Segen und
+Matthias
+
+
+florian mann schrieb:
+>
+> hi matthias,
+>
+> ich hab mir das alles mal angeguckt und finde, dass sich das ja ganz 
+> gut anh?hrt! meine fragen jetzt:
+>
+>  soll ich mir maps ausdenken und die aufs papier bringen?
+>
+> oder soll ich karakter erstellen?
+>
+> soll ich einfach so landschaften erstellen und/oder st?dte?
+>
+> oder einfach alles?
+>
+> ach ja es ist die rede von allen orten die in der bibel vor kommen ... 
+> also von mose bis offenbarung wenn ja fang ich mit mose an .... so 
+> ?gypten un so k????
+>
+> mb gott segne dich flo
+>
+>  
+>
+>
+>
+> Der WEB.DE SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!   
+> *http://smartsurfer.web.de/?mc=100071&distributionid=000000000066* 
+> <http://smartsurfer.web.de/?mc=100071&distributionid=000000000066>  
+>
+
+
+-- 
+Matthias Lindner
+Lazarettstr. 10
+
+45127 Essen
+
+Tel/Fax.: 0201-2480986
+Mail:	all4god at web.de
+
+www.online-mit-gott.de
+www.fishers-girl.de
+www.projectconceptor.de
+
+
+-- 
+Matthias Lindner
+Lazarettstr. 10
+
+45127 Essen
+
+Tel/Fax.: 0201-2480986
+Mail:	all4god at web.de
+
+www.online-mit-gott.de
+www.fishers-girl.de
+www.projectconceptor.de
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20070911/6dfb3e6e/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: wub_korinth_karte2.jpg
+Type: image/jpeg
+Size: 390583 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20070911/6dfb3e6e/attachment.jpg>
+
+From mail at projectconceptor.de  Tue Sep 18 20:54:01 2007
+From: mail at projectconceptor.de (Paradoxon)
+Date: Tue, 18 Sep 2007 20:54:01 +0200
+Subject: [Trinitas-main] Erstes Meeting
+Message-ID: <46F01EC9.8060605@projectconceptor.de>
+
+Hi Leute,
+
+so nun ist es soweit... endlich gibt es das erste offizielle 
+Trinitas-Entwickler-Meeting
+Wir treffen uns Dienstag 25.09 17:00 Uhr im IRC Chat.
+
+IRC Chat:
+Wer noch ein Programm brauch um in den IRC-Chat reinzukommen, dem kann 
+ich nur Chatzilla empfehlen (funktioniert nur mit Firefox):
+*http://www.erweiterungen.de/detail/ChatZilla/*
+
+Server: *freenode
+*und dann einfach
+/j #*Trinitas *eingeben
+
+Gebt nur kurz bescheid, falls ihr *nicht *kommen k?nnt. Falls zu viele 
+abwesend sind, verlegen wir den Termin.
+
+Gottes Segen
+Matthias
+
+
+-- 
+Matthias Lindner
+Lazarettstr. 10
+
+45127 Essen
+
+Tel/Fax.: 0201-2480986
+Mail:	mail at projectconceptor.de
+
+
+www.online-mit-gott.de
+trinitas.berlios.de
+www.fishers-girl.de
+www.projectconceptor.de
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20070918/06adae84/attachment.html>
+

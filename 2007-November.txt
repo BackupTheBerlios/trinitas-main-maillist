@@ -1,0 +1,1890 @@
+From ichthys1 at jesus.de  Fri Nov  9 21:03:18 2007
+From: ichthys1 at jesus.de (Jannis Froese)
+Date: Fri, 9 Nov 2007 21:03:18 +0100
+Subject: [Trinitas-main] =?iso-8859-1?q?N=E4chstes_Treffen?=
+Message-ID: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>
+
+Vieles ist geschafft:
+-Die Website ist gr??tenteils fertig.
+-Die Programmierer haben bereits mehrere Mokups zu LUA, RakNet und Irrlicht
+erstellt. Vielen Dank f?r diesen wichtigen Beitrag.
+-Auch die Grafiker und Designer waren schon sehr aktiv, haben schon erste
+texturierte Modelle fertiggestellt und die M?glichkeit des Forums zum regen
+Austausch ?ber Probleme und Fragen entdeckt.
+
+Aber es bleibt noch viel zu tun. Demn?chst werden die Coding Guidlines
+ver?ffentlicht. Sie sind stark an die von BeOS angelehnt, allerdings
+?bersetzt und f?r unser Projekt angepasst. Sie sollen uns allen Helfen, den
+Code ordentlich zu halten und halbwegs einheitlich aussehen zu lassen. Also
+haltet sie bitte zu unser aller Nutzen ein.
+
+Es gibt auch noch weitere Pl?ne, die auch noch besprochen werden sollten,
+wie z.B. ob jeder Entwickler Editierzugang zur Homepage erhalten soll.
+Auserdem m?ssen die Teams noch eingeteilt werden usw.
+
+Um dies alles zu Besprechen, ist ein Treffen auf Samstag, den 17.11.
+angesetzt. Die Uhrzeit steht noch nicht fest. Ich schlage vor, ihr schreibt
+mir, ob und wann ihr am 17. Zeit habt, und wann es euch am besten passt
+(beides). Ich werde dann versuchen, einen m?glichst optimalen Termin zu
+finden. Ich denke damit sollte jeder zufrieden sein.
+
+Bis dahin gibt es noch einige Aufgaben, die so weit wie m?glich erledigt
+werden sollten.
+Dazu z?hlen:
+
+Homepage (also eigentlich nur f?r Schakal und mich): ?bersetzung der Texte
+mit JoomFish
+
+
+Programmierung: Mokups (in der Gameplanung aufgelistet (Meilensteine))
+                         besonders w?rden mich auch Belastungstests f?r
+Grafik und Netzwerk und eine m?glichst performante Verbindung von Netzwerk
+und Grafik interessieren.
+
+Design/Modelling: Konzeptzeichnungen und Testmodelle. Au?erdem Formattests.
+Eben das was ihr die ganze Zeit macht.
+
+So weit von mir.
+Bis Bald und Gottes Segen
+
+Jannis
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071109/0cf9f862/attachment.html>
+
+From der-erbe-saurons at web.de  Fri Nov  9 21:51:30 2007
+From: der-erbe-saurons at web.de (florian mann)
+Date: Fri, 09 Nov 2007 21:51:30 +0100
+Subject: [Trinitas-main] =?iso-8859-15?q?N=E4chstes_Treffen?=
+Message-ID: <362950716@web.de>
+
+ok von mir aus d?rfte das kein problem werden 
+florian
+______________________________________________________________________
+XXL-Speicher, PC-Virenschutz, Spartarife & mehr: Nur im WEB.DE Club!		
+Jetzt testen! http://produkte.web.de/club/?mc=021130
+
+
+
+From simonhoss at googlemail.com  Fri Nov  9 22:54:38 2007
+From: simonhoss at googlemail.com (=?ISO-8859-1?Q?Simon_Ho=DF?=)
+Date: Fri, 9 Nov 2007 22:54:38 +0100
+Subject: [Trinitas-main] =?iso-8859-1?q?N=E4chstes_Treffen?=
+In-Reply-To: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>
+References: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>
+Message-ID: <ce6499060711091354gef60cbcg100c843bac2d9ea2@mail.gmail.com>
+
+f?r mich w?re es am besten unter der Woche fahre n?chste Woche Freitag.
+Und am besten Mittags.... Also irgendwann von Montag-Mittwoch am besten ab
+17 Uhr!
+
+LG Simon
+
+Am 09.11.07 schrieb Jannis Froese <ichthys1 at jesus.de>:
+>
+> Vieles ist geschafft:
+> -Die Website ist gr??tenteils fertig.
+> -Die Programmierer haben bereits mehrere Mokups zu LUA, RakNet und
+> Irrlicht erstellt. Vielen Dank f?r diesen wichtigen Beitrag.
+> -Auch die Grafiker und Designer waren schon sehr aktiv, haben schon erste
+> texturierte Modelle fertiggestellt und die M?glichkeit des Forums zum regen
+> Austausch ?ber Probleme und Fragen entdeckt.
+>
+> Aber es bleibt noch viel zu tun. Demn?chst werden die Coding Guidlines
+> ver?ffentlicht. Sie sind stark an die von BeOS angelehnt, allerdings
+> ?bersetzt und f?r unser Projekt angepasst. Sie sollen uns allen Helfen, den
+> Code ordentlich zu halten und halbwegs einheitlich aussehen zu lassen. Also
+> haltet sie bitte zu unser aller Nutzen ein.
+>
+> Es gibt auch noch weitere Pl?ne, die auch noch besprochen werden sollten,
+> wie z.B. ob jeder Entwickler Editierzugang zur Homepage erhalten soll.
+> Auserdem m?ssen die Teams noch eingeteilt werden usw.
+>
+> Um dies alles zu Besprechen, ist ein Treffen auf Samstag, den 17.11.
+> angesetzt. Die Uhrzeit steht noch nicht fest. Ich schlage vor, ihr schreibt
+> mir, ob und wann ihr am 17. Zeit habt, und wann es euch am besten passt
+> (beides). Ich werde dann versuchen, einen m?glichst optimalen Termin zu
+> finden. Ich denke damit sollte jeder zufrieden sein.
+>
+> Bis dahin gibt es noch einige Aufgaben, die so weit wie m?glich erledigt
+> werden sollten.
+> Dazu z?hlen:
+>
+> Homepage (also eigentlich nur f?r Schakal und mich): ?bersetzung der Texte
+> mit JoomFish
+>
+>
+> Programmierung: Mokups (in der Gameplanung aufgelistet (Meilensteine))
+>                          besonders w?rden mich auch Belastungstests f?r
+> Grafik und Netzwerk und eine m?glichst performante Verbindung von Netzwerk
+> und Grafik interessieren.
+>
+> Design/Modelling: Konzeptzeichnungen und Testmodelle. Au?erdem
+> Formattests. Eben das was ihr die ganze Zeit macht.
+>
+> So weit von mir.
+> Bis Bald und Gottes Segen
+>
+> Jannis
+>
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071109/9656f861/attachment.html>
+
+From M.Crisafulli at gmx.de  Fri Nov  9 23:50:28 2007
+From: M.Crisafulli at gmx.de (Marco Crisafulli)
+Date: Fri, 09 Nov 2007 23:50:28 +0100
+Subject: [Trinitas-main] =?iso-8859-1?q?N=E4chstes_Treffen?=
+In-Reply-To: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>
+References: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>
+Message-ID: <20071109225028.266730@gmx.net>
+
+
+
+am 17 kann ich leider nicht... hatte in letzer zeit leider nicht die zeit um was zu machen, denoch bin ich motiviert... w?re sehr dankbar wenn die 3d modeller mir fotos ect. ?ber berits gefertigte geb?uden oder so schiken w?rden um zu sehen in welcher richtung ich arbeiten kann. 
+
+mfg
+
+-------- Original-Nachricht --------
+> Datum: Fri, 9 Nov 2007 21:03:18 +0100
+> Von: "Jannis Froese" <ichthys1 at jesus.de>
+> An: trinitas-main at lists.berlios.de
+> Betreff: [Trinitas-main] N?chstes Treffen
+
+> Vieles ist geschafft:
+> -Die Website ist gr??tenteils fertig.
+> -Die Programmierer haben bereits mehrere Mokups zu LUA, RakNet und
+> Irrlicht
+> erstellt. Vielen Dank f?r diesen wichtigen Beitrag.
+> -Auch die Grafiker und Designer waren schon sehr aktiv, haben schon erste
+> texturierte Modelle fertiggestellt und die M?glichkeit des Forums zum
+> regen
+> Austausch ?ber Probleme und Fragen entdeckt.
+> 
+> Aber es bleibt noch viel zu tun. Demn?chst werden die Coding Guidlines
+> ver?ffentlicht. Sie sind stark an die von BeOS angelehnt, allerdings
+> ?bersetzt und f?r unser Projekt angepasst. Sie sollen uns allen Helfen,
+> den
+> Code ordentlich zu halten und halbwegs einheitlich aussehen zu lassen.
+> Also
+> haltet sie bitte zu unser aller Nutzen ein.
+> 
+> Es gibt auch noch weitere Pl?ne, die auch noch besprochen werden sollten,
+> wie z.B. ob jeder Entwickler Editierzugang zur Homepage erhalten soll.
+> Auserdem m?ssen die Teams noch eingeteilt werden usw.
+> 
+> Um dies alles zu Besprechen, ist ein Treffen auf Samstag, den 17.11.
+> angesetzt. Die Uhrzeit steht noch nicht fest. Ich schlage vor, ihr
+> schreibt
+> mir, ob und wann ihr am 17. Zeit habt, und wann es euch am besten passt
+> (beides). Ich werde dann versuchen, einen m?glichst optimalen Termin zu
+> finden. Ich denke damit sollte jeder zufrieden sein.
+> 
+> Bis dahin gibt es noch einige Aufgaben, die so weit wie m?glich erledigt
+> werden sollten.
+> Dazu z?hlen:
+> 
+> Homepage (also eigentlich nur f?r Schakal und mich): ?bersetzung der
+> Texte
+> mit JoomFish
+> 
+> 
+> Programmierung: Mokups (in der Gameplanung aufgelistet (Meilensteine))
+>                          besonders w?rden mich auch Belastungstests f?r
+> Grafik und Netzwerk und eine m?glichst performante Verbindung von
+> Netzwerk
+> und Grafik interessieren.
+> 
+> Design/Modelling: Konzeptzeichnungen und Testmodelle. Au?erdem
+> Formattests.
+> Eben das was ihr die ganze Zeit macht.
+> 
+> So weit von mir.
+> Bis Bald und Gottes Segen
+> 
+> Jannis
+
+-- 
+Der GMX SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen! 
+Ideal f?r Modem und ISDN: http://www.gmx.net/de/go/smartsurfer
+
+
+From M.Crisafulli at gmx.de  Sat Nov 10 01:03:34 2007
+From: M.Crisafulli at gmx.de (Marco Crisafulli)
+Date: Sat, 10 Nov 2007 01:03:34 +0100
+Subject: [Trinitas-main] =?iso-8859-1?q?N=E4chstes_Treffen?=
+In-Reply-To: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>
+References: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>
+Message-ID: <20071110000334.266730@gmx.net>
+
+hallo an alle
+
+habe eine gleine frage... wei? jemand von euch wie ich solid edge dateien mit cinema 4d ?ffnen kann? habe mich schon durch foren ect. gek?mpft aber nichts gefunden... 
+
+gru?
+marco
+
+-------- Original-Nachricht --------
+> Datum: Fri, 9 Nov 2007 21:03:18 +0100
+> Von: "Jannis Froese" <ichthys1 at jesus.de>
+> An: trinitas-main at lists.berlios.de
+> Betreff: [Trinitas-main] N?chstes Treffen
+
+> Vieles ist geschafft:
+> -Die Website ist gr??tenteils fertig.
+> -Die Programmierer haben bereits mehrere Mokups zu LUA, RakNet und
+> Irrlicht
+> erstellt. Vielen Dank f?r diesen wichtigen Beitrag.
+> -Auch die Grafiker und Designer waren schon sehr aktiv, haben schon erste
+> texturierte Modelle fertiggestellt und die M?glichkeit des Forums zum
+> regen
+> Austausch ?ber Probleme und Fragen entdeckt.
+> 
+> Aber es bleibt noch viel zu tun. Demn?chst werden die Coding Guidlines
+> ver?ffentlicht. Sie sind stark an die von BeOS angelehnt, allerdings
+> ?bersetzt und f?r unser Projekt angepasst. Sie sollen uns allen Helfen,
+> den
+> Code ordentlich zu halten und halbwegs einheitlich aussehen zu lassen.
+> Also
+> haltet sie bitte zu unser aller Nutzen ein.
+> 
+> Es gibt auch noch weitere Pl?ne, die auch noch besprochen werden sollten,
+> wie z.B. ob jeder Entwickler Editierzugang zur Homepage erhalten soll.
+> Auserdem m?ssen die Teams noch eingeteilt werden usw.
+> 
+> Um dies alles zu Besprechen, ist ein Treffen auf Samstag, den 17.11.
+> angesetzt. Die Uhrzeit steht noch nicht fest. Ich schlage vor, ihr
+> schreibt
+> mir, ob und wann ihr am 17. Zeit habt, und wann es euch am besten passt
+> (beides). Ich werde dann versuchen, einen m?glichst optimalen Termin zu
+> finden. Ich denke damit sollte jeder zufrieden sein.
+> 
+> Bis dahin gibt es noch einige Aufgaben, die so weit wie m?glich erledigt
+> werden sollten.
+> Dazu z?hlen:
+> 
+> Homepage (also eigentlich nur f?r Schakal und mich): ?bersetzung der
+> Texte
+> mit JoomFish
+> 
+> 
+> Programmierung: Mokups (in der Gameplanung aufgelistet (Meilensteine))
+>                          besonders w?rden mich auch Belastungstests f?r
+> Grafik und Netzwerk und eine m?glichst performante Verbindung von
+> Netzwerk
+> und Grafik interessieren.
+> 
+> Design/Modelling: Konzeptzeichnungen und Testmodelle. Au?erdem
+> Formattests.
+> Eben das was ihr die ganze Zeit macht.
+> 
+> So weit von mir.
+> Bis Bald und Gottes Segen
+> 
+> Jannis
+
+-- 
+Der GMX SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen! 
+Ideal f?r Modem und ISDN: http://www.gmx.net/de/go/smartsurfer
+
+
+From trinitas at oswald-crossmedia.de  Sat Nov 10 10:39:29 2007
+From: trinitas at oswald-crossmedia.de (Juergen Oswald)
+Date: Sat, 10 Nov 2007 10:39:29 +0100
+Subject: [Trinitas-main] =?iso-8859-1?q?N=E4chstes_Treffen?=
+In-Reply-To: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>
+References: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>
+Message-ID: <47357C51.2020904@oswald-crossmedia.de>
+
+Hallo Jannis,
+
+am Samstag, den 17.11.07 is bei mir
+au?er Vormittags alles machbar.
+
+Gru? und Segen
+
+
+From trinitas at oswald-crossmedia.de  Sat Nov 10 11:24:24 2007
+From: trinitas at oswald-crossmedia.de (Juergen Oswald)
+Date: Sat, 10 Nov 2007 11:24:24 +0100
+Subject: [Trinitas-main] =?iso-8859-1?q?N=E4chstes_Treffen?=
+In-Reply-To: <20071109225028.266730@gmx.net>
+References: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>
+	<20071109225028.266730@gmx.net>
+Message-ID: <473586D8.5020903@oswald-crossmedia.de>
+
+Hallo Marco,
+
+>> w?re sehr dankbar wenn die 3d modeller mir fotos ect. 
+>> ?ber berits gefertigte geb?uden oder so schiken w?rden 
+>> um zu sehen in welcher richtung ich arbeiten kann. 
+
+
+Evtl. w?re es sinnvoll mal die Aufgabenteilung zu besprechen. 
+
+Unter Fotos verstehe ich Abbildungen mittels einer Kamera 
+von realen Gegenst?nden. 
+Ich bem?he da meistens das Netz. 
+Aber evtl. hast du ja auch B?cher oder andere Quellen. 
+
+"Bereits gefertigte Geb?ude" sind in dem Fall keine Fotos 
+sondern - sagen wir einfach mal Bilder oder Renderings. 
+
+Normalerweise w?re der Ablauf so, dass die Designer 
+die Entw?rfe machen und den "Look" entwickeln, 
+und dann die Vorlagen erstellen, nach denen die 3D-Artists 
+die Modelle und evtl. auch die Texturen erstellen. 
+Da wir hier aber ein sehr kleines Team haben, denke ich, 
+das sich unsere Aufgabenbereiche st?rker ?berschneiden werden. 
+
+- Eine Aufgabe wird wohl sein den allgemeine Look zu entwerfen 
+und dann im Team zu besprechen. 
+Dazu ist es aber immer von Vorteil, wenn schon Entw?rfen 
+oder aber Beispiele vorhanden sind. (zb. andere Games)
+Von daher w?rde ich vorschlagen, das du einfach mal anf?ngst, 
+und eine paar Entw?rfe machst. Die kann man dann besprechen, 
+ausbauen, ver?ndern oder verwerfen. 
+Mach ich ja genauso. Is ja f?r mich auch neue Materie. 
+Dann k?nnen wir auch zusammen dran weiterarbeiten.  
+Einfach mal anfangen, dann sehen wir wie sich das entwickelt. 
+
+- Was ich bist jetzt gemacht habe, kannst du dir ja unter 
+SVN anschauen. 
+Dabei geht es jetzt aber von meiner Seite aus prim?r um die Fragen, 
+- wie bekomme ich eine animierte Geometrie mit Textur 
+von meiner Arbeitsumgebung in die Game Engine. 
+- Wie viele Polygone brauch ich um ein ansprechendes 
+Ergebins zu erzielen. 
+- Wie muss eine Figur aufgebaut sein, 
+damit sie auch animiert gut aussieht. 
+
+Ich hab auch schon im Netz nach Vorlagen geschaut 
+f?r Architektur und Kleidung der Zeit. 
+Ich finde da aber kaum was verwertbares. 
+
+Also !!! Wenn da jemand Quellen hat, immer her damit 
+=> an Marco und Juergen bzw. Designer und 3Dler im Allgemeinen. 
+
+Gru? und Segen 
+Juergen 
+
+
+
+
+
+
+
+Marco Crisafulli schrieb:
+> am 17 kann ich leider nicht... hatte in letzer zeit leider nicht die zeit um was zu machen, denoch bin ich motiviert... w?re sehr dankbar wenn die 3d modeller mir fotos ect. ?ber berits gefertigte geb?uden oder so schiken w?rden um zu sehen in welcher richtung ich arbeiten kann. 
+>
+> mfg
+>
+> -------- Original-Nachricht --------
+>   
+>> Datum: Fri, 9 Nov 2007 21:03:18 +0100
+>> Von: "Jannis Froese" <ichthys1 at jesus.de>
+>> An: trinitas-main at lists.berlios.de
+>> Betreff: [Trinitas-main] N?chstes Treffen
+>>     
+>
+>   
+>> Vieles ist geschafft:
+>> -Die Website ist gr??tenteils fertig.
+>> -Die Programmierer haben bereits mehrere Mokups zu LUA, RakNet und
+>> Irrlicht
+>> erstellt. Vielen Dank f?r diesen wichtigen Beitrag.
+>> -Auch die Grafiker und Designer waren schon sehr aktiv, haben schon erste
+>> texturierte Modelle fertiggestellt und die M?glichkeit des Forums zum
+>> regen
+>> Austausch ?ber Probleme und Fragen entdeckt.
+>>
+>> Aber es bleibt noch viel zu tun. Demn?chst werden die Coding Guidlines
+>> ver?ffentlicht. Sie sind stark an die von BeOS angelehnt, allerdings
+>> ?bersetzt und f?r unser Projekt angepasst. Sie sollen uns allen Helfen,
+>> den
+>> Code ordentlich zu halten und halbwegs einheitlich aussehen zu lassen.
+>> Also
+>> haltet sie bitte zu unser aller Nutzen ein.
+>>
+>> Es gibt auch noch weitere Pl?ne, die auch noch besprochen werden sollten,
+>> wie z.B. ob jeder Entwickler Editierzugang zur Homepage erhalten soll.
+>> Auserdem m?ssen die Teams noch eingeteilt werden usw.
+>>
+>> Um dies alles zu Besprechen, ist ein Treffen auf Samstag, den 17.11.
+>> angesetzt. Die Uhrzeit steht noch nicht fest. Ich schlage vor, ihr
+>> schreibt
+>> mir, ob und wann ihr am 17. Zeit habt, und wann es euch am besten passt
+>> (beides). Ich werde dann versuchen, einen m?glichst optimalen Termin zu
+>> finden. Ich denke damit sollte jeder zufrieden sein.
+>>
+>> Bis dahin gibt es noch einige Aufgaben, die so weit wie m?glich erledigt
+>> werden sollten.
+>> Dazu z?hlen:
+>>
+>> Homepage (also eigentlich nur f?r Schakal und mich): ?bersetzung der
+>> Texte
+>> mit JoomFish
+>>
+>>
+>> Programmierung: Mokups (in der Gameplanung aufgelistet (Meilensteine))
+>>                          besonders w?rden mich auch Belastungstests f?r
+>> Grafik und Netzwerk und eine m?glichst performante Verbindung von
+>> Netzwerk
+>> und Grafik interessieren.
+>>
+>> Design/Modelling: Konzeptzeichnungen und Testmodelle. Au?erdem
+>> Formattests.
+>> Eben das was ihr die ganze Zeit macht.
+>>
+>> So weit von mir.
+>> Bis Bald und Gottes Segen
+>>
+>> Jannis
+>>     
+>
+>   
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071110/6b90a548/attachment.html>
+
+From trinitas at oswald-crossmedia.de  Sat Nov 10 11:29:09 2007
+From: trinitas at oswald-crossmedia.de (Juergen Oswald)
+Date: Sat, 10 Nov 2007 11:29:09 +0100
+Subject: [Trinitas-main] =?iso-8859-1?q?N=E4chstes_Treffen?=
+In-Reply-To: <20071110000334.266730@gmx.net>
+References: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>
+	<20071110000334.266730@gmx.net>
+Message-ID: <473587F5.4010603@oswald-crossmedia.de>
+
+Hallo Marco,
+
+du kannst mir gerne eine Solid Edge Datei schicken.
+Evtl. kann ich sie dir in ein Format konvertieren,
+das du in c4d importieren kannst.
+
+Gru? und Segen
+Juergen
+
+
+Marco Crisafulli schrieb:
+> hallo an alle
+>
+> habe eine gleine frage... wei? jemand von euch wie ich solid edge dateien mit cinema 4d ?ffnen kann? habe mich schon durch foren ect. gek?mpft aber nichts gefunden... 
+>
+> gru?
+> marco
+>
+> -------- Original-Nachricht --------
+>   
+>> Datum: Fri, 9 Nov 2007 21:03:18 +0100
+>> Von: "Jannis Froese" <ichthys1 at jesus.de>
+>> An: trinitas-main at lists.berlios.de
+>> Betreff: [Trinitas-main] N?chstes Treffen
+>>     
+>
+>   
+>> Vieles ist geschafft:
+>> -Die Website ist gr??tenteils fertig.
+>> -Die Programmierer haben bereits mehrere Mokups zu LUA, RakNet und
+>> Irrlicht
+>> erstellt. Vielen Dank f?r diesen wichtigen Beitrag.
+>> -Auch die Grafiker und Designer waren schon sehr aktiv, haben schon erste
+>> texturierte Modelle fertiggestellt und die M?glichkeit des Forums zum
+>> regen
+>> Austausch ?ber Probleme und Fragen entdeckt.
+>>
+>> Aber es bleibt noch viel zu tun. Demn?chst werden die Coding Guidlines
+>> ver?ffentlicht. Sie sind stark an die von BeOS angelehnt, allerdings
+>> ?bersetzt und f?r unser Projekt angepasst. Sie sollen uns allen Helfen,
+>> den
+>> Code ordentlich zu halten und halbwegs einheitlich aussehen zu lassen.
+>> Also
+>> haltet sie bitte zu unser aller Nutzen ein.
+>>
+>> Es gibt auch noch weitere Pl?ne, die auch noch besprochen werden sollten,
+>> wie z.B. ob jeder Entwickler Editierzugang zur Homepage erhalten soll.
+>> Auserdem m?ssen die Teams noch eingeteilt werden usw.
+>>
+>> Um dies alles zu Besprechen, ist ein Treffen auf Samstag, den 17.11.
+>> angesetzt. Die Uhrzeit steht noch nicht fest. Ich schlage vor, ihr
+>> schreibt
+>> mir, ob und wann ihr am 17. Zeit habt, und wann es euch am besten passt
+>> (beides). Ich werde dann versuchen, einen m?glichst optimalen Termin zu
+>> finden. Ich denke damit sollte jeder zufrieden sein.
+>>
+>> Bis dahin gibt es noch einige Aufgaben, die so weit wie m?glich erledigt
+>> werden sollten.
+>> Dazu z?hlen:
+>>
+>> Homepage (also eigentlich nur f?r Schakal und mich): ?bersetzung der
+>> Texte
+>> mit JoomFish
+>>
+>>
+>> Programmierung: Mokups (in der Gameplanung aufgelistet (Meilensteine))
+>>                          besonders w?rden mich auch Belastungstests f?r
+>> Grafik und Netzwerk und eine m?glichst performante Verbindung von
+>> Netzwerk
+>> und Grafik interessieren.
+>>
+>> Design/Modelling: Konzeptzeichnungen und Testmodelle. Au?erdem
+>> Formattests.
+>> Eben das was ihr die ganze Zeit macht.
+>>
+>> So weit von mir.
+>> Bis Bald und Gottes Segen
+>>
+>> Jannis
+>>     
+>
+>   
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071110/02184353/attachment.html>
+
+From M.Crisafulli at gmx.de  Sat Nov 10 11:59:54 2007
+From: M.Crisafulli at gmx.de (Marco Crisafulli)
+Date: Sat, 10 Nov 2007 11:59:54 +0100
+Subject: [Trinitas-main] =?iso-8859-1?q?N=E4chstes_Treffen?=
+In-Reply-To: <473587F5.4010603@oswald-crossmedia.de>
+References: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>
+	<20071110000334.266730@gmx.net> <473587F5.4010603@oswald-crossmedia.de>
+Message-ID: <20071110105954.261560@gmx.net>
+
+hallo j?rgen
+
+danke f?r das angebot. ich mache das f?r ein freund und es ist ?u?erst wichtig f?r mich das diese dateien nicht an dritte weitergeleitet werden. 
+
+hast du vielleicht eine private email adresse?
+
+gru?
+
+
+-------- Original-Nachricht --------
+> Datum: Sat, 10 Nov 2007 11:29:09 +0100
+> Von: Juergen Oswald <trinitas at oswald-crossmedia.de>
+> An: trinitas-main at lists.berlios.de
+> Betreff: Re: [Trinitas-main] N?chstes Treffen
+
+> Hallo Marco,
+> 
+> du kannst mir gerne eine Solid Edge Datei schicken.
+> Evtl. kann ich sie dir in ein Format konvertieren,
+> das du in c4d importieren kannst.
+> 
+> Gru? und Segen
+> Juergen
+> 
+> 
+> Marco Crisafulli schrieb:
+> > hallo an alle
+> >
+> > habe eine gleine frage... wei? jemand von euch wie ich solid edge
+> dateien mit cinema 4d ?ffnen kann? habe mich schon durch foren ect. gek?mpft
+> aber nichts gefunden... 
+> >
+> > gru?
+> > marco
+> >
+> > -------- Original-Nachricht --------
+> >   
+> >> Datum: Fri, 9 Nov 2007 21:03:18 +0100
+> >> Von: "Jannis Froese" <ichthys1 at jesus.de>
+> >> An: trinitas-main at lists.berlios.de
+> >> Betreff: [Trinitas-main] N?chstes Treffen
+> >>     
+> >
+> >   
+> >> Vieles ist geschafft:
+> >> -Die Website ist gr??tenteils fertig.
+> >> -Die Programmierer haben bereits mehrere Mokups zu LUA, RakNet und
+> >> Irrlicht
+> >> erstellt. Vielen Dank f?r diesen wichtigen Beitrag.
+> >> -Auch die Grafiker und Designer waren schon sehr aktiv, haben schon
+> erste
+> >> texturierte Modelle fertiggestellt und die M?glichkeit des Forums zum
+> >> regen
+> >> Austausch ?ber Probleme und Fragen entdeckt.
+> >>
+> >> Aber es bleibt noch viel zu tun. Demn?chst werden die Coding Guidlines
+> >> ver?ffentlicht. Sie sind stark an die von BeOS angelehnt, allerdings
+> >> ?bersetzt und f?r unser Projekt angepasst. Sie sollen uns allen
+> Helfen,
+> >> den
+> >> Code ordentlich zu halten und halbwegs einheitlich aussehen zu lassen.
+> >> Also
+> >> haltet sie bitte zu unser aller Nutzen ein.
+> >>
+> >> Es gibt auch noch weitere Pl?ne, die auch noch besprochen werden
+> sollten,
+> >> wie z.B. ob jeder Entwickler Editierzugang zur Homepage erhalten soll.
+> >> Auserdem m?ssen die Teams noch eingeteilt werden usw.
+> >>
+> >> Um dies alles zu Besprechen, ist ein Treffen auf Samstag, den 17.11.
+> >> angesetzt. Die Uhrzeit steht noch nicht fest. Ich schlage vor, ihr
+> >> schreibt
+> >> mir, ob und wann ihr am 17. Zeit habt, und wann es euch am besten passt
+> >> (beides). Ich werde dann versuchen, einen m?glichst optimalen Termin
+> zu
+> >> finden. Ich denke damit sollte jeder zufrieden sein.
+> >>
+> >> Bis dahin gibt es noch einige Aufgaben, die so weit wie m?glich
+> erledigt
+> >> werden sollten.
+> >> Dazu z?hlen:
+> >>
+> >> Homepage (also eigentlich nur f?r Schakal und mich): ?bersetzung der
+> >> Texte
+> >> mit JoomFish
+> >>
+> >>
+> >> Programmierung: Mokups (in der Gameplanung aufgelistet (Meilensteine))
+> >>                          besonders w?rden mich auch Belastungstests
+> f?r
+> >> Grafik und Netzwerk und eine m?glichst performante Verbindung von
+> >> Netzwerk
+> >> und Grafik interessieren.
+> >>
+> >> Design/Modelling: Konzeptzeichnungen und Testmodelle. Au?erdem
+> >> Formattests.
+> >> Eben das was ihr die ganze Zeit macht.
+> >>
+> >> So weit von mir.
+> >> Bis Bald und Gottes Segen
+> >>
+> >> Jannis
+> >>     
+> >
+> >   
+> 
+
+-- 
+Psssst! Schon vom neuen GMX MultiMessenger geh?rt?
+Der kann`s mit allen: http://www.gmx.net/de/go/multimessenger
+
+
+From simonhoss at googlemail.com  Sat Nov 10 13:22:24 2007
+From: simonhoss at googlemail.com (=?ISO-8859-1?Q?Simon_Ho=DF?=)
+Date: Sat, 10 Nov 2007 13:22:24 +0100
+Subject: [Trinitas-main] =?iso-8859-1?q?N=E4chstes_Treffen?=
+In-Reply-To: <20071110000334.266730@gmx.net>
+References: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>
+	<20071110000334.266730@gmx.net>
+Message-ID: <ce6499060711100422n72d3474aq23b4dbb92e24231@mail.gmail.com>
+
+welche dateiendung ist das denn?
+
+Am 10.11.07 schrieb Marco Crisafulli <M.Crisafulli at gmx.de>:
+>
+> hallo an alle
+>
+> habe eine gleine frage... wei? jemand von euch wie ich solid edge dateien
+> mit cinema 4d ?ffnen kann? habe mich schon durch foren ect. gek?mpft aber
+> nichts gefunden...
+>
+> gru?
+> marco
+>
+> -------- Original-Nachricht --------
+> > Datum: Fri, 9 Nov 2007 21:03:18 +0100
+> > Von: "Jannis Froese" <ichthys1 at jesus.de>
+> > An: trinitas-main at lists.berlios.de
+> > Betreff: [Trinitas-main] N?chstes Treffen
+>
+> > Vieles ist geschafft:
+> > -Die Website ist gr??tenteils fertig.
+> > -Die Programmierer haben bereits mehrere Mokups zu LUA, RakNet und
+> > Irrlicht
+> > erstellt. Vielen Dank f?r diesen wichtigen Beitrag.
+> > -Auch die Grafiker und Designer waren schon sehr aktiv, haben schon
+> erste
+> > texturierte Modelle fertiggestellt und die M?glichkeit des Forums zum
+> > regen
+> > Austausch ?ber Probleme und Fragen entdeckt.
+> >
+> > Aber es bleibt noch viel zu tun. Demn?chst werden die Coding Guidlines
+> > ver?ffentlicht. Sie sind stark an die von BeOS angelehnt, allerdings
+> > ?bersetzt und f?r unser Projekt angepasst. Sie sollen uns allen Helfen,
+> > den
+> > Code ordentlich zu halten und halbwegs einheitlich aussehen zu lassen.
+> > Also
+> > haltet sie bitte zu unser aller Nutzen ein.
+> >
+> > Es gibt auch noch weitere Pl?ne, die auch noch besprochen werden
+> sollten,
+> > wie z.B. ob jeder Entwickler Editierzugang zur Homepage erhalten soll.
+> > Auserdem m?ssen die Teams noch eingeteilt werden usw.
+> >
+> > Um dies alles zu Besprechen, ist ein Treffen auf Samstag, den 17.11.
+> > angesetzt. Die Uhrzeit steht noch nicht fest. Ich schlage vor, ihr
+> > schreibt
+> > mir, ob und wann ihr am 17. Zeit habt, und wann es euch am besten passt
+> > (beides). Ich werde dann versuchen, einen m?glichst optimalen Termin zu
+> > finden. Ich denke damit sollte jeder zufrieden sein.
+> >
+> > Bis dahin gibt es noch einige Aufgaben, die so weit wie m?glich erledigt
+> > werden sollten.
+> > Dazu z?hlen:
+> >
+> > Homepage (also eigentlich nur f?r Schakal und mich): ?bersetzung der
+> > Texte
+> > mit JoomFish
+> >
+> >
+> > Programmierung: Mokups (in der Gameplanung aufgelistet (Meilensteine))
+> >                          besonders w?rden mich auch Belastungstests f?r
+> > Grafik und Netzwerk und eine m?glichst performante Verbindung von
+> > Netzwerk
+> > und Grafik interessieren.
+> >
+> > Design/Modelling: Konzeptzeichnungen und Testmodelle. Au?erdem
+> > Formattests.
+> > Eben das was ihr die ganze Zeit macht.
+> >
+> > So weit von mir.
+> > Bis Bald und Gottes Segen
+> >
+> > Jannis
+>
+> --
+> Der GMX SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!
+> Ideal f?r Modem und ISDN: http://www.gmx.net/de/go/smartsurfer
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071110/a61121c8/attachment.html>
+
+From M.Crisafulli at gmx.de  Sat Nov 10 13:25:06 2007
+From: M.Crisafulli at gmx.de (Marco Crisafulli)
+Date: Sat, 10 Nov 2007 13:25:06 +0100
+Subject: [Trinitas-main] =?iso-8859-1?q?N=E4chstes_Treffen?=
+In-Reply-To: <ce6499060711100422n72d3474aq23b4dbb92e24231@mail.gmail.com>
+References: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>
+	<20071110000334.266730@gmx.net>
+	<ce6499060711100422n72d3474aq23b4dbb92e24231@mail.gmail.com>
+Message-ID: <20071110122506.261520@gmx.net>
+
+.dwg
+.dgn
+.dwf
+.dxx
+.wmf
+.dft
+.dxf
+
+habe schon alle versucht mit C4D zu ?ffnen, leider ohne erfolg...
+
+
+-------- Original-Nachricht --------
+> Datum: Sat, 10 Nov 2007 13:22:24 +0100
+> Von: "Simon Ho?" <simonhoss at googlemail.com>
+> An: trinitas-main at lists.berlios.de
+> Betreff: Re: [Trinitas-main] N?chstes Treffen
+
+> welche dateiendung ist das denn?
+> 
+> Am 10.11.07 schrieb Marco Crisafulli <M.Crisafulli at gmx.de>:
+> >
+> > hallo an alle
+> >
+> > habe eine gleine frage... wei? jemand von euch wie ich solid edge
+> dateien
+> > mit cinema 4d ?ffnen kann? habe mich schon durch foren ect. gek?mpft
+> aber
+> > nichts gefunden...
+> >
+> > gru?
+> > marco
+> >
+> > -------- Original-Nachricht --------
+> > > Datum: Fri, 9 Nov 2007 21:03:18 +0100
+> > > Von: "Jannis Froese" <ichthys1 at jesus.de>
+> > > An: trinitas-main at lists.berlios.de
+> > > Betreff: [Trinitas-main] N?chstes Treffen
+> >
+> > > Vieles ist geschafft:
+> > > -Die Website ist gr??tenteils fertig.
+> > > -Die Programmierer haben bereits mehrere Mokups zu LUA, RakNet und
+> > > Irrlicht
+> > > erstellt. Vielen Dank f?r diesen wichtigen Beitrag.
+> > > -Auch die Grafiker und Designer waren schon sehr aktiv, haben schon
+> > erste
+> > > texturierte Modelle fertiggestellt und die M?glichkeit des Forums zum
+> > > regen
+> > > Austausch ?ber Probleme und Fragen entdeckt.
+> > >
+> > > Aber es bleibt noch viel zu tun. Demn?chst werden die Coding
+> Guidlines
+> > > ver?ffentlicht. Sie sind stark an die von BeOS angelehnt, allerdings
+> > > ?bersetzt und f?r unser Projekt angepasst. Sie sollen uns allen
+> Helfen,
+> > > den
+> > > Code ordentlich zu halten und halbwegs einheitlich aussehen zu lassen.
+> > > Also
+> > > haltet sie bitte zu unser aller Nutzen ein.
+> > >
+> > > Es gibt auch noch weitere Pl?ne, die auch noch besprochen werden
+> > sollten,
+> > > wie z.B. ob jeder Entwickler Editierzugang zur Homepage erhalten soll.
+> > > Auserdem m?ssen die Teams noch eingeteilt werden usw.
+> > >
+> > > Um dies alles zu Besprechen, ist ein Treffen auf Samstag, den 17.11.
+> > > angesetzt. Die Uhrzeit steht noch nicht fest. Ich schlage vor, ihr
+> > > schreibt
+> > > mir, ob und wann ihr am 17. Zeit habt, und wann es euch am besten
+> passt
+> > > (beides). Ich werde dann versuchen, einen m?glichst optimalen Termin
+> zu
+> > > finden. Ich denke damit sollte jeder zufrieden sein.
+> > >
+> > > Bis dahin gibt es noch einige Aufgaben, die so weit wie m?glich
+> erledigt
+> > > werden sollten.
+> > > Dazu z?hlen:
+> > >
+> > > Homepage (also eigentlich nur f?r Schakal und mich): ?bersetzung der
+> > > Texte
+> > > mit JoomFish
+> > >
+> > >
+> > > Programmierung: Mokups (in der Gameplanung aufgelistet (Meilensteine))
+> > >                          besonders w?rden mich auch Belastungstests
+> f?r
+> > > Grafik und Netzwerk und eine m?glichst performante Verbindung von
+> > > Netzwerk
+> > > und Grafik interessieren.
+> > >
+> > > Design/Modelling: Konzeptzeichnungen und Testmodelle. Au?erdem
+> > > Formattests.
+> > > Eben das was ihr die ganze Zeit macht.
+> > >
+> > > So weit von mir.
+> > > Bis Bald und Gottes Segen
+> > >
+> > > Jannis
+> >
+> > --
+> > Der GMX SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!
+> > Ideal f?r Modem und ISDN: http://www.gmx.net/de/go/smartsurfer
+> > _______________________________________________
+> > Trinitas-main mailing list
+> > Trinitas-main at lists.berlios.de
+> > https://lists.berlios.de/mailman/listinfo/trinitas-main
+> >
+
+-- 
+Psssst! Schon vom neuen GMX MultiMessenger geh?rt?
+Der kann`s mit allen: http://www.gmx.net/de/go/multimessenger
+
+
+From ichthys1 at jesus.de  Tue Nov 13 18:14:56 2007
+From: ichthys1 at jesus.de (Jannis Froese)
+Date: Tue, 13 Nov 2007 18:14:56 +0100
+Subject: [Trinitas-main] =?iso-8859-1?q?N=E4chstes_Treffen?=
+In-Reply-To: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>
+References: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>
+Message-ID: <15c4e6840711130914p4e2ed0ccl7912571024b25f64@mail.gmail.com>
+
+Hi,
+Hier der aktuelle Status zu unserem n?chstem Treffen:
+Von denen, von denen ich schon eine Antwort habe,  haben 40% (2) gesagt, das
+sie am Samstag nicht k?nnen.
+Ich k?nnte ihnen nach dem Treffen eine Aufzeichnung schicken. Aber
+angesichts dieser Rate w?rde ich eher vorschlagen, wir suchen einen anderen
+Termin, oder wie seht ihr das?
+Meine Vorschl?ge w?ren Montag, der 19.11.  17Uhr oder 18Uhr (w?rde mir
+besser passen),
+Die gleichen Termine nochmal f?r Dienstag und Mittwoch.
+Alternativ w?re auch Samstag der 24. m?glich. Allerdings w?rde ich einen der
+fr?heren Termine bevorzugen.
+Also gebt mal R?ckmeldung, wann ihr k?nnt. Am besten, ihr gebt zu jedem
+Termin R?ckmeldung, damit ich sehen kann, wann m?glichst viele k?nnen.
+
+Gottes Segen
+
+Jannis
+
+Am 09.11.07 schrieb Jannis Froese <ichthys1 at jesus.de>:
+>
+> Vieles ist geschafft:
+> -Die Website ist gr??tenteils fertig.
+> -Die Programmierer haben bereits mehrere Mokups zu LUA, RakNet und
+> Irrlicht erstellt. Vielen Dank f?r diesen wichtigen Beitrag.
+> -Auch die Grafiker und Designer waren schon sehr aktiv, haben schon erste
+> texturierte Modelle fertiggestellt und die M?glichkeit des Forums zum regen
+> Austausch ?ber Probleme und Fragen entdeckt.
+>
+> Aber es bleibt noch viel zu tun. Demn?chst werden die Coding Guidlines
+> ver?ffentlicht. Sie sind stark an die von BeOS angelehnt, allerdings
+> ?bersetzt und f?r unser Projekt angepasst. Sie sollen uns allen Helfen, den
+> Code ordentlich zu halten und halbwegs einheitlich aussehen zu lassen. Also
+> haltet sie bitte zu unser aller Nutzen ein.
+>
+> Es gibt auch noch weitere Pl?ne, die auch noch besprochen werden sollten,
+> wie z.B. ob jeder Entwickler Editierzugang zur Homepage erhalten soll.
+> Auserdem m?ssen die Teams noch eingeteilt werden usw.
+>
+> Um dies alles zu Besprechen, ist ein Treffen auf Samstag, den 17.11.
+> angesetzt. Die Uhrzeit steht noch nicht fest. Ich schlage vor, ihr schreibt
+> mir, ob und wann ihr am 17. Zeit habt, und wann es euch am besten passt
+> (beides). Ich werde dann versuchen, einen m?glichst optimalen Termin zu
+> finden. Ich denke damit sollte jeder zufrieden sein.
+>
+> Bis dahin gibt es noch einige Aufgaben, die so weit wie m?glich erledigt
+> werden sollten.
+> Dazu z?hlen:
+>
+> Homepage (also eigentlich nur f?r Schakal und mich): ?bersetzung der Texte
+> mit JoomFish
+>
+>
+> Programmierung: Mokups (in der Gameplanung aufgelistet (Meilensteine))
+>                          besonders w?rden mich auch Belastungstests f?r
+> Grafik und Netzwerk und eine m?glichst performante Verbindung von Netzwerk
+> und Grafik interessieren.
+>
+> Design/Modelling: Konzeptzeichnungen und Testmodelle. Au?erdem
+> Formattests. Eben das was ihr die ganze Zeit macht.
+>
+> So weit von mir.
+> Bis Bald und Gottes Segen
+>
+> Jannis
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071113/cca0b8b1/attachment.html>
+
+From trinitas at oswald-crossmedia.de  Tue Nov 13 18:51:23 2007
+From: trinitas at oswald-crossmedia.de (Juergen Oswald)
+Date: Tue, 13 Nov 2007 18:51:23 +0100
+Subject: [Trinitas-main] =?iso-8859-1?q?N=E4chstes_Treffen?=
+In-Reply-To: <15c4e6840711130914p4e2ed0ccl7912571024b25f64@mail.gmail.com>
+References: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>
+	<15c4e6840711130914p4e2ed0ccl7912571024b25f64@mail.gmail.com>
+Message-ID: <4739E41B.30300@oswald-crossmedia.de>
+
+Hallo Jannis,
+
+Montag, Dienstag und Samstag gehen bei mir.
+Mittwoch eingeschr?nkt: => Kann sein, das ich mich
+zwischen 19.30 - 20.30 Uhr f?r unbestimmte Zeit
+ausklinken muss.
+
+Gru?
+Juerge
+
+
+
+
+
+Jannis Froese schrieb:
+> Hi,
+> Hier der aktuelle Status zu unserem n?chstem Treffen:
+> Von denen, von denen ich schon eine Antwort habe,  haben 40% (2) 
+> gesagt, das sie am Samstag nicht k?nnen.
+> Ich k?nnte ihnen nach dem Treffen eine Aufzeichnung schicken. Aber 
+> angesichts dieser Rate w?rde ich eher vorschlagen, wir suchen einen 
+> anderen Termin, oder wie seht ihr das?
+> Meine Vorschl?ge w?ren Montag, der 19.11.  17Uhr oder 18Uhr (w?rde mir 
+> besser passen),
+> Die gleichen Termine nochmal f?r Dienstag und Mittwoch.
+> Alternativ w?re auch Samstag der 24. m?glich. Allerdings w?rde ich 
+> einen der fr?heren Termine bevorzugen.
+> Also gebt mal R?ckmeldung, wann ihr k?nnt. Am besten, ihr gebt zu 
+> jedem Termin R?ckmeldung, damit ich sehen kann, wann m?glichst viele 
+> k?nnen.
+>
+> Gottes Segen
+>
+> Jannis
+>
+> Am 09.11.07 schrieb *Jannis Froese* <ichthys1 at jesus.de 
+> <mailto:ichthys1 at jesus.de>>:
+>
+>     Vieles ist geschafft:
+>     -Die Website ist gr??tenteils fertig.
+>     -Die Programmierer haben bereits mehrere Mokups zu LUA, RakNet und
+>     Irrlicht erstellt. Vielen Dank f?r diesen wichtigen Beitrag.
+>     -Auch die Grafiker und Designer waren schon sehr aktiv, haben
+>     schon erste texturierte Modelle fertiggestellt und die M?glichkeit
+>     des Forums zum regen Austausch ?ber Probleme und Fragen entdeckt.
+>
+>     Aber es bleibt noch viel zu tun. Demn?chst werden die Coding
+>     Guidlines ver?ffentlicht. Sie sind stark an die von BeOS
+>     angelehnt, allerdings ?bersetzt und f?r unser Projekt angepasst.
+>     Sie sollen uns allen Helfen, den Code ordentlich zu halten und
+>     halbwegs einheitlich aussehen zu lassen. Also haltet sie bitte zu
+>     unser aller Nutzen ein.
+>
+>     Es gibt auch noch weitere Pl?ne, die auch noch besprochen werden
+>     sollten, wie z.B. ob jeder Entwickler Editierzugang zur Homepage
+>     erhalten soll.
+>     Auserdem m?ssen die Teams noch eingeteilt werden usw.
+>
+>     Um dies alles zu Besprechen, ist ein Treffen auf Samstag, den
+>     17.11. angesetzt. Die Uhrzeit steht noch nicht fest. Ich schlage
+>     vor, ihr schreibt mir, ob und wann ihr am 17. Zeit habt, und wann
+>     es euch am besten passt (beides). Ich werde dann versuchen, einen
+>     m?glichst optimalen Termin zu finden. Ich denke damit sollte jeder
+>     zufrieden sein.
+>
+>     Bis dahin gibt es noch einige Aufgaben, die so weit wie m?glich
+>     erledigt werden sollten.
+>     Dazu z?hlen:
+>
+>     Homepage (also eigentlich nur f?r Schakal und mich): ?bersetzung
+>     der Texte mit JoomFish
+>
+>
+>     Programmierung: Mokups (in der Gameplanung aufgelistet
+>     (Meilensteine))
+>                              besonders w?rden mich auch
+>     Belastungstests f?r Grafik und Netzwerk und eine m?glichst
+>     performante Verbindung von Netzwerk und Grafik interessieren.
+>
+>     Design/Modelling: Konzeptzeichnungen und Testmodelle. Au?erdem
+>     Formattests. Eben das was ihr die ganze Zeit macht.
+>
+>     So weit von mir.
+>     Bis Bald und Gottes Segen
+>
+>     Jannis
+>
+>
+> ------------------------------------------------------------------------
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>   
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071113/648ecdc0/attachment.html>
+
+From der-erbe-saurons at web.de  Tue Nov 13 21:34:31 2007
+From: der-erbe-saurons at web.de (florian mann)
+Date: Tue, 13 Nov 2007 21:34:31 +0100
+Subject: [Trinitas-main] =?iso-8859-15?q?N=E4chstes_Treffen?=
+Message-ID: <368866282@web.de>
+
+hey jannis,
+geht klar ;)
+gottes segen florian
+_____________________________________________________________________
+Der WEB.DE SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!
+http://smartsurfer.web.de/?mc=100071&distributionid=000000000066
+
+
+
+From simonhoss at googlemail.com  Tue Nov 13 22:17:40 2007
+From: simonhoss at googlemail.com (=?ISO-8859-1?Q?Simon_Ho=DF?=)
+Date: Tue, 13 Nov 2007 22:17:40 +0100
+Subject: [Trinitas-main] =?iso-8859-1?q?N=E4chstes_Treffen?=
+In-Reply-To: <15c4e6840711130914p4e2ed0ccl7912571024b25f64@mail.gmail.com>
+References: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>
+	<15c4e6840711130914p4e2ed0ccl7912571024b25f64@mail.gmail.com>
+Message-ID: <ce6499060711131317q6934fe50xf641bccf77a7f8e8@mail.gmail.com>
+
+alles gut bis auf samstag :)
+
+Am 13.11.07 schrieb Jannis Froese <ichthys1 at jesus.de>:
+>
+> Hi,
+> Hier der aktuelle Status zu unserem n?chstem Treffen:
+> Von denen, von denen ich schon eine Antwort habe,  haben 40% (2) gesagt,
+> das sie am Samstag nicht k?nnen.
+> Ich k?nnte ihnen nach dem Treffen eine Aufzeichnung schicken. Aber
+> angesichts dieser Rate w?rde ich eher vorschlagen, wir suchen einen anderen
+> Termin, oder wie seht ihr das?
+> Meine Vorschl?ge w?ren Montag, der 19.11.  17Uhr oder 18Uhr (w?rde mir
+> besser passen),
+> Die gleichen Termine nochmal f?r Dienstag und Mittwoch.
+> Alternativ w?re auch Samstag der 24. m?glich. Allerdings w?rde ich einen
+> der fr?heren Termine bevorzugen.
+> Also gebt mal R?ckmeldung, wann ihr k?nnt. Am besten, ihr gebt zu jedem
+> Termin R?ckmeldung, damit ich sehen kann, wann m?glichst viele k?nnen.
+>
+> Gottes Segen
+>
+> Jannis
+>
+> Am 09.11.07 schrieb Jannis Froese <ichthys1 at jesus.de>:
+> >
+> > Vieles ist geschafft:
+> > -Die Website ist gr??tenteils fertig.
+> > -Die Programmierer haben bereits mehrere Mokups zu LUA, RakNet und
+> > Irrlicht erstellt. Vielen Dank f?r diesen wichtigen Beitrag.
+> > -Auch die Grafiker und Designer waren schon sehr aktiv, haben schon
+> > erste texturierte Modelle fertiggestellt und die M?glichkeit des Forums zum
+> > regen Austausch ?ber Probleme und Fragen entdeckt.
+> >
+> > Aber es bleibt noch viel zu tun. Demn?chst werden die Coding Guidlines
+> > ver?ffentlicht. Sie sind stark an die von BeOS angelehnt, allerdings
+> > ?bersetzt und f?r unser Projekt angepasst. Sie sollen uns allen Helfen, den
+> > Code ordentlich zu halten und halbwegs einheitlich aussehen zu lassen. Also
+> > haltet sie bitte zu unser aller Nutzen ein.
+> >
+> > Es gibt auch noch weitere Pl?ne, die auch noch besprochen werden
+> > sollten, wie z.B. ob jeder Entwickler Editierzugang zur Homepage
+> > erhalten soll.
+> > Auserdem m?ssen die Teams noch eingeteilt werden usw.
+> >
+> > Um dies alles zu Besprechen, ist ein Treffen auf Samstag, den 17.11.
+> > angesetzt. Die Uhrzeit steht noch nicht fest. Ich schlage vor, ihr schreibt
+> > mir, ob und wann ihr am 17. Zeit habt, und wann es euch am besten passt
+> > (beides). Ich werde dann versuchen, einen m?glichst optimalen Termin zu
+> > finden. Ich denke damit sollte jeder zufrieden sein.
+> >
+> > Bis dahin gibt es noch einige Aufgaben, die so weit wie m?glich erledigt
+> > werden sollten.
+> > Dazu z?hlen:
+> >
+> > Homepage (also eigentlich nur f?r Schakal und mich): ?bersetzung der
+> > Texte mit JoomFish
+> >
+> >
+> > Programmierung: Mokups (in der Gameplanung aufgelistet (Meilensteine))
+> >                          besonders w?rden mich auch Belastungstests f?r
+> > Grafik und Netzwerk und eine m?glichst performante Verbindung von Netzwerk
+> > und Grafik interessieren.
+> >
+> > Design/Modelling: Konzeptzeichnungen und Testmodelle. Au?erdem
+> > Formattests. Eben das was ihr die ganze Zeit macht.
+> >
+> > So weit von mir.
+> > Bis Bald und Gottes Segen
+> >
+> > Jannis
+> >
+> >
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071113/f0bc4641/attachment.html>
+
+From mail at projectconceptor.de  Tue Nov 13 22:19:21 2007
+From: mail at projectconceptor.de (Paradoxon)
+Date: Tue, 13 Nov 2007 22:19:21 +0100
+Subject: [Trinitas-main] =?iso-8859-1?q?N=E4chstes_Treffen?=
+In-Reply-To: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>
+References: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>
+Message-ID: <473A14D9.3020408@projectconceptor.de>
+
+Ok hier noch der Link zu allen Aufgaben, die m?glichst noch vor beginn
+der Implementierung des Spiels erledigt werden m?ssen:
+
+http://spreadsheets.google.com/pub?key=ppZn_UHdxPln9Jgo3Ic9KWg
+
+
+Dann zu den bereits bestehenden Mokups.
+Schaut doch mal ob ihr grob im ?berblick, wie und ob ihr die Testziele 
+schon erreicht habt.
+
+Da ich mehr aus der Entwicklerschiene komme sind derzeit nur 
+programmtechnische Mokups da... wenn *die K?nstler* unter uns noch 
+weiter, notwendige Mokups (f?r euch dann ja eher Konzepte :-)) sehen, 
+mailt sie mir  und ich trage sie ein.
+
+Vor allem vor Beginn der Arbeit am richtigen Spiel muss das *Portierungs 
+Mokup* , fertig sein.
+Dort vor allem die Protierbarkeit von Multithreading
+und Portierungsans?tze f?r ein PluginSystem.
+
+
+Es w?rde uns sehr helfen, wenn ihr Testergebnisse also Code, gut 
+kommentiert ?ber svn committen k?nntet. Schlie?lich sollen die Mokups ja 
+auch den anderen Programmieren helfen, in die Materie einzusteigen. Und 
+zu wissen, dass es bei jemanden auf der Platte funktioniert hat hilft 
+meistens nicht so sehr wie wenn man eigene Test mit einem Programm 
+fahren kann.
+Vielen Dank!
+
+Ich bete f?r ein absolut geniales gelingen.
+
+god bless you all so much
+Matthias
+
+Jannis Froese schrieb:
+> Vieles ist geschafft:
+> -Die Website ist gr??tenteils fertig.
+> -Die Programmierer haben bereits mehrere Mokups zu LUA, RakNet und 
+> Irrlicht erstellt. Vielen Dank f?r diesen wichtigen Beitrag.
+> -Auch die Grafiker und Designer waren schon sehr aktiv, haben schon 
+> erste texturierte Modelle fertiggestellt und die M?glichkeit des 
+> Forums zum regen Austausch ?ber Probleme und Fragen entdeckt.
+>
+> Aber es bleibt noch viel zu tun. Demn?chst werden die Coding Guidlines 
+> ver?ffentlicht. Sie sind stark an die von BeOS angelehnt, allerdings 
+> ?bersetzt und f?r unser Projekt angepasst. Sie sollen uns allen 
+> Helfen, den Code ordentlich zu halten und halbwegs einheitlich 
+> aussehen zu lassen. Also haltet sie bitte zu unser aller Nutzen ein.
+>
+> Es gibt auch noch weitere Pl?ne, die auch noch besprochen werden 
+> sollten, wie z.B. ob jeder Entwickler Editierzugang zur Homepage 
+> erhalten soll.
+> Auserdem m?ssen die Teams noch eingeteilt werden usw.
+>
+> Um dies alles zu Besprechen, ist ein Treffen auf Samstag, den 17.11. 
+> angesetzt. Die Uhrzeit steht noch nicht fest. Ich schlage vor, ihr 
+> schreibt mir, ob und wann ihr am 17. Zeit habt, und wann es euch am 
+> besten passt (beides). Ich werde dann versuchen, einen m?glichst 
+> optimalen Termin zu finden. Ich denke damit sollte jeder zufrieden sein.
+>
+> Bis dahin gibt es noch einige Aufgaben, die so weit wie m?glich 
+> erledigt werden sollten.
+> Dazu z?hlen:
+>
+> Homepage (also eigentlich nur f?r Schakal und mich): ?bersetzung der 
+> Texte mit JoomFish
+>
+>
+> Programmierung: Mokups (in der Gameplanung aufgelistet (Meilensteine))
+>                          besonders w?rden mich auch Belastungstests 
+> f?r Grafik und Netzwerk und eine m?glichst performante Verbindung von 
+> Netzwerk und Grafik interessieren.
+>
+> Design/Modelling: Konzeptzeichnungen und Testmodelle. Au?erdem 
+> Formattests. Eben das was ihr die ganze Zeit macht.
+>
+> So weit von mir.
+> Bis Bald und Gottes Segen
+>
+> Jannis
+>
+> ------------------------------------------------------------------------
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>   
+
+
+-- 
+Matthias Lindner
+Lazarettstr. 10
+
+45127 Essen
+
+Tel/Fax.: 0201-2480986
+Mail:	mail at projectconceptor.de
+
+
+www.online-mit-gott.de
+trinitas.berlios.de
+www.fishers-girl.de
+www.projectconceptor.de
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071113/1d042f59/attachment.html>
+
+From simonhoss at googlemail.com  Tue Nov 13 22:33:49 2007
+From: simonhoss at googlemail.com (=?ISO-8859-1?Q?Simon_Ho=DF?=)
+Date: Tue, 13 Nov 2007 22:33:49 +0100
+Subject: [Trinitas-main] =?iso-8859-1?q?N=E4chstes_Treffen?=
+In-Reply-To: <473A14D9.3020408@projectconceptor.de>
+References: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>
+	<473A14D9.3020408@projectconceptor.de>
+Message-ID: <ce6499060711131333m6a0b973dv316f546aa6310563@mail.gmail.com>
+
+w?re es evntuell sinnvoll, wenn du einfach dinge verteilst, der F?higkeiten
+entsprechend?
+Evtl. k?nnen wir das ja beim treffen alles ausmachen oder?
+
+Am 13.11.07 schrieb Paradoxon <mail at projectconceptor.de>:
+>
+>  Ok hier noch der Link zu allen Aufgaben, die m?glichst noch vor beginn
+> der Implementierung des Spiels erledigt werden m?ssen:
+>
+> http://spreadsheets.google.com/pub?key=ppZn_UHdxPln9Jgo3Ic9KWg
+>
+>
+> Dann zu den bereits bestehenden Mokups.
+> Schaut doch mal ob ihr grob im ?berblick, wie und ob ihr die Testziele
+> schon erreicht habt.
+>
+> Da ich mehr aus der Entwicklerschiene komme sind derzeit nur
+> programmtechnische Mokups da... wenn *die K?nstler* unter uns noch weiter,
+> notwendige Mokups (f?r euch dann ja eher Konzepte :-)) sehen, mailt sie mir
+> und ich trage sie ein.
+>
+> Vor allem vor Beginn der Arbeit am richtigen Spiel muss das *Portierungs
+> Mokup* , fertig sein.
+> Dort vor allem die Protierbarkeit von Multithreading
+> und Portierungsans?tze f?r ein PluginSystem.
+>
+>
+> Es w?rde uns sehr helfen, wenn ihr Testergebnisse also Code, gut
+> kommentiert ?ber svn committen k?nntet. Schlie?lich sollen die Mokups ja
+> auch den anderen Programmieren helfen, in die Materie einzusteigen. Und zu
+> wissen, dass es bei jemanden auf der Platte funktioniert hat hilft meistens
+> nicht so sehr wie wenn man eigene Test mit einem Programm fahren kann.
+> Vielen Dank!
+>
+> Ich bete f?r ein absolut geniales gelingen.
+>
+> god bless you all so much
+> Matthias
+>
+> Jannis Froese schrieb:
+>
+> Vieles ist geschafft:
+> -Die Website ist gr??tenteils fertig.
+> -Die Programmierer haben bereits mehrere Mokups zu LUA, RakNet und
+> Irrlicht erstellt. Vielen Dank f?r diesen wichtigen Beitrag.
+> -Auch die Grafiker und Designer waren schon sehr aktiv, haben schon erste
+> texturierte Modelle fertiggestellt und die M?glichkeit des Forums zum regen
+> Austausch ?ber Probleme und Fragen entdeckt.
+>
+> Aber es bleibt noch viel zu tun. Demn?chst werden die Coding Guidlines
+> ver?ffentlicht. Sie sind stark an die von BeOS angelehnt, allerdings
+> ?bersetzt und f?r unser Projekt angepasst. Sie sollen uns allen Helfen, den
+> Code ordentlich zu halten und halbwegs einheitlich aussehen zu lassen. Also
+> haltet sie bitte zu unser aller Nutzen ein.
+>
+> Es gibt auch noch weitere Pl?ne, die auch noch besprochen werden sollten,
+> wie z.B. ob jeder Entwickler Editierzugang zur Homepage erhalten soll.
+> Auserdem m?ssen die Teams noch eingeteilt werden usw.
+>
+> Um dies alles zu Besprechen, ist ein Treffen auf Samstag, den 17.11.
+> angesetzt. Die Uhrzeit steht noch nicht fest. Ich schlage vor, ihr schreibt
+> mir, ob und wann ihr am 17. Zeit habt, und wann es euch am besten passt
+> (beides). Ich werde dann versuchen, einen m?glichst optimalen Termin zu
+> finden. Ich denke damit sollte jeder zufrieden sein.
+>
+> Bis dahin gibt es noch einige Aufgaben, die so weit wie m?glich erledigt
+> werden sollten.
+> Dazu z?hlen:
+>
+> Homepage (also eigentlich nur f?r Schakal und mich): ?bersetzung der Texte
+> mit JoomFish
+>
+>
+> Programmierung: Mokups (in der Gameplanung aufgelistet (Meilensteine))
+>                          besonders w?rden mich auch Belastungstests f?r
+> Grafik und Netzwerk und eine m?glichst performante Verbindung von Netzwerk
+> und Grafik interessieren.
+>
+> Design/Modelling: Konzeptzeichnungen und Testmodelle. Au?erdem
+> Formattests. Eben das was ihr die ganze Zeit macht.
+>
+> So weit von mir.
+> Bis Bald und Gottes Segen
+>
+> Jannis
+>
+> ------------------------------
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.dehttps://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+>
+> --
+> Matthias Lindner
+> Lazarettstr. 10
+>
+> 45127 Essen
+>
+> Tel/Fax.: 0201-2480986
+> Mail:	mail at projectconceptor.de
+>
+> www.online-mit-gott.detrinitas.berlios.dewww.fishers-girl.dewww.projectconceptor.de
+>
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071113/2b8fb1cd/attachment.html>
+
+From mail at projectconceptor.de  Tue Nov 13 23:11:11 2007
+From: mail at projectconceptor.de (Paradoxon)
+Date: Tue, 13 Nov 2007 23:11:11 +0100
+Subject: [Trinitas-main] =?iso-8859-1?q?N=E4chstes_Treffen?=
+In-Reply-To: <ce6499060711131333m6a0b973dv316f546aa6310563@mail.gmail.com>
+References: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>	<473A14D9.3020408@projectconceptor.de>
+	<ce6499060711131333m6a0b973dv316f546aa6310563@mail.gmail.com>
+Message-ID: <473A20FF.7030506@projectconceptor.de>
+
+Guter Punkt Simon!
+
+Darum werden wir es auch zu unserem Meeting ansprechen.
+
+Wollte euch vorab schon mal nen ?berblick liefern, da ich ja noch nicht 
+alle eure F?higkeiten kenne. So habt ihr die M?glichkeit einen Blick 
+drauf zu werfen und euch zu entscheiden oder sogar schon zu melden.
+
+
+Bei bestimmten Mokups habe ich bereits auch ganz gezielte Anfragen 
+gestartet ;-)
+
+gby
+Matthias
+
+
+Simon Ho? schrieb:
+> w?re es evntuell sinnvoll, wenn du einfach dinge verteilst, der 
+> F?higkeiten entsprechend?
+> Evtl. k?nnen wir das ja beim treffen alles ausmachen oder?
+>
+> Am 13.11.07 schrieb * Paradoxon* <mail at projectconceptor.de 
+> <mailto:mail at projectconceptor.de>>:
+>
+>     Ok hier noch der Link zu allen Aufgaben, die m?glichst noch vor beginn
+>     der Implementierung des Spiels erledigt werden m?ssen:
+>
+>     http://spreadsheets.google.com/pub?key=ppZn_UHdxPln9Jgo3Ic9KWg
+>
+>
+>     Dann zu den bereits bestehenden Mokups.
+>     Schaut doch mal ob ihr grob im ?berblick, wie und ob ihr die
+>     Testziele schon erreicht habt.
+>
+>     Da ich mehr aus der Entwicklerschiene komme sind derzeit nur
+>     programmtechnische Mokups da... wenn *die K?nstler* unter uns noch
+>     weiter, notwendige Mokups (f?r euch dann ja eher Konzepte :-))
+>     sehen, mailt sie mir  und ich trage sie ein.
+>
+>     Vor allem vor Beginn der Arbeit am richtigen Spiel muss das
+>     *Portierungs Mokup* , fertig sein.
+>     Dort vor allem die Protierbarkeit von Multithreading
+>     und Portierungsans?tze f?r ein PluginSystem.
+>
+>
+>     Es w?rde uns sehr helfen, wenn ihr Testergebnisse also Code, gut
+>     kommentiert ?ber svn committen k?nntet. Schlie?lich sollen die
+>     Mokups ja auch den anderen Programmieren helfen, in die Materie
+>     einzusteigen. Und zu wissen, dass es bei jemanden auf der Platte
+>     funktioniert hat hilft meistens nicht so sehr wie wenn man eigene
+>     Test mit einem Programm fahren kann.
+>     Vielen Dank!
+>
+>     Ich bete f?r ein absolut geniales gelingen.
+>
+>     god bless you all so much
+>     Matthias
+>
+>     Jannis Froese schrieb:
+>>     Vieles ist geschafft:
+>>     -Die Website ist gr??tenteils fertig.
+>>     -Die Programmierer haben bereits mehrere Mokups zu LUA, RakNet
+>>     und Irrlicht erstellt. Vielen Dank f?r diesen wichtigen Beitrag.
+>>     -Auch die Grafiker und Designer waren schon sehr aktiv, haben
+>>     schon erste texturierte Modelle fertiggestellt und die
+>>     M?glichkeit des Forums zum regen Austausch ?ber Probleme und
+>>     Fragen entdeckt.
+>>
+>>     Aber es bleibt noch viel zu tun. Demn?chst werden die Coding
+>>     Guidlines ver?ffentlicht. Sie sind stark an die von BeOS
+>>     angelehnt, allerdings ?bersetzt und f?r unser Projekt angepasst.
+>>     Sie sollen uns allen Helfen, den Code ordentlich zu halten und
+>>     halbwegs einheitlich aussehen zu lassen. Also haltet sie bitte zu
+>>     unser aller Nutzen ein.
+>>
+>>     Es gibt auch noch weitere Pl?ne, die auch noch besprochen werden
+>>     sollten, wie z.B. ob jeder Entwickler Editierzugang zur Homepage
+>>     erhalten soll.
+>>     Auserdem m?ssen die Teams noch eingeteilt werden usw.
+>>
+>>     Um dies alles zu Besprechen, ist ein Treffen auf Samstag, den
+>>     17.11. angesetzt. Die Uhrzeit steht noch nicht fest. Ich schlage
+>>     vor, ihr schreibt mir, ob und wann ihr am 17. Zeit habt, und wann
+>>     es euch am besten passt (beides). Ich werde dann versuchen, einen
+>>     m?glichst optimalen Termin zu finden. Ich denke damit sollte
+>>     jeder zufrieden sein.
+>>
+>>     Bis dahin gibt es noch einige Aufgaben, die so weit wie m?glich
+>>     erledigt werden sollten.
+>>     Dazu z?hlen:
+>>
+>>     Homepage (also eigentlich nur f?r Schakal und mich): ?bersetzung
+>>     der Texte mit JoomFish
+>>
+>>
+>>     Programmierung: Mokups (in der Gameplanung aufgelistet
+>>     (Meilensteine))
+>>                              besonders w?rden mich auch
+>>     Belastungstests f?r Grafik und Netzwerk und eine m?glichst
+>>     performante Verbindung von Netzwerk und Grafik interessieren.
+>>
+>>     Design/Modelling: Konzeptzeichnungen und Testmodelle. Au?erdem
+>>     Formattests. Eben das was ihr die ganze Zeit macht.
+>>
+>>     So weit von mir.
+>>     Bis Bald und Gottes Segen
+>>
+>>     Jannis
+>>
+>>     ------------------------------------------------------------------------
+>>
+>>     _______________________________________________
+>>     Trinitas-main mailing list
+>>     Trinitas-main at lists.berlios.de
+>>      <mailto:Trinitas-main at lists.berlios.de>
+>>     https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>       
+>
+>
+>     -- 
+>     Matthias Lindner
+>     Lazarettstr. 10
+>
+>     45127 Essen
+>
+>     Tel/Fax.: 0201-2480986
+>     Mail:	
+>     mail at projectconceptor.de <mailto:mail at projectconceptor.de>
+>
+>
+>     www.online-mit-gott.de <http://www.online-mit-gott.de>
+>     trinitas.berlios.de <http://trinitas.berlios.de>
+>     www.fishers-girl.de <http://www.fishers-girl.de>
+>     www.projectconceptor.de <http://www.projectconceptor.de>
+>         
+>
+>
+>     _______________________________________________
+>     Trinitas-main mailing list
+>     Trinitas-main at lists.berlios.de
+>     <mailto:Trinitas-main at lists.berlios.de>
+>     https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+> ------------------------------------------------------------------------
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>   
+
+
+-- 
+Matthias Lindner
+Lazarettstr. 10
+
+45127 Essen
+
+Tel/Fax.: 0201-2480986
+Mail:	mail at projectconceptor.de
+
+
+www.online-mit-gott.de
+trinitas.berlios.de
+www.fishers-girl.de
+www.projectconceptor.de
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071113/a00fce74/attachment.html>
+
+From ichthys1 at jesus.de  Wed Nov 14 16:54:17 2007
+From: ichthys1 at jesus.de (Jannis Froese)
+Date: Wed, 14 Nov 2007 16:54:17 +0100
+Subject: [Trinitas-main] =?iso-8859-1?q?N=E4chstes_Treffen?=
+In-Reply-To: <15c4e6840711130914p4e2ed0ccl7912571024b25f64@mail.gmail.com>
+References: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>
+	<15c4e6840711130914p4e2ed0ccl7912571024b25f64@mail.gmail.com>
+Message-ID: <15c4e6840711140754u17608d8dhc48af67654bbf7e8@mail.gmail.com>
+
+Das n?chste Treffen wird dann also Montag ab 18 Uhr stattfinden.
+Dann k?nnen wir auch alle noch offenen Fragen kl?ren.
+
+Jannis
+
+Am 13.11.07 schrieb Jannis Froese <ichthys1 at jesus.de>:
+>
+> Hi,
+> Hier der aktuelle Status zu unserem n?chstem Treffen:
+> Von denen, von denen ich schon eine Antwort habe,  haben 40% (2) gesagt,
+> das sie am Samstag nicht k?nnen.
+> Ich k?nnte ihnen nach dem Treffen eine Aufzeichnung schicken. Aber
+> angesichts dieser Rate w?rde ich eher vorschlagen, wir suchen einen anderen
+> Termin, oder wie seht ihr das?
+> Meine Vorschl?ge w?ren Montag, der 19.11.  17Uhr oder 18Uhr (w?rde mir
+> besser passen),
+> Die gleichen Termine nochmal f?r Dienstag und Mittwoch.
+> Alternativ w?re auch Samstag der 24. m?glich. Allerdings w?rde ich einen
+> der fr?heren Termine bevorzugen.
+> Also gebt mal R?ckmeldung, wann ihr k?nnt. Am besten, ihr gebt zu jedem
+> Termin R?ckmeldung, damit ich sehen kann, wann m?glichst viele k?nnen.
+>
+> Gottes Segen
+>
+> Jannis
+>
+> Am 09.11.07 schrieb Jannis Froese <ichthys1 at jesus.de>:
+> >
+> > Vieles ist geschafft:
+> > -Die Website ist gr??tenteils fertig.
+> > -Die Programmierer haben bereits mehrere Mokups zu LUA, RakNet und
+> > Irrlicht erstellt. Vielen Dank f?r diesen wichtigen Beitrag.
+> > -Auch die Grafiker und Designer waren schon sehr aktiv, haben schon
+> > erste texturierte Modelle fertiggestellt und die M?glichkeit des Forums zum
+> > regen Austausch ?ber Probleme und Fragen entdeckt.
+> >
+> > Aber es bleibt noch viel zu tun. Demn?chst werden die Coding Guidlines
+> > ver?ffentlicht. Sie sind stark an die von BeOS angelehnt, allerdings
+> > ?bersetzt und f?r unser Projekt angepasst. Sie sollen uns allen Helfen, den
+> > Code ordentlich zu halten und halbwegs einheitlich aussehen zu lassen. Also
+> > haltet sie bitte zu unser aller Nutzen ein.
+> >
+> > Es gibt auch noch weitere Pl?ne, die auch noch besprochen werden
+> > sollten, wie z.B. ob jeder Entwickler Editierzugang zur Homepage
+> > erhalten soll.
+> > Auserdem m?ssen die Teams noch eingeteilt werden usw.
+> >
+> > Um dies alles zu Besprechen, ist ein Treffen auf Samstag, den 17.11.
+> > angesetzt. Die Uhrzeit steht noch nicht fest. Ich schlage vor, ihr schreibt
+> > mir, ob und wann ihr am 17. Zeit habt, und wann es euch am besten passt
+> > (beides). Ich werde dann versuchen, einen m?glichst optimalen Termin zu
+> > finden. Ich denke damit sollte jeder zufrieden sein.
+> >
+> > Bis dahin gibt es noch einige Aufgaben, die so weit wie m?glich erledigt
+> > werden sollten.
+> > Dazu z?hlen:
+> >
+> > Homepage (also eigentlich nur f?r Schakal und mich): ?bersetzung der
+> > Texte mit JoomFish
+> >
+> >
+> > Programmierung: Mokups (in der Gameplanung aufgelistet (Meilensteine))
+> >                          besonders w?rden mich auch Belastungstests f?r
+> > Grafik und Netzwerk und eine m?glichst performante Verbindung von Netzwerk
+> > und Grafik interessieren.
+> >
+> > Design/Modelling: Konzeptzeichnungen und Testmodelle. Au?erdem
+> > Formattests. Eben das was ihr die ganze Zeit macht.
+> >
+> > So weit von mir.
+> > Bis Bald und Gottes Segen
+> >
+> > Jannis
+> >
+> >
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071114/cfcef8c3/attachment.html>
+
+From trinitas at oswald-crossmedia.de  Thu Nov 15 09:45:00 2007
+From: trinitas at oswald-crossmedia.de (Juergen Oswald)
+Date: Thu, 15 Nov 2007 09:45:00 +0100
+Subject: [Trinitas-main] =?iso-8859-1?q?N=E4chstes_Treffen?=
+In-Reply-To: <15c4e6840711140754u17608d8dhc48af67654bbf7e8@mail.gmail.com>
+References: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>	<15c4e6840711130914p4e2ed0ccl7912571024b25f64@mail.gmail.com>
+	<15c4e6840711140754u17608d8dhc48af67654bbf7e8@mail.gmail.com>
+Message-ID: <473C070C.8080005@oswald-crossmedia.de>
+
+Hallo Jannis,
+
+danke an dieser Stelle f?r deine Bem?hungen und die Organisation.
+Dann bis Montag.
+
+Gru? und Segen
+Juergen
+
+
+Jannis Froese schrieb:
+> Das n?chste Treffen wird dann also Montag ab 18 Uhr stattfinden.
+> Dann k?nnen wir auch alle noch offenen Fragen kl?ren.
+>
+> Jannis
+>
+> Am 13.11.07 schrieb * Jannis Froese* <ichthys1 at jesus.de 
+> <mailto:ichthys1 at jesus.de>>:
+>
+>     Hi,
+>     Hier der aktuelle Status zu unserem n?chstem Treffen:
+>     Von denen, von denen ich schon eine Antwort habe,  haben 40% (2)
+>     gesagt, das sie am Samstag nicht k?nnen.
+>     Ich k?nnte ihnen nach dem Treffen eine Aufzeichnung schicken. Aber
+>     angesichts dieser Rate w?rde ich eher vorschlagen, wir suchen
+>     einen anderen Termin, oder wie seht ihr das?
+>     Meine Vorschl?ge w?ren Montag, der 19.11.  17Uhr oder 18Uhr (w?rde
+>     mir besser passen),
+>     Die gleichen Termine nochmal f?r Dienstag und Mittwoch.
+>     Alternativ w?re auch Samstag der 24. m?glich. Allerdings w?rde ich
+>     einen der fr?heren Termine bevorzugen.
+>     Also gebt mal R?ckmeldung, wann ihr k?nnt. Am besten, ihr gebt zu
+>     jedem Termin R?ckmeldung, damit ich sehen kann, wann m?glichst
+>     viele k?nnen.
+>
+>     Gottes Segen
+>
+>     Jannis
+>
+>     Am 09.11.07 schrieb *Jannis Froese* <ichthys1 at jesus.de
+>     <mailto:ichthys1 at jesus.de>>:
+>
+>         Vieles ist geschafft:
+>         -Die Website ist gr??tenteils fertig.
+>         -Die Programmierer haben bereits mehrere Mokups zu LUA, RakNet
+>         und Irrlicht erstellt. Vielen Dank f?r diesen wichtigen Beitrag.
+>         -Auch die Grafiker und Designer waren schon sehr aktiv, haben
+>         schon erste texturierte Modelle fertiggestellt und die
+>         M?glichkeit des Forums zum regen Austausch ?ber Probleme und
+>         Fragen entdeckt.
+>
+>         Aber es bleibt noch viel zu tun. Demn?chst werden die Coding
+>         Guidlines ver?ffentlicht. Sie sind stark an die von BeOS
+>         angelehnt, allerdings ?bersetzt und f?r unser Projekt
+>         angepasst. Sie sollen uns allen Helfen, den Code ordentlich zu
+>         halten und halbwegs einheitlich aussehen zu lassen. Also
+>         haltet sie bitte zu unser aller Nutzen ein.
+>
+>         Es gibt auch noch weitere Pl?ne, die auch noch besprochen
+>         werden sollten, wie z.B. ob jeder Entwickler Editierzugang zur
+>         Homepage erhalten soll.
+>         Auserdem m?ssen die Teams noch eingeteilt werden usw.
+>
+>         Um dies alles zu Besprechen, ist ein Treffen auf Samstag, den
+>         17.11. angesetzt. Die Uhrzeit steht noch nicht fest. Ich
+>         schlage vor, ihr schreibt mir, ob und wann ihr am 17. Zeit
+>         habt, und wann es euch am besten passt (beides). Ich werde
+>         dann versuchen, einen m?glichst optimalen Termin zu finden.
+>         Ich denke damit sollte jeder zufrieden sein.
+>
+>         Bis dahin gibt es noch einige Aufgaben, die so weit wie
+>         m?glich erledigt werden sollten.
+>         Dazu z?hlen:
+>
+>         Homepage (also eigentlich nur f?r Schakal und mich):
+>         ?bersetzung der Texte mit JoomFish
+>
+>
+>         Programmierung: Mokups (in der Gameplanung aufgelistet
+>         (Meilensteine))
+>                                  besonders w?rden mich auch
+>         Belastungstests f?r Grafik und Netzwerk und eine m?glichst
+>         performante Verbindung von Netzwerk und Grafik interessieren.
+>
+>         Design/Modelling: Konzeptzeichnungen und Testmodelle. Au?erdem
+>         Formattests. Eben das was ihr die ganze Zeit macht.
+>
+>         So weit von mir.
+>         Bis Bald und Gottes Segen
+>
+>         Jannis
+>
+>
+>
+> ------------------------------------------------------------------------
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>   
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20071115/cb03b69b/attachment.html>
+
+From trinitas at oswald-crossmedia.de  Wed Nov 21 17:28:54 2007
+From: trinitas at oswald-crossmedia.de (Juergen Oswald)
+Date: Wed, 21 Nov 2007 17:28:54 +0100
+Subject: [Trinitas-main] Info members auf Projektseite
+In-Reply-To: <473A14D9.3020408@projectconceptor.de>
+References: <15c4e6840711091203t6cd3b75cyd1c2898c2cc736bc@mail.gmail.com>
+	<473A14D9.3020408@projectconceptor.de>
+Message-ID: <47445CC6.1080204@oswald-crossmedia.de>
+
+Hallo Matthias,
+
+ich bin gerade auf der Members-List auf der Trinitas Projektseite.
+W?re es m?glich die Angaben dort zu vervollst?ndigen, bzw.
+die Role/Position Info einzutragen?
+Es w?re von Vorteil, wenn f?r jedermann die Infos zug?nglich w?ren
+Username => Wer ist das? Realname => Was mach der oder was hat der f?r 
+Aufgaben.
+So tut sich jeder leichter den richtigen Ansprechpartner zu finden.
+
+Ich wei? jetzt f?r unsere Gruppe nur von:
+ocram => Marco => Modeller
+designer => Florian => Designer?!
+spacepainter => Juergen => 3D-Modelling, Animation, Textur, Grafik
+
+Es hie? mal, das da noch zwei weitere 3D-Leute dabei sind.
+War damit Marco und Simon oder Jannis gemeint?
+Oder noch jemand anderes?
+
+Gru? und Segen
+Juergen
+
+
+
+From der-erbe-saurons at web.de  Wed Nov 21 17:53:56 2007
+From: der-erbe-saurons at web.de (florian mann)
+Date: Wed, 21 Nov 2007 17:53:56 +0100
+Subject: [Trinitas-main] Info members auf Projektseite
+Message-ID: <381873307@web.de>
+
+ designer=>florian=>grafiker
+_____________________________________________________________________
+Der WEB.DE SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!
+http://smartsurfer.web.de/?mc=100071&distributionid=000000000066
+
+
+
+From trinitas at oswald-crossmedia.de  Wed Nov 21 18:06:20 2007
+From: trinitas at oswald-crossmedia.de (Juergen Oswald)
+Date: Wed, 21 Nov 2007 18:06:20 +0100
+Subject: [Trinitas-main] Info members auf Projektseite
+In-Reply-To: <381873307@web.de>
+References: <381873307@web.de>
+Message-ID: <4744658C.7080309@oswald-crossmedia.de>
+
+Ok danke ;-)
+
+Gru? und Segen
+Juergen
+
+
+florian mann schrieb:
+>  designer=>florian=>grafiker
+> _____________________________________________________________________
+> Der WEB.DE SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!
+> http://smartsurfer.web.de/?mc=100071&distributionid=000000000066
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+>
+>   
+
+
+

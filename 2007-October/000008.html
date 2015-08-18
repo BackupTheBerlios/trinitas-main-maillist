@@ -1,0 +1,147 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+ <HEAD>
+   <TITLE> [Trinitas-main] Lua, Probleme und Funktionen
+   </TITLE>
+   <LINK REL="Index" HREF="http://lists.berlios.de/pipermail/trinitas-main/2007-October/index.html" >
+   <LINK REL="made" HREF="mailto:trinitas-main%40lists.berlios.de?Subject=Re%3A%20%5BTrinitas-main%5D%20Lua%2C%20Probleme%20und%20Funktionen&In-Reply-To=%3C816742552%40web.de%3E">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <style type="text/css">
+       pre {
+           white-space: pre-wrap;       /* css-2.1, curent FF, Opera, Safari */
+           }
+   </style>
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   <LINK REL="Previous"  HREF="000009.html">
+   <LINK REL="Next"  HREF="000010.html">
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[Trinitas-main] Lua, Probleme und Funktionen</H1>
+    <B>davidjablonski at web.de</B> 
+    <A HREF="mailto:trinitas-main%40lists.berlios.de?Subject=Re%3A%20%5BTrinitas-main%5D%20Lua%2C%20Probleme%20und%20Funktionen&In-Reply-To=%3C816742552%40web.de%3E"
+       TITLE="[Trinitas-main] Lua, Probleme und Funktionen">davidjablonski at web.de
+       </A><BR>
+    <I>Tue Oct  9 19:24:46 CEST 2007</I>
+    <P><UL>
+        <LI>Previous message: <A HREF="000009.html">[Trinitas-main] Hallo Leute
+</A></li>
+        <LI>Next message: <A HREF="000010.html">[Trinitas-main] Look und Feel  + Gr&#246;&#223;e des Spielfeldes
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#8">[ date ]</a>
+              <a href="thread.html#8">[ thread ]</a>
+              <a href="subject.html#8">[ subject ]</a>
+              <a href="author.html#8">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>Na ihr,
+
+ich hab mich bisschen mit LUA in C++ und so besch&#228;ftigt.
+Erstmal wollte ich &#252;ber meine bisherigen &quot;Erfolge&quot; sprechen.
+Es ist mir gelungen - ja gut Simon hat es viel schneller hingekriegt, aber hat mir nicht geholfen :) -
+Lua-Skripte mit C++ aufzurufen und auszuf&#252;hren.
+Ferner habe ich es geschafft, in LUA  C++-Funktionen aufzurufen. So geht es:
+
+In C++ registriert man erstmal eine Funktion, die auch in Lua aufgerufen werden kann:
+
+lua_register(L,&quot;addiere&quot;,cAddiere);
+
+&quot;Addiere&quot; ist hierbei das, was in Lua steht, zB Addiere(5,10)
+cAddiere ist der Name der C++-Funktion, die wir aufrufen wollen.
+Die Funktion ist aber nicht &quot;normal&quot;, sondern sieht so aus:
+
+static int cAddiere(lua_State* L)
+{
+	double a,b;
+	a = lua_tonumber(L, 1);
+	b = lua_tonumber(L, 2);
+	lua_pushnumber(L,a+b);
+	return 1;
+}
+
+1 und 2 sind dabei Indizes des von C++ und LUA gemeinsam benutzten Stacks.
+Als Lua-Skript hat man dann folgendes:
+
+ergebnis=addiere(100,200)
+print ergebnis
+
+(wundert euch nicht &#252;ber die fehlenden ;
+die KANN man machen, und ich als C++-
+Hasser lasse die bewusst weg :P )
+
+Et voil&#224;...als Ausgabe erh&#228;lt man 300 :)
+Wenn ihr euch selbst &#252;berzeugen wollt:
+&gt;&gt;&gt;&gt;<i> Trinitas\tests\lua\basics
+</I>
+Ok, das waren schon die Erfolge.
+Jetzt die Probleme.
+Aus Erfahrung mit Lua kann ich sagen, dass wir
+ebenfalls MySQL brauchen. Der Grund: Damit C++
+wei&#223;, welche Skripte aufgerufen werden sollen!
+Beispiel:
+Ein Spieler benutzt eine Axt auf einen Baum.
+F&#252;r diesen Fall gibt es (bzw. wird es geben) diese Funktion (in LUA):
+
+Function UseItemWithItem(SourceItem, TargetItem, User)
+   ....
+End Function
+
+Da es in allen Skripten nicht nur einmal diese Funktion geben wird,
+wird dann in der MySQL-Tabelle gespeichert, welche Lua-Skripte
+mit welchen Objekten zu tun haben.
+Dies ist nur ein Vorschlag, den ich f&#252;r sehr gut halte. Falls euch was
+besseres einf&#228;llt, nur zu :P
+
+
+Momentan arbeite ich an einer C++-Funktion, die eine Lua-Funktion aufruft,
+die beliebig viele Parameter besitzen kann. Soweit bin ich schon:
+
+void CallLuaFunction(lua_State* lState, const char* fncName, int nResults, ...)
+{
+    int i;
+    char* param;
+    lua_getfield(L, LUA_GLOBALSINDEX, fncName);
+    va_list args;
+    va_start(args,param);
+    while(param!=NULL)
+    {
+        i++;
+        lua_pushstring(lState,param);
+        param = va_arg(args,char*);
+    }
+    va_end(args);
+    lua_call(lState,i,nResults);
+}
+
+Habs noch nicht getestet ^^
+So das wars, Gottes reichen Segen f&#252;r euch alle,
+David Jablonski
+______________________________________________________________________________
+Jetzt neu! Im riesigen WEB.DE Club SmartDrive Dateien freigeben und mit 
+Freunden teilen! <A HREF="http://www.freemail.web.de/club/smartdrive_ttc.htm/?mc=021134">http://www.freemail.web.de/club/smartdrive_ttc.htm/?mc=021134</A>
+
+
+</PRE>
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	<LI>Previous message: <A HREF="000009.html">[Trinitas-main] Hallo Leute
+</A></li>
+	<LI>Next message: <A HREF="000010.html">[Trinitas-main] Look und Feel  + Gr&#246;&#223;e des Spielfeldes
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#8">[ date ]</a>
+              <a href="thread.html#8">[ thread ]</a>
+              <a href="subject.html#8">[ subject ]</a>
+              <a href="author.html#8">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="https://lists.berlios.de/mailman/listinfo/trinitas-main">More information about the Trinitas-main
+mailing list</a><br>
+</body></html>

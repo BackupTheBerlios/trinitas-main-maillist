@@ -1,0 +1,126 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+ <HEAD>
+   <TITLE> [Trinitas-main] Trinitas mit svn auschecken
+   </TITLE>
+   <LINK REL="Index" HREF="http://lists.berlios.de/pipermail/trinitas-main/2008-October/index.html" >
+   <LINK REL="made" HREF="mailto:trinitas-main%40lists.berlios.de?Subject=Re%3A%20%5BTrinitas-main%5D%20Trinitas%20mit%20svn%20auschecken&In-Reply-To=%3CEB550E60-7301-4ED7-B294-72E1223FCF12%40projectconceptor.de%3E">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <style type="text/css">
+       pre {
+           white-space: pre-wrap;       /* css-2.1, curent FF, Opera, Safari */
+           }
+   </style>
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   <LINK REL="Previous"  HREF="000102.html">
+   
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[Trinitas-main] Trinitas mit svn auschecken</H1>
+    <B>Paradoxon</B> 
+    <A HREF="mailto:trinitas-main%40lists.berlios.de?Subject=Re%3A%20%5BTrinitas-main%5D%20Trinitas%20mit%20svn%20auschecken&In-Reply-To=%3CEB550E60-7301-4ED7-B294-72E1223FCF12%40projectconceptor.de%3E"
+       TITLE="[Trinitas-main] Trinitas mit svn auschecken">dev at projectconceptor.de
+       </A><BR>
+    <I>Sun Oct 26 13:18:38 CET 2008</I>
+    <P><UL>
+        <LI>Previous message: <A HREF="000102.html">[Trinitas-main] Entwurf
+</A></li>
+        
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#103">[ date ]</a>
+              <a href="thread.html#103">[ thread ]</a>
+              <a href="subject.html#103">[ subject ]</a>
+              <a href="author.html#103">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>Ok hier noch mal kurz ne Info was SVN ist :)
+wers kennt einfach die mail wegl&#246;schen
+
+SVN ist eine art Server der unser Projekt verwaltet.
+Wenn dinge Hochgeladen werden.. werden Dateien ver&#228;ndert
+SVN erm&#246;glicht es aber nun immer zu einer f&#252;rheren Version zur&#252;ck zu  
+kehren.
+
+sagen wir du hast Figur 1 drei mal ver&#228;ndert und immer &#252;berschrieben  
+(und das ganze jedesmal
+  auf den Server geschoben) dann kannst du, f&#252;r den fall, dass du sagt  
+hmm
+die 2. Version war doch die beste... jederzeit zu der 2. Version  
+zur&#252;ckkehren.
+
+
+(Anleitung hab ich aus dem irc in #trinitas rauskopiert... also sorry,  
+wenns komisch aussieht)
+<A HREF="http://tortoisesvn.tigris.org/">http://tortoisesvn.tigris.org/</A>	
+runterladen installieren
+		neues Verzeichniss anlegen
+		rechte Maustaste drauf...
+		dann nen SVN Checkout...
+		dort
+		svn+<A HREF="ssh://developername@svn.berlios.de/svnroot/repos/trinitas/">ssh://developername@svn.berlios.de/svnroot/repos/trinitas/</A>
+		eingeben
+		also in deinem Fall
+		svn+<A HREF="ssh://designer@svn.berlios.de/svnroot/repos/trinitas/trunk">ssh://designer@svn.berlios.de/svnroot/repos/trinitas/trunk</A>
+		dann dein Passwort (von developer.berlios.de)
+		(eventuell 3 mal zum best&#228;tigen)
+		dann wird das Projekt runtergeladen..
+		wenn du was erstellt hast... (datei oder Verzeichniss + Datei)
+		dann einfach rechte Maustaste (auf das neu erstelle Verzeichniss)  
+und svn-&gt;add
+		(oder ein plus.. sorry hab ich nicht mehr so im Kopp bin an nem  
+Mac ;-)
+		danach svn -&gt; Commit (ein Verzeichniss dr&#252;ber... damit er das neu  
+hinzugef&#252;gte mit rein nimmt.. der
+		kopiert immer nur alles was in dem &quot;angeklickten&quot; Verzeichniss ist  
+auf den Server
+		GAAANZ WICHTIG ist noch eine kurze Beschreibung (m&#246;glichst endlish  
+weil wir eventuell sp&#228;ter exandieren wollen)
+		also noch schnell so was eingeben wie &quot;new Design draft for figur 2&quot;
+		danach auf ok
+		Passwort
+		und schon wirds hochgeladen.
+		in dem SVN befinden sich schon test Videos und Programme und diverse  
+andere Sachen,
+		die wir f&#252;r die Entwicklung brauchen
+
+gby
+Matthias
+Am 26.10.2008 um 12:53 schrieb florian mann:
+
+&gt;<i> eine zwischen frage noch dieses svn sag mir nichts.... ist das so  
+</I>&gt;<i> etwas wie schuelervz oder studivz...?
+</I>&gt;<i> und wie bekomm ich zugrif dadrauf?
+</I>&gt;<i> alles gute florian
+</I>&gt;<i> _____________________________________________________________________
+</I>&gt;<i> Der WEB.DE SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!
+</I>&gt;<i> <A HREF="http://smartsurfer.web.de/?mc=100071&amp;distributionid=000000000066">http://smartsurfer.web.de/?mc=100071&amp;distributionid=000000000066</A>
+</I>&gt;<i>
+</I>&gt;<i> _______________________________________________
+</I>&gt;<i> Trinitas-main mailing list
+</I>&gt;<i> <A HREF="https://lists.berlios.de/mailman/listinfo/trinitas-main">Trinitas-main at lists.berlios.de</A>
+</I>&gt;<i> <A HREF="https://lists.berlios.de/mailman/listinfo/trinitas-main">https://lists.berlios.de/mailman/listinfo/trinitas-main</A>
+</I>
+
+</PRE>
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	<LI>Previous message: <A HREF="000102.html">[Trinitas-main] Entwurf
+</A></li>
+	
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#103">[ date ]</a>
+              <a href="thread.html#103">[ thread ]</a>
+              <a href="subject.html#103">[ subject ]</a>
+              <a href="author.html#103">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="https://lists.berlios.de/mailman/listinfo/trinitas-main">More information about the Trinitas-main
+mailing list</a><br>
+</body></html>

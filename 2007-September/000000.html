@@ -1,0 +1,240 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+ <HEAD>
+   <TITLE> [Trinitas-main] Wo fangen wir an
+   </TITLE>
+   <LINK REL="Index" HREF="http://lists.berlios.de/pipermail/trinitas-main/2007-September/index.html" >
+   <LINK REL="made" HREF="mailto:trinitas-main%40lists.berlios.de?Subject=Re%3A%20%5BTrinitas-main%5D%20Wo%20fangen%20wir%20an&In-Reply-To=%3C46E6C3FB.3050405%40projectconceptor.de%3E">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <style type="text/css">
+       pre {
+           white-space: pre-wrap;       /* css-2.1, curent FF, Opera, Safari */
+           }
+   </style>
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   
+   <LINK REL="Next"  HREF="000001.html">
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[Trinitas-main] Wo fangen wir an</H1>
+    <B>Paradoxon</B> 
+    <A HREF="mailto:trinitas-main%40lists.berlios.de?Subject=Re%3A%20%5BTrinitas-main%5D%20Wo%20fangen%20wir%20an&In-Reply-To=%3C46E6C3FB.3050405%40projectconceptor.de%3E"
+       TITLE="[Trinitas-main] Wo fangen wir an">mail at projectconceptor.de
+       </A><BR>
+    <I>Tue Sep 11 18:36:11 CEST 2007</I>
+    <P><UL>
+        
+        <LI>Next message: <A HREF="000001.html">[Trinitas-main] Erstes Meeting
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#0">[ date ]</a>
+              <a href="thread.html#0">[ thread ]</a>
+              <a href="subject.html#0">[ subject ]</a>
+              <a href="author.html#0">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>Hi Florian,
+
+Inhalt:
+* Charakterstuide
+* Umgang mit SVN
+* Map
+* Software
+
+also vorerst werden wir versuchen die Maps im NT zu halten. Das gibt ja 
+schon mal gen&#252;gend Stoff.
+Wichtig w&#228;ren ersteinmal Hand oder Photoshopzeichnungen von den Charakteren.
+
+Damit sollten wir anfangen. Aber dort wirds auch schwierig :)
+Und zwar m&#252;ssen die Charaktere m&#246;glichst toonhaft / ansprechend aber 
+auch ein wenig realistisch sein.
+d.h. da w&#228;re ein sehr ansprechender Mittelweg die l&#246;sung.
+
+Das ganze soll ja ein wenig toonhaft werden, da eine ein wenig toonhafte 
+Umgebung meist sich schneller berrechnen l&#228;sst.
+
+Ansonsten br&#228;uchten wir ca 4 (oder mehr) verschiedene Charaktere (man 
+soll ja als Spieler sich einen Charakter aussuchen k&#246;nnen)
+
+Dabei jeweils die Vorder, Seiten und Hinteransicht.
+
+So und nun kommen wir zu dem &quot;Opensource&quot; Teil :)
+
+Du brauchst ein installiertes tortoise svn:
+<A HREF="http://tortoisesvn.tigris.org/">http://tortoisesvn.tigris.org/</A>
+
+Danach musst du dir unser Projekt runterladen (es gibt schon eine menge 
+Dateien .. aber der kleinste Teil ist von uns Programmiert wurden)
+dazu einfach ein neues Verzeichniss erstellen (am besten Trinitas 
+genannt).. dann rechte Maustaste drauf und auf *svn checkout* gehen
+
+dort dann
+svn+<A HREF="ssh:///designer/@svn.berlios.de/svnroot/repos/trinitas">ssh:///designer/@svn.berlios.de/svnroot/repos/trinitas</A>
+eingeben und danach wenn du aufgefordert wirst dein Passwort (kann 
+manchmal 3x fragen :-D )
+
+Wenn dann alles runtergeladen wurde...
+Kannst du unter
+
+\Trinitas\trunk\data\artwork
+
+entsprchende Verzeichnisse anlegen z.b:
+
+\Trinitas\trunk\data\artwork\draft\Charakter1\
+oder halt
+\Trinitas\trunk\data\artwork\draft\Hannes
+oder ...
+\Trinitas\trunk\data\artwork\draft\Hund
+
+usw..
+dann dort in das Verzeichnis deine Bilddateien ablegen
+also z.b.:
+\Trinitas\trunk\data\artwork\draft\Charakter1\Charakter1_left.png
+\Trinitas\trunk\data\artwork\draft\Charakter1\Charakter1_front.png
+\Trinitas\trunk\data\artwork\draft\Charakter1\Charakter1_back.png
+
+
+Dann wenn du alles reingeschoben hast, was du wolltest
+auf
+\Trinitas\trunk\data\artwork\draft\Charakter1\
+rechten Mausklick dann auf
+TortoiseSVN-&gt;+(Add)
+dann wird alles hinzugef&#252;gt und es erscheint ein Ausrufezeichen..
+danach auf rechtsklick
+\Trinitas\trunk\data\artwork\draft
+und auf SVN Commit
+dort dann noch kuzr nen Kommentar abgeben (also der kuzr beschreibt, 
+wass du ver&#228;ndert hast)
+z.b.:
+Erste Charakterstudie fertig
+Dateien:
+Charakter1_left.png
+Charakter1_front.png
+Charakter1_back.png
+hinzugef&#252;gt
+
+
+
+Ach ja und f&#252;r die *erste Map* w&#252;rde ich mal auf Korinth pl&#228;dieren davon 
+gibts auch ne Grafik, die vielleicht als Leitfaden dienen kann.
+
+
+Als 3d Softwar verwenden wir
+*Blender (www.blender.org), da es opensource und kostenlos ist und einen 
+gro&#223;en Funktionsumfang hat.
+Als Graifksoftware k&#246;nnt ihr alles verwenden solange es keine Raubkopie 
+ist, da heutzutage jede Bildsoftware in der Lage ist Wasserzeichen in 
+Bildern zu verstecken, die es Konzernen m&#246;glich macht den Urheber und 
+die Legalit&#228;t der zur Erstellung verwendeten Produkte zu &#252;berpr&#252;fen.
+Es w&#228;re sehr sehr doof, wenn nen Schlagzeile rausk&#228;me.. christliches 
+Spiel verwendet Raubkopien zum erstellen iherer Daten.
+
+Empfehlung: Gimp (is frei :))
+www.gimp.org
+
+
+
+Wow das ist jetzt lang geworden.. :)
+
+deswegen stell ichs mal in die Trinitas-main Mailing list.. eventuell 
+finden es einige andere auch interessant
+
+
+Bei Fragen einfach an mich wenden :) oder ins Forum oder besser noch an 
+die Trinitas-Main Mailinglist
+
+Gottes Segen und
+Matthias
+
+
+florian mann schrieb:
+&gt;<i>
+</I>&gt;<i> hi matthias,
+</I>&gt;<i>
+</I>&gt;<i> ich hab mir das alles mal angeguckt und finde, dass sich das ja ganz 
+</I>&gt;<i> gut anh&#246;hrt! meine fragen jetzt:
+</I>&gt;<i>
+</I>&gt;<i>  soll ich mir maps ausdenken und die aufs papier bringen?
+</I>&gt;<i>
+</I>&gt;<i> oder soll ich karakter erstellen?
+</I>&gt;<i>
+</I>&gt;<i> soll ich einfach so landschaften erstellen und/oder st&#228;dte?
+</I>&gt;<i>
+</I>&gt;<i> oder einfach alles?
+</I>&gt;<i>
+</I>&gt;<i> ach ja es ist die rede von allen orten die in der bibel vor kommen ... 
+</I>&gt;<i> also von mose bis offenbarung wenn ja fang ich mit mose an .... so 
+</I>&gt;<i> &#228;gypten un so k????
+</I>&gt;<i>
+</I>&gt;<i> mb gott segne dich flo
+</I>&gt;<i>
+</I>&gt;<i>  
+</I>&gt;<i>
+</I>&gt;<i>
+</I>&gt;<i>
+</I>&gt;<i> Der WEB.DE SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!   
+</I>&gt;<i> *<A HREF="http://smartsurfer.web.de/?mc=100071&amp;distributionid=000000000066*">http://smartsurfer.web.de/?mc=100071&amp;distributionid=000000000066*</A> 
+</I>&gt;<i> &lt;<A HREF="http://smartsurfer.web.de/?mc=100071&amp;distributionid=000000000066">http://smartsurfer.web.de/?mc=100071&amp;distributionid=000000000066</A>&gt;  
+</I>&gt;<i>
+</I>
+
+-- 
+Matthias Lindner
+Lazarettstr. 10
+
+45127 Essen
+
+Tel/Fax.: 0201-2480986
+Mail:	<A HREF="https://lists.berlios.de/mailman/listinfo/trinitas-main">all4god at web.de</A>
+
+www.online-mit-gott.de
+www.fishers-girl.de
+www.projectconceptor.de
+
+
+-- 
+Matthias Lindner
+Lazarettstr. 10
+
+45127 Essen
+
+Tel/Fax.: 0201-2480986
+Mail:	<A HREF="https://lists.berlios.de/mailman/listinfo/trinitas-main">all4god at web.de</A>
+
+www.online-mit-gott.de
+www.fishers-girl.de
+www.projectconceptor.de
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: &lt;<A HREF="https://lists.berlios.de/pipermail/trinitas-main/attachments/20070911/6dfb3e6e/attachment.html">https://lists.berlios.de/pipermail/trinitas-main/attachments/20070911/6dfb3e6e/attachment.html</A>&gt;
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: wub_korinth_karte2.jpg
+Type: image/jpeg
+Size: 390583 bytes
+Desc: not available
+URL: &lt;<A HREF="https://lists.berlios.de/pipermail/trinitas-main/attachments/20070911/6dfb3e6e/attachment.jpg">https://lists.berlios.de/pipermail/trinitas-main/attachments/20070911/6dfb3e6e/attachment.jpg</A>&gt;
+</PRE>
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	
+	<LI>Next message: <A HREF="000001.html">[Trinitas-main] Erstes Meeting
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#0">[ date ]</a>
+              <a href="thread.html#0">[ thread ]</a>
+              <a href="subject.html#0">[ subject ]</a>
+              <a href="author.html#0">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="https://lists.berlios.de/mailman/listinfo/trinitas-main">More information about the Trinitas-main
+mailing list</a><br>
+</body></html>

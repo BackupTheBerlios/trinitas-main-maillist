@@ -1,0 +1,179 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+ <HEAD>
+   <TITLE> [Trinitas-main] PluginLoader unter Linux
+   </TITLE>
+   <LINK REL="Index" HREF="http://lists.berlios.de/pipermail/trinitas-main/2007-December/index.html" >
+   <LINK REL="made" HREF="mailto:trinitas-main%40lists.berlios.de?Subject=Re%3A%20%5BTrinitas-main%5D%20PluginLoader%20unter%20Linux&In-Reply-To=%3C15c4e6840712140540v290e84a2r30af7832b0bedbee%40mail.gmail.com%3E">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <style type="text/css">
+       pre {
+           white-space: pre-wrap;       /* css-2.1, curent FF, Opera, Safari */
+           }
+   </style>
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   <LINK REL="Previous"  HREF="000038.html">
+   <LINK REL="Next"  HREF="000040.html">
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[Trinitas-main] PluginLoader unter Linux</H1>
+    <B>Jannis Froese</B> 
+    <A HREF="mailto:trinitas-main%40lists.berlios.de?Subject=Re%3A%20%5BTrinitas-main%5D%20PluginLoader%20unter%20Linux&In-Reply-To=%3C15c4e6840712140540v290e84a2r30af7832b0bedbee%40mail.gmail.com%3E"
+       TITLE="[Trinitas-main] PluginLoader unter Linux">ichthys1 at jesus.de
+       </A><BR>
+    <I>Fri Dec 14 14:40:50 CET 2007</I>
+    <P><UL>
+        <LI>Previous message: <A HREF="000038.html">[Trinitas-main] PluginLoader unter Linux
+</A></li>
+        <LI>Next message: <A HREF="000040.html">[Trinitas-main] PluginLoader unter Linux
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#39">[ date ]</a>
+              <a href="thread.html#39">[ thread ]</a>
+              <a href="subject.html#39">[ subject ]</a>
+              <a href="author.html#39">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>Ich habe mal geschaut, wann die letzte &quot;erw&#252;nschte&quot; Ausgabe kommt, und bin
+auf diesen Abschnitt gekommen:
+
+TrinitasPlugin* PluginLoader::LoadPlugin(char *file) {
+&gt;<i>     TrinitasPlugin  *loadedPlugin = NULL;
+</I>&gt;<i>     #ifndef WIN32
+</I>&gt;<i>         cout &lt;&lt; &quot;loading: ... &quot; &lt;&lt; file &lt;&lt;std::endl;
+</I>&gt;<i>         void* libraryHandle = dlopen(file, RTLD_LAZY);
+</I>&gt;<i>         if (libraryHandle != NULL) {
+</I>&gt;<i>             cout &lt;&lt; &quot;Libhandle found&quot; &lt;&lt; std::endl;
+</I>&gt;<i>             //using typedef to define a Functiontemplate for the loaded
+</I>&gt;<i> symbols
+</I>&gt;<i>             typedef TrinitasPlugin* (*pluginFunction)(long);
+</I>&gt;<i>             //using the functionvar the Plugin as referrence
+</I>&gt;<i>             pluginFunction thePlugin;
+</I>&gt;<i>             thePlugin = (pluginFunction) dlsym(libraryHandle, &quot;s&quot;);
+</I>&gt;<i>             if (thePlugin != NULL) {
+</I>&gt;<i>                 cout &lt;&lt; &quot;symbol loaded&quot; &lt;&lt; file &lt;&lt;std::endl;
+</I>&gt;<i>                 //call getPlugin with the actual ID
+</I>&gt;<i>                 loadedPlugin = thePlugin(mPlugins-&gt;size()+1);
+</I>&gt;<i>                 cout &lt;&lt; loadedPlugin-&gt;GetName() &lt;&lt; &quot; Calling Do() &quot;;
+</I>&gt;<i>                 loadedPlugin-&gt;Do();
+</I>&gt;<i>                 cout &lt;&lt; std::endl;
+</I>&gt;<i>             }
+</I>&gt;<i>
+</I>&gt;<i>         }
+</I>&gt;<i>        // dlclose(libraryHandle);
+</I>&gt;<i>     #else // Windwos stuff
+</I>&gt;<i>        [...]
+</I>&gt;<i>     #endif
+</I>&gt;<i>      return loadedPlugin;
+</I>&gt;<i>  }
+</I>
+
+Dabei ist allerdings thePlugin auch nach der Zeile &quot;thePlugin =
+(pluginFunction) dlsym(libraryHandle, &quot;s&quot;);&quot; gleich NULL.
+Aber mich bringt das immer noch nicht so recht weiter.
+Hat einer von euch eine Idee. Ich bin ja bekanntlich noch nicht so der C++
+Experte.
+
+Jannis
+
+
+2007/12/14, Jannis Froese &lt;<A HREF="https://lists.berlios.de/mailman/listinfo/trinitas-main">ichthys1 at jesus.de</A>&gt;:
+&gt;<i>
+</I>&gt;<i> Danke f&#252;r den Tipp. Funktioniert jetzt einwandfrei (zumindest das
+</I>&gt;<i> Compilen).
+</I>&gt;<i> Dann kommen wir ja schon zum ausf&#252;hren des Programms. Da ist eigentlich
+</I>&gt;<i> mehr gedacht als folgendes, oder?
+</I>&gt;<i>
+</I>&gt;<i> Searching Plugin in:    Plugins
+</I>&gt;<i> &gt; hier!
+</I>&gt;<i> &gt; try to load:    ..
+</I>&gt;<i> &gt; loading: ... Plugins/..
+</I>&gt;<i> &gt; try to load:    .
+</I>&gt;<i> &gt; loading: ... Plugins/.
+</I>&gt;<i> &gt; try to load:    .svn
+</I>&gt;<i> &gt; loading: ... Plugins/.svn
+</I>&gt;<i> &gt; try to load:    FirstPlugin.so
+</I>&gt;<i> &gt; loading: ... Plugins/FirstPlugin.so
+</I>&gt;<i> &gt; Libhandle found
+</I>&gt;<i> &gt; terminate called after throwing an instance of 'std::out_of_range'
+</I>&gt;<i> &gt;   what():  vector::_M_range_check
+</I>&gt;<i> &gt; Aborted (core dumped)
+</I>&gt;<i> &gt;
+</I>&gt;<i>
+</I>&gt;<i> Was w&#252;rdet ihr denn dazu sagen?
+</I>&gt;<i>
+</I>&gt;<i> Jannis
+</I>&gt;<i> 2007/12/11, Simon Ho&#223; &lt;<A HREF="https://lists.berlios.de/mailman/listinfo/trinitas-main">simonhoss at googlemail.com</A>&gt;:
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt; du brauchst noch eine library... such mal nach libdl.a oder libdl.so und
+</I>&gt;<i> &gt; gib die im linker mit an!
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt; 2007/12/11, Jannis Froese &lt; <A HREF="https://lists.berlios.de/mailman/listinfo/trinitas-main">ichthys1 at jesus.de</A> &gt;:
+</I>&gt;<i> &gt; &gt;
+</I>&gt;<i> &gt; &gt; Hi,
+</I>&gt;<i> &gt; &gt; Ich habe heute versucht, die aktuelle Version des PluginLoaders unter
+</I>&gt;<i> &gt; &gt; Linux mit Code::Blocks (Version svn4680) zu compilieren.
+</I>&gt;<i> &gt; &gt; Dabei habe ich zwei Fehler erhalten. Vielleicht habe ich auch nur
+</I>&gt;<i> &gt; &gt; vergessen ein Verzeichnis in der Einstellungen anzugeben, aber das
+</I>&gt;<i> &gt; &gt; bezweifele ich.
+</I>&gt;<i> &gt; &gt; Hier mein Build Log:
+</I>&gt;<i> &gt; &gt;
+</I>&gt;<i> &gt; &gt;
+</I>&gt;<i> &gt; &gt; -------------- Build: default in PluginLoader ---------------
+</I>&gt;<i> &gt; &gt;
+</I>&gt;<i> &gt; &gt; Linking console executable: PluginLoader
+</I>&gt;<i> &gt; &gt; .objs/PluginLoader.o: In function `PluginLoader::LoadPlugin(char*)':
+</I>&gt;<i> &gt; &gt; /home/ichthys1/trinitas/trunk/tests/pluginTest/PluginLoader.cpp:118:
+</I>&gt;<i> &gt; &gt; undefined reference to `dlopen'
+</I>&gt;<i> &gt; &gt; /home/ichthys1/trinitas/trunk/tests/pluginTest/PluginLoader.cpp:125:
+</I>&gt;<i> &gt; &gt; undefined reference to `dlsym'
+</I>&gt;<i> &gt; &gt; collect2: ld gab 1 als Ende-Status zur&#252;ck
+</I>&gt;<i> &gt; &gt; Process terminated with status 1 (0 minutes, 0 seconds)
+</I>&gt;<i> &gt; &gt; 2 errors, 0 warnings
+</I>&gt;<i> &gt; &gt;
+</I>&gt;<i> &gt; &gt; Ich bin kein C++ Experte, von daher meine Frage: Was stimmt am Code
+</I>&gt;<i> &gt; &gt; nicht? Fehlt ein Include?
+</I>&gt;<i> &gt; &gt;
+</I>&gt;<i> &gt; &gt; Jannis
+</I>&gt;<i> &gt; &gt;
+</I>&gt;<i> &gt; &gt; _______________________________________________
+</I>&gt;<i> &gt; &gt; Trinitas-main mailing list
+</I>&gt;<i> &gt; &gt; <A HREF="https://lists.berlios.de/mailman/listinfo/trinitas-main">Trinitas-main at lists.berlios.de</A>
+</I>&gt;<i> &gt; &gt; <A HREF="https://lists.berlios.de/mailman/listinfo/trinitas-main">https://lists.berlios.de/mailman/listinfo/trinitas-main</A>
+</I>&gt;<i> &gt; &gt;
+</I>&gt;<i> &gt; &gt;
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt; _______________________________________________
+</I>&gt;<i> &gt; Trinitas-main mailing list
+</I>&gt;<i> &gt; <A HREF="https://lists.berlios.de/mailman/listinfo/trinitas-main">Trinitas-main at lists.berlios.de</A>
+</I>&gt;<i> &gt; <A HREF="https://lists.berlios.de/mailman/listinfo/trinitas-main">https://lists.berlios.de/mailman/listinfo/trinitas-main</A>
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt;
+</I>&gt;<i>
+</I>-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: &lt;<A HREF="https://lists.berlios.de/pipermail/trinitas-main/attachments/20071214/03b616b2/attachment.html">https://lists.berlios.de/pipermail/trinitas-main/attachments/20071214/03b616b2/attachment.html</A>&gt;
+</PRE>
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	<LI>Previous message: <A HREF="000038.html">[Trinitas-main] PluginLoader unter Linux
+</A></li>
+	<LI>Next message: <A HREF="000040.html">[Trinitas-main] PluginLoader unter Linux
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#39">[ date ]</a>
+              <a href="thread.html#39">[ thread ]</a>
+              <a href="subject.html#39">[ subject ]</a>
+              <a href="author.html#39">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="https://lists.berlios.de/mailman/listinfo/trinitas-main">More information about the Trinitas-main
+mailing list</a><br>
+</body></html>

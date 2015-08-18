@@ -1,0 +1,2949 @@
+From ichthys1 at jesus.de  Wed Oct  1 20:41:43 2008
+From: ichthys1 at jesus.de (Jannis Froese)
+Date: Wed, 1 Oct 2008 20:41:43 +0200
+Subject: [Trinitas-main] =?iso-8859-1?q?Aufl=F6sung_Figur?=
+In-Reply-To: <15c4e6840810010958t198fed67y74fb99a0ff7724ed@mail.gmail.com>
+References: <15c4e6840810010958t198fed67y74fb99a0ff7724ed@mail.gmail.com>
+Message-ID: <15c4e6840810011141u30434019h28957777c48c1e45@mail.gmail.com>
+
+Da die Beteiligung im Forum verbesserungsw?rdig ist, verlagere ich das Mal
+in die Mailinglist:
+
+
+> Ichtys hat ja mit der Figur die ich ihm geschickt hab,
+> einige Tests durchgef?hrt.
+> Mich w?rde interessieren ob die Polygonaufl?sung ok ist.
+> Mehr Details denke ich werden kaum n?tig sein.
+> Die Figur ist aber dazu geeignet, sie mit Subdivision Surfaces
+> zu verfeinern.
+> Sollte die Aufl?sung zu hoch sein, muss ich manuell noch mal nach-,
+> bzw neu modellieren.
+> PS. Dreh doch die Figur, wenn du noch mehr Tests machst,
+> so dass man sie von Vorne sieht.
+>
+> Gru? und Segen
+> Juergen
+
+
+ Damit alle nochmal die Figur sehen, habe ich noch zwei kleine Kamerafahrten
+um die Figur gemacht. Die zweite ist dabei im Comiclook (aktivierte Edges
+mit Breite 6).
+Subdivision Surfaces ist nicht angewendet.
+Die Figur hat 6393 Polygone.
+
+Die Augentextur habe ich von www.bigbuckbunny.org
+Entsprechend gilt f?r diese (und nur f?r diese):
+*(c) copyright Blender Foundation | www.bigbuckbunny.org*
+
+Also, sagt mal was zu J?rgens Frage
+
+
+Gr??e
+
+ichthys1
+
+
+PS: Ich habe die Videos statt sie der Mail anzuh?ngen in SVN comitted, da
+die Mail sonst zu gro? geworden w?re
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081001/3181ee65/attachment.html>
+
+From dev at projectconceptor.de  Wed Oct  1 20:53:02 2008
+From: dev at projectconceptor.de (Paradoxon)
+Date: Wed, 01 Oct 2008 20:53:02 +0200
+Subject: [Trinitas-main] =?iso-8859-1?q?Aufl=F6sung_Figur?=
+In-Reply-To: <15c4e6840810011141u30434019h28957777c48c1e45@mail.gmail.com>
+References: <15c4e6840810010958t198fed67y74fb99a0ff7724ed@mail.gmail.com>
+	<15c4e6840810011141u30434019h28957777c48c1e45@mail.gmail.com>
+Message-ID: <48E3C70E.2050304@projectconceptor.de>
+
+He Leute,
+
+sorry dass ich mich soo lange net gemeldet hab,
+ich hab seit ein paar Wochen die Gemeinde hier ?bernommen,
+und muss jetzt solche Dinge wie Monatsabrechnung usw zum ersten mal machen.
+Somit viel um die Ohren, so dass ich mich wirklich nur nebenbei Trinitas 
+gefolgt bin!
+
+Toll dass ihr so dran bleibt.
+
+Also die Videos sind echt der Hammer cool :-)
+Aufl?sung ist so echt gut :)
+Sieht echt suuuper aus! Motiviert total :)
+
+
+Ich werde mal schauen..... dass ich nach dieser Monatsabrechnung
+mal wieder hier ein wenig aktiver werde!
+
+Keep on the good work
+
+gby
+Matthias
+Jannis Froese schrieb:
+> Da die Beteiligung im Forum verbesserungsw?rdig ist, verlagere ich das 
+> Mal in die Mailinglist:
+>  
+>
+>     Ichtys hat ja mit der Figur die ich ihm geschickt hab,
+>     einige Tests durchgef?hrt.
+>     Mich w?rde interessieren ob die Polygonaufl?sung ok ist.
+>     Mehr Details denke ich werden kaum n?tig sein.
+>     Die Figur ist aber dazu geeignet, sie mit Subdivision Surfaces
+>     zu verfeinern.
+>     Sollte die Aufl?sung zu hoch sein, muss ich manuell noch mal nach-,
+>     bzw neu modellieren.
+>     PS. Dreh doch die Figur, wenn du noch mehr Tests machst,
+>     so dass man sie von Vorne sieht.
+>
+>     Gru? und Segen
+>     Juergen
+>
+>
+>  Damit alle nochmal die Figur sehen, habe ich noch zwei kleine 
+> Kamerafahrten um die Figur gemacht. Die zweite ist dabei im Comiclook 
+> (aktivierte Edges mit Breite 6).
+> Subdivision Surfaces ist nicht angewendet.
+> Die Figur hat 6393 Polygone.
+>
+> Die Augentextur habe ich von www.bigbuckbunny.org 
+> <http://www.bigbuckbunny.org>
+> Entsprechend gilt f?r diese (und nur f?r diese):
+> *(c) copyright Blender Foundation | www.bigbuckbunny.org 
+> <http://www.bigbuckbunny.org>*
+>
+> Also, sagt mal was zu J?rgens Frage
+>
+>
+> Gr??e
+>
+> ichthys1
+>
+>
+> PS: Ich habe die Videos statt sie der Mail anzuh?ngen in SVN comitted, 
+> da die Mail sonst zu gro? geworden w?re
+> ------------------------------------------------------------------------
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>   
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081001/bd90f039/attachment.html>
+
+From ichthys1 at jesus.de  Sat Oct  4 14:03:40 2008
+From: ichthys1 at jesus.de (Jannis Froese)
+Date: Sat, 4 Oct 2008 14:03:40 +0200
+Subject: [Trinitas-main] Designdokument, die Letzte
+Message-ID: <15c4e6840810040503l3c3e0d2ejcda2243fa264228f@mail.gmail.com>
+
+Ich habe das Designdokument nochmals ?berarbeitet. Es m?sste jetzt soweit
+komplett sein, bis auf die Anh?nge. Ich konnte nicht alle Vorschl?ge aus dem
+Forum ber?cksichtigen, aber dank des stark modularen Designs sollte sich das
+alles zu einem sp?teren Zeitpunkt nachr?sten lassen.
+
+Es w?re toll, wenn ihr alle noch einmal das Designdokument durchlesen
+w?rdet. Immerhin richten wir uns die gesamte n?chste Zeit danach.
+
+Wie gesagt, sind die Anh?nge noch weitestgehend leer. Der mit Abstand
+wichtigste Anhang d?rfte der Objektanhang sein, da immerhin die passenden
+3d-Modelle geschaffen werden m?ssen.
+
+Deshalb schlage ich vor, das sich hier (oder bei mir) jetzt alle melden, die
+bereit sind, diesen Anhang noch weiter auszuarbeiten (im Forum haben wir
+z.B. st?ndig von einer Br?cke gesprochen, die dort nie erw?hnt wird). Ihr
+k?nntet erstmal Vorschl?ge f?r Objekte zusammenstellen und entscheiden
+welche davon sinnvoll sind.
+
+Wenn wir die Liste mit Objekten haben, k?nnen wir ihnen ihre Eigenschaften
+zuordnen und sie in einen Kombinationsbaum einsortieren.
+
+Ich hoffe auf eure Beteiligung.
+
+ichhys1
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081004/f23a2be6/attachment.html>
+
+From ichthys1 at jesus.de  Sat Oct  4 14:14:33 2008
+From: ichthys1 at jesus.de (Jannis Froese)
+Date: Sat, 4 Oct 2008 14:14:33 +0200
+Subject: [Trinitas-main] Objektdesign
+Message-ID: <15c4e6840810040514r7a82ea62r496bf1616107aa2e@mail.gmail.com>
+
+ichthys1:
+
+Jedenfalls brauchen wir noch einen, der gut zeichnen kann und uns "in einem
+> einheitlichen Layout die Grafischen Grundkonzepte entwirft".
+> Wir brauchen also Zeichnungen, wie das ganze nachher aussehen soll, damit
+> die 3d-Modeller sich daran orientieren k?nnen und die Skizzen in 3d umsetzen
+> k?nnen.
+> Der Stil sollte leicht comichaft sein, aber eben nicht zu stark. Probiert
+> doch einfach mal ein wenig aus und lasst uns dann die Entw?rfe zukommen.
+>
+Antwort von Norea-X<http://www.jesus.de/people/detail.html?showlogin=Norea-X&nonav=1&&>
+
+> Also ich bin (zumindest werd ichs in 4 Monaten sein) gestaltungstechnischer
+> Assistent f?r Grafikdesign und das ist nat?rlich so ein Aufgabengebiet,
+> welches mich als Grafiker interessieren w?rde [image: width=17] Das
+> Problem wird nur sein, dass ihr wahrscheinlich m?glichst schnell euer
+> grafisches Grundkonzept braucht und das ne ziemlich aufw?ndige Sache ist.
+> Wei? ja nicht wieviele unterschiedliche Charaktere es in dem Spiel geben
+> soll.
+> Naja, auf jeden Fall bin ich momentan noch ziemlich in schulische Projekte
+> eingespannt und es geht gerade schnurstracks auf die Pr?fungen im Mai zu und
+> was da alles zugeh?rt (insb. Einzel-Abschlussarbeiten), so dass ich im
+> Moment nicht wirklich Zeit dazu h?tte. Aber wenn ihr ab August noch wen
+> sucht, darfst du dich gerne nochmal bei mir melden [image: width=17]
+>
+
+August ist lange vorbei, und sowas wie ein grafisches Grundkonzept haben wir
+immer noch nicht. Wollen wir uns wieder bei ihm melden?
+
+ichthys1
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081004/3a4befd1/attachment.html>
+
+From simonhoss at googlemail.com  Sun Oct 12 23:32:05 2008
+From: simonhoss at googlemail.com (=?ISO-8859-1?Q?Simon_Ho=DF?=)
+Date: Sun, 12 Oct 2008 23:32:05 +0200
+Subject: [Trinitas-main] Objektdesign
+In-Reply-To: <15c4e6840810040514r7a82ea62r496bf1616107aa2e@mail.gmail.com>
+References: <15c4e6840810040514r7a82ea62r496bf1616107aa2e@mail.gmail.com>
+Message-ID: <ce6499060810121432sdeac1a4mf0db023a8f9def38@mail.gmail.com>
+
+ich f?nds sicherlich nicht verkehrt :)
+
+Am 4. Oktober 2008 14:14 schrieb Jannis Froese <ichthys1 at jesus.de>:
+
+> ichthys1:
+>
+> Jedenfalls brauchen wir noch einen, der gut zeichnen kann und uns "in einem
+>> einheitlichen Layout die Grafischen Grundkonzepte entwirft".
+>> Wir brauchen also Zeichnungen, wie das ganze nachher aussehen soll, damit
+>> die 3d-Modeller sich daran orientieren k?nnen und die Skizzen in 3d umsetzen
+>> k?nnen.
+>> Der Stil sollte leicht comichaft sein, aber eben nicht zu stark. Probiert
+>> doch einfach mal ein wenig aus und lasst uns dann die Entw?rfe zukommen.
+>>
+> Antwort von Norea-X<http://www.jesus.de/people/detail.html?showlogin=Norea-X&nonav=1&&>
+>
+>> Also ich bin (zumindest werd ichs in 4 Monaten sein)
+>> gestaltungstechnischer Assistent f?r Grafikdesign und das ist nat?rlich so
+>> ein Aufgabengebiet, welches mich als Grafiker interessieren w?rde [image:
+>> width=17] Das Problem wird nur sein, dass ihr wahrscheinlich m?glichst
+>> schnell euer grafisches Grundkonzept braucht und das ne ziemlich aufw?ndige
+>> Sache ist. Wei? ja nicht wieviele unterschiedliche Charaktere es in dem
+>> Spiel geben soll.
+>> Naja, auf jeden Fall bin ich momentan noch ziemlich in schulische Projekte
+>> eingespannt und es geht gerade schnurstracks auf die Pr?fungen im Mai zu und
+>> was da alles zugeh?rt (insb. Einzel-Abschlussarbeiten), so dass ich im
+>> Moment nicht wirklich Zeit dazu h?tte. Aber wenn ihr ab August noch wen
+>> sucht, darfst du dich gerne nochmal bei mir melden [image: width=17]
+>>
+>
+> August ist lange vorbei, und sowas wie ein grafisches Grundkonzept haben
+> wir immer noch nicht. Wollen wir uns wieder bei ihm melden?
+>
+> ichthys1
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081012/472175f1/attachment.html>
+
+From simonhoss at googlemail.com  Sun Oct 12 23:36:31 2008
+From: simonhoss at googlemail.com (=?ISO-8859-1?Q?Simon_Ho=DF?=)
+Date: Sun, 12 Oct 2008 23:36:31 +0200
+Subject: [Trinitas-main] =?iso-8859-1?q?Aufl=F6sung_Figur?=
+In-Reply-To: <48E3C70E.2050304@projectconceptor.de>
+References: <15c4e6840810010958t198fed67y74fb99a0ff7724ed@mail.gmail.com>
+	<15c4e6840810011141u30434019h28957777c48c1e45@mail.gmail.com>
+	<48E3C70E.2050304@projectconceptor.de>
+Message-ID: <ce6499060810121436g48a63a91ra5b4c26571e10df0@mail.gmail.com>
+
+wo findet man das video? Oder in welchem Ordner liegt das denn?
+
+Am 1. Oktober 2008 20:53 schrieb Paradoxon <dev at projectconceptor.de>:
+
+>  He Leute,
+>
+> sorry dass ich mich soo lange net gemeldet hab,
+> ich hab seit ein paar Wochen die Gemeinde hier ?bernommen,
+> und muss jetzt solche Dinge wie Monatsabrechnung usw zum ersten mal machen.
+> Somit viel um die Ohren, so dass ich mich wirklich nur nebenbei Trinitas
+> gefolgt bin!
+>
+> Toll dass ihr so dran bleibt.
+>
+> Also die Videos sind echt der Hammer cool :-)
+> Aufl?sung ist so echt gut :)
+> Sieht echt suuuper aus! Motiviert total :)
+>
+>
+> Ich werde mal schauen..... dass ich nach dieser Monatsabrechnung
+> mal wieder hier ein wenig aktiver werde!
+>
+> Keep on the good work
+>
+> gby
+> Matthias
+> Jannis Froese schrieb:
+>
+> Da die Beteiligung im Forum verbesserungsw?rdig ist, verlagere ich das Mal
+> in die Mailinglist:
+>
+>
+>> Ichtys hat ja mit der Figur die ich ihm geschickt hab,
+>> einige Tests durchgef?hrt.
+>> Mich w?rde interessieren ob die Polygonaufl?sung ok ist.
+>> Mehr Details denke ich werden kaum n?tig sein.
+>> Die Figur ist aber dazu geeignet, sie mit Subdivision Surfaces
+>> zu verfeinern.
+>> Sollte die Aufl?sung zu hoch sein, muss ich manuell noch mal nach-,
+>> bzw neu modellieren.
+>> PS. Dreh doch die Figur, wenn du noch mehr Tests machst,
+>> so dass man sie von Vorne sieht.
+>>
+>> Gru? und Segen
+>> Juergen
+>
+>
+>  Damit alle nochmal die Figur sehen, habe ich noch zwei kleine
+> Kamerafahrten um die Figur gemacht. Die zweite ist dabei im Comiclook
+> (aktivierte Edges mit Breite 6).
+> Subdivision Surfaces ist nicht angewendet.
+> Die Figur hat 6393 Polygone.
+>
+> Die Augentextur habe ich von www.bigbuckbunny.org
+> Entsprechend gilt f?r diese (und nur f?r diese):
+> *(c) copyright Blender Foundation | www.bigbuckbunny.org*
+>
+> Also, sagt mal was zu J?rgens Frage
+>
+>
+> Gr??e
+>
+> ichthys1
+>
+>
+> PS: Ich habe die Videos statt sie der Mail anzuh?ngen in SVN comitted, da
+> die Mail sonst zu gro? geworden w?re
+>
+> ------------------------------
+>
+> _______________________________________________
+> Trinitas-main mailing listTrinitas-main at lists.berlios.dehttps://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081012/8d4a9583/attachment.html>
+
+From simonhoss at googlemail.com  Sun Oct 12 23:32:25 2008
+From: simonhoss at googlemail.com (=?ISO-8859-1?Q?Simon_Ho=DF?=)
+Date: Sun, 12 Oct 2008 23:32:25 +0200
+Subject: [Trinitas-main] Designdokument, die Letzte
+In-Reply-To: <15c4e6840810040503l3c3e0d2ejcda2243fa264228f@mail.gmail.com>
+References: <15c4e6840810040503l3c3e0d2ejcda2243fa264228f@mail.gmail.com>
+Message-ID: <ce6499060810121432i27900bb7k9a890d3622274f17@mail.gmail.com>
+
+wo kriegt man das Design Dokument her?
+
+Am 4. Oktober 2008 14:03 schrieb Jannis Froese <ichthys1 at jesus.de>:
+
+> Ich habe das Designdokument nochmals ?berarbeitet. Es m?sste jetzt soweit
+> komplett sein, bis auf die Anh?nge. Ich konnte nicht alle Vorschl?ge aus dem
+> Forum ber?cksichtigen, aber dank des stark modularen Designs sollte sich das
+> alles zu einem sp?teren Zeitpunkt nachr?sten lassen.
+>
+> Es w?re toll, wenn ihr alle noch einmal das Designdokument durchlesen
+> w?rdet. Immerhin richten wir uns die gesamte n?chste Zeit danach.
+>
+> Wie gesagt, sind die Anh?nge noch weitestgehend leer. Der mit Abstand
+> wichtigste Anhang d?rfte der Objektanhang sein, da immerhin die passenden
+> 3d-Modelle geschaffen werden m?ssen.
+>
+> Deshalb schlage ich vor, das sich hier (oder bei mir) jetzt alle melden,
+> die bereit sind, diesen Anhang noch weiter auszuarbeiten (im Forum haben wir
+> z.B. st?ndig von einer Br?cke gesprochen, die dort nie erw?hnt wird). Ihr
+> k?nntet erstmal Vorschl?ge f?r Objekte zusammenstellen und entscheiden
+> welche davon sinnvoll sind.
+>
+> Wenn wir die Liste mit Objekten haben, k?nnen wir ihnen ihre Eigenschaften
+> zuordnen und sie in einen Kombinationsbaum einsortieren.
+>
+> Ich hoffe auf eure Beteiligung.
+>
+> ichhys1
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081012/4346c9d9/attachment.html>
+
+From davidjablonski at web.de  Mon Oct 13 09:26:42 2008
+From: davidjablonski at web.de (davidjablonski at web.de)
+Date: Mon, 13 Oct 2008 09:26:42 +0200
+Subject: [Trinitas-main] Designdokument, die Letzte
+Message-ID: <1342956085@web.de>
+
+
+Hier Simon:
+http://docs.google.com/View?docid=d4cmpdf_80gqrtk4
+
+Bitte sch?n =)
+
+________________________________________________________________________
+Schon geh?rt? Bei WEB.DE gibt' s viele kostenlose Spiele:
+http://games.entertainment.web.de/de/entertainment/games/free/index.html
+
+
+
+From davidjablonski at web.de  Mon Oct 13 09:29:20 2008
+From: davidjablonski at web.de (davidjablonski at web.de)
+Date: Mon, 13 Oct 2008 09:29:20 +0200
+Subject: [Trinitas-main] =?iso-8859-15?q?Aufl=F6sung_Figur?=
+Message-ID: <6457644.1223882962142.JavaMail.fmail@fmcert01.dlan.cinetic.de>
+
+
+Hier Simon:
+data\blenderfiles\tests\Figur_2
+
+=)
+_________________________________________________________________________
+In 5 Schritten zur eigenen Homepage. Jetzt Domain sichern und gestalten! 
+Nur 3,99 EUR/Monat! http://www.maildomain.web.de/?mc=021114
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: smime.p7s
+Type: application/pkcs7-signature
+Size: 1753 bytes
+Desc: S/MIME Cryptographic Signature
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081013/0900238a/attachment.bin>
+
+From trinitas at oswald-crossmedia.de  Mon Oct 13 12:22:39 2008
+From: trinitas at oswald-crossmedia.de (Juergen Oswald)
+Date: Mon, 13 Oct 2008 12:22:39 +0200
+Subject: [Trinitas-main] Designdokument, die Letzte
+In-Reply-To: <1342956085@web.de>
+References: <1342956085@web.de>
+Message-ID: <48F3216F.5090100@oswald-crossmedia.de>
+
+davidjablonski at web.de schrieb:
+> Hier Simon:
+> http://docs.google.com/View?docid=d4cmpdf_80gqrtk4
+>
+> Bitte sch?n =)
+>
+> ________________________________________________________________________
+> Schon geh?rt? Bei WEB.DE gibt' s viele kostenlose Spiele:
+> http://games.entertainment.web.de/de/entertainment/games/free/index.html
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>   
+Danke, hatte ich auch nicht gefunden.
+
+Und danke auch f?r die M?he die du dir
+mit dem erstellen des Dokuments gemacht hast.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081013/beaac765/attachment.html>
+
+From simonhoss at googlemail.com  Mon Oct 13 17:49:52 2008
+From: simonhoss at googlemail.com (=?ISO-8859-1?Q?Simon_Ho=DF?=)
+Date: Mon, 13 Oct 2008 17:49:52 +0200
+Subject: [Trinitas-main] =?iso-8859-1?q?Aufl=F6sung_Figur?=
+In-Reply-To: <6457644.1223882962142.JavaMail.fmail@fmcert01.dlan.cinetic.de>
+References: <6457644.1223882962142.JavaMail.fmail@fmcert01.dlan.cinetic.de>
+Message-ID: <ce6499060810130849n497cc0batf24e450460f984e9@mail.gmail.com>
+
+ich glaube ich bin zu bl?d, bei mir liegt da nichts!
+Welchen SVN Server nutzen wir denn eigentlich? Immer noch berlios?
+
+Am 13. Oktober 2008 09:29 schrieb <davidjablonski at web.de>:
+
+>
+> Hier Simon:
+> data\blenderfiles\tests\Figur_2
+>
+> =)
+> _________________________________________________________________________
+> In 5 Schritten zur eigenen Homepage. Jetzt Domain sichern und gestalten!
+> Nur 3,99 EUR/Monat! http://www.maildomain.web.de/?mc=021114
+>
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081013/76330762/attachment.html>
+
+From davidjablonski at web.de  Mon Oct 13 17:56:38 2008
+From: davidjablonski at web.de (davidjablonski at web.de)
+Date: Mon, 13 Oct 2008 17:56:38 +0200
+Subject: [Trinitas-main] Designdokument, die Letzte
+Message-ID: <24061908.1223913398833.JavaMail.fmail@fmcert02.dlan.cinetic.de>
+
+> -----Urspr?ngliche Nachricht-----
+> Von: "Juergen Oswald" <trinitas at oswald-crossmedia.de>
+> Gesendet: 13.10.08 12:23:22
+> An: trinitas-main at lists.berlios.de
+> Betreff: Re: [Trinitas-main] Designdokument, die Letzte
+
+
+> davidjablonski at web.de schrieb: Hier Simon: http://docs.google.com/
+> View?docid=d4cmpdf_80gqrtk4 Bitte sch?n =) ___________________________
+> _____________________________________________ Schon geh?rt? Bei WEB.
+> DE gibt' s viele kostenlose Spiele: http://games.entertainment.web.de/
+> de/entertainment/games/free/index.html _______________________________
+> ________________ Trinitas-main mailing list Trinitas-main at lists.
+> berlios.dehttps://lists.berlios.de/mailman/listinfo/trinitas-
+> mainDanke, hatte ich auch nicht gefunden. 
+> 
+>  Und danke auch f?r die M?he die du dir 
+>  mit dem erstellen des Dokuments gemacht hast. 
+>  _______________________________________________ Trinitas-main 
+> mailing list Trinitas-main at lists.berlios.de https://lists.berlios.de/
+> 
+> mailman/listinfo/trinitas-main 
+
+
+
+
+<-- das war ichthys, nicht ich =)
+_______________________________________________________________________
+Jetzt neu! Sch?tzen Sie Ihren PC mit McAfee und WEB.DE. 30 Tage
+kostenlos testen. http://www.pc-sicherheit.web.de/startseite/?mc=022220
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: smime.p7s
+Type: application/pkcs7-signature
+Size: 1753 bytes
+Desc: S/MIME Cryptographic Signature
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081013/b33c483b/attachment.bin>
+
+From trinitas at oswald-crossmedia.de  Mon Oct 13 19:53:45 2008
+From: trinitas at oswald-crossmedia.de (Juergen Oswald)
+Date: Mon, 13 Oct 2008 19:53:45 +0200
+Subject: [Trinitas-main] Designdokument, die Letzte
+In-Reply-To: <24061908.1223913398833.JavaMail.fmail@fmcert02.dlan.cinetic.de>
+References: <24061908.1223913398833.JavaMail.fmail@fmcert02.dlan.cinetic.de>
+Message-ID: <48F38B29.70206@oswald-crossmedia.de>
+
+davidjablonski at web.de schrieb:
+>> -----Urspr?ngliche Nachricht-----
+>> Von: "Juergen Oswald" <trinitas at oswald-crossmedia.de>
+>> Gesendet: 13.10.08 12:23:22
+>> An: trinitas-main at lists.berlios.de
+>> Betreff: Re: [Trinitas-main] Designdokument, die Letzte
+>>     
+>
+>
+>   
+>> davidjablonski at web.de schrieb: Hier Simon: http://docs.google.com/
+>> View?docid=d4cmpdf_80gqrtk4 Bitte sch?n =) ___________________________
+>> _____________________________________________ Schon geh?rt? Bei WEB.
+>> DE gibt' s viele kostenlose Spiele: http://games.entertainment.web.de/
+>> de/entertainment/games/free/index.html _______________________________
+>> ________________ Trinitas-main mailing list Trinitas-main at lists.
+>> berlios.dehttps://lists.berlios.de/mailman/listinfo/trinitas-
+>> mainDanke, hatte ich auch nicht gefunden. 
+>>
+>>  Und danke auch f?r die M?he die du dir 
+>>  mit dem erstellen des Dokuments gemacht hast. 
+>>  _______________________________________________ Trinitas-main 
+>> mailing list Trinitas-main at lists.berlios.de https://lists.berlios.de/
+>>
+>> mailman/listinfo/trinitas-main 
+>>     
+>
+>
+>
+>
+> <-- das war ichthys, nicht ich =)
+> _______________________________________________________________________
+> Jetzt neu! Sch?tzen Sie Ihren PC mit McAfee und WEB.DE. 30 Tage
+> kostenlos testen. http://www.pc-sicherheit.web.de/startseite/?mc=022220
+>
+>   
+> ------------------------------------------------------------------------
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>   
+
+ichthys - Danke ! ! ! 
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081013/56c240a1/attachment.html>
+
+From dev at projectconceptor.de  Mon Oct 13 22:45:57 2008
+From: dev at projectconceptor.de (Paradoxon)
+Date: Mon, 13 Oct 2008 22:45:57 +0200
+Subject: [Trinitas-main] =?iso-8859-1?q?Aufl=F6sung_Figur?=
+In-Reply-To: <ce6499060810130849n497cc0batf24e450460f984e9@mail.gmail.com>
+References: <6457644.1223882962142.JavaMail.fmail@fmcert01.dlan.cinetic.de>
+	<ce6499060810130849n497cc0batf24e450460f984e9@mail.gmail.com>
+Message-ID: <036ABB9C-0C1D-4975-86AE-4C33FF7B1420@projectconceptor.de>
+
+Ne sorry das lag an mir ..
+ich hab mal nen cleanup gemacht und
+den Pfad verlegt,
+da es sich bei den Daten ja eher um test handelt
+sind sie jetzt unter
+/trunk/tests/grafik/test/Figur_2 finden
+
+(vorrausgesetzt vorher svn update gemacht :-D)
+ansonsten
+http://svn.berlios.de/wsvn/trinitas/trunk/tests/grafik/tests/Figur_2/#_trunk_tests_grafik_tests_Figur_2_
+
+"direkt" runterladen
+
+gby
+Matthias wars
+Am 13.10.2008 um 17:49 schrieb Simon Ho?:
+
+> ich glaube ich bin zu bl?d, bei mir liegt da nichts!
+> Welchen SVN Server nutzen wir denn eigentlich? Immer noch berlios?
+>
+> Am 13. Oktober 2008 09:29 schrieb <davidjablonski at web.de>:
+>
+> Hier Simon:
+> data\blenderfiles\tests\Figur_2
+>
+> =)
+> _________________________________________________________________________
+> In 5 Schritten zur eigenen Homepage. Jetzt Domain sichern und  
+> gestalten!
+> Nur 3,99 EUR/Monat! http://www.maildomain.web.de/?mc=021114
+>
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081013/fc3c7432/attachment.html>
+
+From ichthys1 at jesus.de  Tue Oct 14 08:59:02 2008
+From: ichthys1 at jesus.de (Jannis Froese)
+Date: Tue, 14 Oct 2008 08:59:02 +0200
+Subject: [Trinitas-main] =?iso-8859-1?q?Aufl=F6sung_Figur?=
+In-Reply-To: <15c4e6840810010958t198fed67y74fb99a0ff7724ed@mail.gmail.com>
+References: <15c4e6840810010958t198fed67y74fb99a0ff7724ed@mail.gmail.com>
+Message-ID: <15c4e6840810132359k27650642y96362d5c7274a75f@mail.gmail.com>
+
+Nochmal zur Frage, ob die Aufl?sung ok ist:
+
+--------- Weitergeleitete Nachricht ----------
+Von: Simon Ho? <simonhoss at googlemail.com>
+Datum: 12. Oktober 2008 23:31
+Betreff: Re: Charaktere mit ~6400 Polygonen in Ordnung
+An: Jannis Froese <ichthys1 at jesus.de>
+
+
+hi,
+m?sste man mal ausprobieren... am besten macht man mal eine objekt mit
+verschiedenen polygonen fertig und l?d die einfach mal alle nacheinander
+rein. Ich pers?nlich glaube das es aber hinhauen m?sste, vor allem zu Zeiten
+des modernen Dual Core Prozessors :)
+
+LG Simon
+
+2008/10/8 Jannis Froese <ichthys1 at jesus.de>
+> Hi,
+> du hast dich am ?ftesten mit Irrlicht besch?ftigt. Was meinst du, sind
+> Modelle mit ~6400 Polygone f?r die Personen in Ordnung oder ist das zu viel?
+> Es w?ren ja immerhin meist mehrere gleichzeitig im Bild.
+> Ich denke man sollte schon damit rechnen, das auch mal 10 Personen oder
+> mehr gleichzeitig im Bild seien werden. Das w?ren schon 64000 Polygone plus
+> Umgebung.
+> Was ist deine Meinung?
+>
+> Gottes Segen
+> <>< ichthys1
+>
+
+Ich pers?nlich w?rde auch sagen, das ~6000 Polygone f?r die Charaktere in
+Ordnung sind, solange die restliche Umgebung nicht ganz so viele hat.
+Obwohl es mich doch mal interessieren w?rde, wie die Engine mit 360000
+Polygonen l?uft (max. 60 Spieler mal 6000 Polygone).
+Aber ich denke mal, das man sowieso eher mit 20 Spielern spielen wird.
+
+<>< Jannis
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081014/5700a025/attachment.html>
+
+From simonhoss at googlemail.com  Fri Oct 17 14:17:42 2008
+From: simonhoss at googlemail.com (=?ISO-8859-1?Q?Simon_Ho=DF?=)
+Date: Fri, 17 Oct 2008 14:17:42 +0200
+Subject: [Trinitas-main] =?iso-8859-1?q?Aufl=F6sung_Figur?=
+In-Reply-To: <036ABB9C-0C1D-4975-86AE-4C33FF7B1420@projectconceptor.de>
+References: <6457644.1223882962142.JavaMail.fmail@fmcert01.dlan.cinetic.de>
+	<ce6499060810130849n497cc0batf24e450460f984e9@mail.gmail.com>
+	<036ABB9C-0C1D-4975-86AE-4C33FF7B1420@projectconceptor.de>
+Message-ID: <ce6499060810170517y1c4dadc8n7327fb68080e5121@mail.gmail.com>
+
+ist das schon mit irrlicht gemacht?
+
+2008/10/13 Paradoxon <dev at projectconceptor.de>
+
+> Ne sorry das lag an mir ..ich hab mal nen cleanup gemacht und
+> den Pfad verlegt,
+> da es sich bei den Daten ja eher um test handelt
+> sind sie jetzt unter
+> /trunk/tests/grafik/test/Figur_2 finden
+>
+> (vorrausgesetzt vorher svn update gemacht :-D)
+> ansonsten
+>
+> http://svn.berlios.de/wsvn/trinitas/trunk/tests/grafik/tests/Figur_2/#_trunk_tests_grafik_tests_Figur_2_
+>
+> "direkt" runterladen
+>
+> gby
+> Matthias wars
+> Am 13.10.2008 um 17:49 schrieb Simon Ho?:
+>
+> ich glaube ich bin zu bl?d, bei mir liegt da nichts!
+> Welchen SVN Server nutzen wir denn eigentlich? Immer noch berlios?
+>
+> Am 13. Oktober 2008 09:29 schrieb <davidjablonski at web.de>:
+>
+>>
+>> Hier Simon:
+>> data\blenderfiles\tests\Figur_2
+>>
+>> =)
+>> _________________________________________________________________________
+>> In 5 Schritten zur eigenen Homepage. Jetzt Domain sichern und gestalten!
+>> Nur 3,99 EUR/Monat! http://www.maildomain.web.de/?mc=021114
+>>
+>>
+>> _______________________________________________
+>> Trinitas-main mailing list
+>> Trinitas-main at lists.berlios.de
+>> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>
+>>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081017/692a9fee/attachment.html>
+
+From ichthys1 at jesus.de  Tue Oct 21 17:55:24 2008
+From: ichthys1 at jesus.de (Jannis Froese)
+Date: Tue, 21 Oct 2008 17:55:24 +0200
+Subject: [Trinitas-main] =?iso-8859-1?q?Aufl=F6sung_Figur?=
+In-Reply-To: <ce6499060810170517y1c4dadc8n7327fb68080e5121@mail.gmail.com>
+References: <6457644.1223882962142.JavaMail.fmail@fmcert01.dlan.cinetic.de>
+	<ce6499060810130849n497cc0batf24e450460f984e9@mail.gmail.com>
+	<036ABB9C-0C1D-4975-86AE-4C33FF7B1420@projectconceptor.de>
+	<ce6499060810170517y1c4dadc8n7327fb68080e5121@mail.gmail.com>
+Message-ID: <15c4e6840810210855rdf03eecw981b0cd3103a3305@mail.gmail.com>
+
+Nein, Blender.
+Ich warte immernoch auf eine Version von Wine, mit der auch IrrEdit auf
+Linux l?uft. Oder auf eine Version von IrrEdit, die in Wine l?uft. Oder eine
+Linuxversion von IrrEdit.
+Wie auch immer, es w?re nat?rlich toll, wenn du (als unser Irrlicht-Experte)
+noch ein bisschen mit der Figur in Irrlicht rumexperimentieren k?nntest.
+Mich w?rde z.B. interessieren, mit welcher Framerate es auf einem normalen
+Windows-Rechner l?uft.
+ICh habe die Dateien eben in SVN comittet
+
+Gr??e
+<>< Jannis
+
+
+2008/10/17 Simon Ho? <simonhoss at googlemail.com>
+
+> ist das schon mit irrlicht gemacht?
+>
+> 2008/10/13 Paradoxon <dev at projectconceptor.de>
+>
+> Ne sorry das lag an mir ..ich hab mal nen cleanup gemacht und
+>> den Pfad verlegt,
+>> da es sich bei den Daten ja eher um test handelt
+>> sind sie jetzt unter
+>> /trunk/tests/grafik/test/Figur_2 finden
+>>
+>> (vorrausgesetzt vorher svn update gemacht :-D)
+>> ansonsten
+>>
+>> http://svn.berlios.de/wsvn/trinitas/trunk/tests/grafik/tests/Figur_2/#_trunk_tests_grafik_tests_Figur_2_
+>>
+>> "direkt" runterladen
+>>
+>> gby
+>> Matthias wars
+>> Am 13.10.2008 um 17:49 schrieb Simon Ho?:
+>>
+>> ich glaube ich bin zu bl?d, bei mir liegt da nichts!
+>> Welchen SVN Server nutzen wir denn eigentlich? Immer noch berlios?
+>>
+>> Am 13. Oktober 2008 09:29 schrieb <davidjablonski at web.de>:
+>>
+>>>
+>>> Hier Simon:
+>>> data\blenderfiles\tests\Figur_2
+>>>
+>>> =)
+>>> _________________________________________________________________________
+>>> In 5 Schritten zur eigenen Homepage. Jetzt Domain sichern und gestalten!
+>>> Nur 3,99 EUR/Monat! http://www.maildomain.web.de/?mc=021114
+>>>
+>>>
+>>> _______________________________________________
+>>> Trinitas-main mailing list
+>>> Trinitas-main at lists.berlios.de
+>>> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>>
+>>>
+>> _______________________________________________
+>> Trinitas-main mailing list
+>> Trinitas-main at lists.berlios.de
+>> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>
+>>
+>>
+>> _______________________________________________
+>> Trinitas-main mailing list
+>> Trinitas-main at lists.berlios.de
+>> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>
+>>
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081021/aab4be6c/attachment.html>
+
+From simonhoss at googlemail.com  Tue Oct 21 22:20:49 2008
+From: simonhoss at googlemail.com (=?ISO-8859-1?Q?Simon_Ho=DF?=)
+Date: Tue, 21 Oct 2008 22:20:49 +0200
+Subject: [Trinitas-main] =?iso-8859-1?q?Aufl=F6sung_Figur?=
+In-Reply-To: <15c4e6840810210855rdf03eecw981b0cd3103a3305@mail.gmail.com>
+References: <6457644.1223882962142.JavaMail.fmail@fmcert01.dlan.cinetic.de>
+	<ce6499060810130849n497cc0batf24e450460f984e9@mail.gmail.com>
+	<036ABB9C-0C1D-4975-86AE-4C33FF7B1420@projectconceptor.de>
+	<ce6499060810170517y1c4dadc8n7327fb68080e5121@mail.gmail.com>
+	<15c4e6840810210855rdf03eecw981b0cd3103a3305@mail.gmail.com>
+Message-ID: <ce6499060810211320x72e3b736t1c5c7b6112c8c169@mail.gmail.com>
+
+warum komplilierst du dir nicht mal den editor in linux? d?rfte ja keine
+gro?e Schwirigkeit sein!
+Aber ich werde das ganze Ding mal durch kompilieren und laufen lassen!
+Irgendwann am WE, denke ich!
+
+http://de.gpotato.eu/Download/DnStreetGears.Aspx da findet man unten bei
+Screenshots eine gute Referenz wie so ein Comic look aussehen k?nnte, wenn
+wir das so hinkriegen w?rden, w?re das gigantisch!
+
+
+Am 21. Oktober 2008 17:55 schrieb Jannis Froese <ichthys1 at jesus.de>:
+
+> Nein, Blender.
+> Ich warte immernoch auf eine Version von Wine, mit der auch IrrEdit auf
+> Linux l?uft. Oder auf eine Version von IrrEdit, die in Wine l?uft. Oder eine
+> Linuxversion von IrrEdit.
+> Wie auch immer, es w?re nat?rlich toll, wenn du (als unser
+> Irrlicht-Experte) noch ein bisschen mit der Figur in Irrlicht
+> rumexperimentieren k?nntest.
+> Mich w?rde z.B. interessieren, mit welcher Framerate es auf einem normalen
+> Windows-Rechner l?uft.
+> ICh habe die Dateien eben in SVN comittet
+>
+> Gr??e
+> <>< Jannis
+>
+>
+> 2008/10/17 Simon Ho? <simonhoss at googlemail.com>
+>
+> ist das schon mit irrlicht gemacht?
+>>
+>> 2008/10/13 Paradoxon <dev at projectconceptor.de>
+>>
+>> Ne sorry das lag an mir ..ich hab mal nen cleanup gemacht und
+>>> den Pfad verlegt,
+>>> da es sich bei den Daten ja eher um test handelt
+>>> sind sie jetzt unter
+>>> /trunk/tests/grafik/test/Figur_2 finden
+>>>
+>>> (vorrausgesetzt vorher svn update gemacht :-D)
+>>> ansonsten
+>>>
+>>> http://svn.berlios.de/wsvn/trinitas/trunk/tests/grafik/tests/Figur_2/#_trunk_tests_grafik_tests_Figur_2_
+>>>
+>>> "direkt" runterladen
+>>>
+>>> gby
+>>> Matthias wars
+>>> Am 13.10.2008 um 17:49 schrieb Simon Ho?:
+>>>
+>>> ich glaube ich bin zu bl?d, bei mir liegt da nichts!
+>>> Welchen SVN Server nutzen wir denn eigentlich? Immer noch berlios?
+>>>
+>>> Am 13. Oktober 2008 09:29 schrieb <davidjablonski at web.de>:
+>>>
+>>>>
+>>>> Hier Simon:
+>>>> data\blenderfiles\tests\Figur_2
+>>>>
+>>>> =)
+>>>>
+>>>> _________________________________________________________________________
+>>>> In 5 Schritten zur eigenen Homepage. Jetzt Domain sichern und gestalten!
+>>>> Nur 3,99 EUR/Monat! http://www.maildomain.web.de/?mc=021114
+>>>>
+>>>>
+>>>> _______________________________________________
+>>>> Trinitas-main mailing list
+>>>> Trinitas-main at lists.berlios.de
+>>>> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>>>
+>>>>
+>>> _______________________________________________
+>>> Trinitas-main mailing list
+>>> Trinitas-main at lists.berlios.de
+>>> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>>
+>>>
+>>>
+>>> _______________________________________________
+>>> Trinitas-main mailing list
+>>> Trinitas-main at lists.berlios.de
+>>> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>>
+>>>
+>>
+>> _______________________________________________
+>> Trinitas-main mailing list
+>> Trinitas-main at lists.berlios.de
+>> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>
+>>
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081021/94db4397/attachment.html>
+
+From ichthys1 at jesus.de  Tue Oct 21 23:19:11 2008
+From: ichthys1 at jesus.de (Jannis Froese)
+Date: Tue, 21 Oct 2008 23:19:11 +0200
+Subject: [Trinitas-main] =?windows-1252?q?Aufl=F6sung_Figur?=
+In-Reply-To: <ce6499060810211320x72e3b736t1c5c7b6112c8c169@mail.gmail.com>
+References: <6457644.1223882962142.JavaMail.fmail@fmcert01.dlan.cinetic.de>
+	<ce6499060810130849n497cc0batf24e450460f984e9@mail.gmail.com>
+	<036ABB9C-0C1D-4975-86AE-4C33FF7B1420@projectconceptor.de>
+	<ce6499060810170517y1c4dadc8n7327fb68080e5121@mail.gmail.com>
+	<15c4e6840810210855rdf03eecw981b0cd3103a3305@mail.gmail.com>
+	<ce6499060810211320x72e3b736t1c5c7b6112c8c169@mail.gmail.com>
+Message-ID: <15c4e6840810211419t135cff17r1dd3cc65dfa1341@mail.gmail.com>
+
+warum komplilierst du dir nicht mal den editor in linux? d?rfte ja keine
+> gro?e Schwirigkeit sein!
+
+Keine gro?e Schwierigkeit. Aber der Source von IrrEdit kostet 1900? (
+http://www.ambiera.com/irredit/source_and_more.html)! Ganz soviel wollte ich
+dann doch nicht ausgeben.
+Das Modell habe ich schon einmal versucht, in Irrlicht einzubinden. Aber die
+Performance auch von den Grafikdemos ist bei mir nicht so toll, da ich im
+Moment keinen vern?nftigen Grafigkartentreiber installiert habe, der
+vern?nftige 3d-Beschleunigung bietet.
+Deshalb hat mich das auch nicht viel weiter gebracht.
+
+>
+> Aber ich werde das ganze Ding mal durch kompilieren und laufen lassen!
+> Irgendwann am WE, denke ich!
+
+Danke, w?re echt toll!
+
+>
+> http://de.gpotato.eu/Download/DnStreetGears.Aspx da findet man unten bei
+> Screenshots eine gute Referenz wie so ein Comic look aussehen k?nnte, wenn
+> wir das so hinkriegen w?rden, w?re das gigantisch!
+
+Ja, das sieht echt super aus.
+
+
+Gr??e
+<>< Jannis
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081021/1e9ccbfa/attachment.html>
+
+From der-erbe-saurons at web.de  Thu Oct 23 17:17:58 2008
+From: der-erbe-saurons at web.de (florian mann)
+Date: Thu, 23 Oct 2008 17:17:58 +0200
+Subject: [Trinitas-main] wiedereinsteig
+Message-ID: <940244341@web.de>
+
+hey,
+mein name ist florian mann (freund von tobi wegscheider) und ich war so fast von anfang an bei "trintas" mit design bereich dabei! als letztes jahr eine gr??ere pause eingelegt wurde, hab ich ein wenig den faden verloren. ich w?rde sehr gerne wieder im design bereich einsteigen, wenn das noch ginge.
+mit frundlichen gr??en florian!
+gottes segen!!!
+_____________________________________________________________________
+Der WEB.DE SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!
+http://smartsurfer.web.de/?mc=100071&distributionid=000000000066
+
+
+
+From dev at projectconceptor.de  Thu Oct 23 17:36:01 2008
+From: dev at projectconceptor.de (Paradoxon)
+Date: Thu, 23 Oct 2008 17:36:01 +0200
+Subject: [Trinitas-main] Toonshader
+Message-ID: <B836335D-D3BE-4AE2-B35D-2CAF9D688051@projectconceptor.de>
+
+F?r die Devs mal: Toonshaders gibts hier :)
+http://www.lighthouse3d.com/opengl/glsl/index.php?toon1
+
+gby
+Matthais
+
+From dev at projectconceptor.de  Thu Oct 23 18:31:30 2008
+From: dev at projectconceptor.de (Paradoxon)
+Date: Thu, 23 Oct 2008 18:31:30 +0200
+Subject: [Trinitas-main] Besser als Toonshader?
+Message-ID: <88498578-224B-449C-B42D-874EBEF2841F@projectconceptor.de>
+
+Hi Leute,
+ich denke der gooch shader w?re, denke ich ein gute M?glichkeit.
+Bilder wie so was aussehen kann:
+http://www.hello-napalm.com/tuts/brzl_shaders_03.html
+
+Man muss immer dabei bedenken die Shader muss man ja nicht allen  
+gegenst?nden zu ordnen,
+so dass man realistischer shader f?r die Umwelt und toonshader f?r die  
+Figuren oder
+umgedreht machen kann
+
+Einige referenzen f?r implementationen:
+
+http://developer.apple.com/samplecode/GLSLShowpieceLite/listing20.html
+http://irrlicht.sourceforge.net/phpBB2/viewtopic.php?t=23638&postdays=0&postorder=asc&start=75
+
+gby
+Matthias
+
+From der-erbe-saurons at web.de  Thu Oct 23 21:40:40 2008
+From: der-erbe-saurons at web.de (florian mann)
+Date: Thu, 23 Oct 2008 21:40:40 +0200
+Subject: [Trinitas-main] wiedereinsteig
+Message-ID: <940752262@web.de>
+
+
+_______________________________________________________________________
+Jetzt neu! Sch?tzen Sie Ihren PC mit McAfee und WEB.DE. 30 Tage
+kostenlos testen. http://www.pc-sicherheit.web.de/startseite/?mc=022220
+
+
+
+From der-erbe-saurons at web.de  Thu Oct 23 21:45:26 2008
+From: der-erbe-saurons at web.de (florian mann)
+Date: Thu, 23 Oct 2008 21:45:26 +0200
+Subject: [Trinitas-main] wiedereinsteig
+Message-ID: <940752834@web.de>
+
+hallo noch mal ....
+aus irgendeinem grund ist meine e-mail, die ich an Trinitas-main at lists.berlios.de geschickt habe wieder bei mir gelandet...also noch ein versuch ;)
+
+mein name ist florian mann (bekannter von tobias wegscheider), ich war fast von anfang an bei trinitas dabei, hab nur letzten winter in der etwas gr??eren pause den faden verloren.... daher ist meine frage: kann ich bei euch wieder im design bereich einsteigen? 
+w?rd mich freuen!!
+alles gute und gottes segen florian
+__________________________________________________________________
+"Run, Fatboy, Run" sowie "Rails & Ties" kostenlos anschauen!
+Blockbuster-Gutscheine sichern unter http://www.blockbuster.web.de
+
+
+
+From dev at projectconceptor.de  Thu Oct 23 22:16:27 2008
+From: dev at projectconceptor.de (Paradoxon)
+Date: Thu, 23 Oct 2008 22:16:27 +0200
+Subject: [Trinitas-main] wiedereinsteig
+In-Reply-To: <940752834@web.de>
+References: <940752834@web.de>
+Message-ID: <B0FA57D6-C968-4BBD-B57E-1685BA649EBE@projectconceptor.de>
+
+Hehe
+Jo jede mail du hier an die Liste schickst wird auch an dich wieder  
+zur?ck geschickt ;-)
+Das macht der Verteiler!
+
+Cool dass du zur?ck bist (geht mir ?hnlich)
+
+Gottes Segen
+Matthias
+
+Am 23.10.2008 um 21:45 schrieb florian mann:
+
+> hallo noch mal ....
+> aus irgendeinem grund ist meine e-mail, die ich an Trinitas-main at lists.berlios.de 
+>  geschickt habe wieder bei mir gelandet...also noch ein versuch ;)
+>
+> mein name ist florian mann (bekannter von tobias wegscheider), ich  
+> war fast von anfang an bei trinitas dabei, hab nur letzten winter in  
+> der etwas gr??eren pause den faden verloren.... daher ist meine  
+> frage: kann ich bei euch wieder im design bereich einsteigen?
+> w?rd mich freuen!!
+> alles gute und gottes segen florian
+> __________________________________________________________________
+> "Run, Fatboy, Run" sowie "Rails & Ties" kostenlos anschauen!
+> Blockbuster-Gutscheine sichern unter http://www.blockbuster.web.de
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+
+
+
+From simonhoss at googlemail.com  Fri Oct 24 11:40:49 2008
+From: simonhoss at googlemail.com (=?ISO-8859-1?Q?Simon_Ho=DF?=)
+Date: Fri, 24 Oct 2008 11:40:49 +0200
+Subject: [Trinitas-main] Toonshader
+In-Reply-To: <B836335D-D3BE-4AE2-B35D-2CAF9D688051@projectconceptor.de>
+References: <B836335D-D3BE-4AE2-B35D-2CAF9D688051@projectconceptor.de>
+Message-ID: <ce6499060810240240l3604406dief2a107ceaf6a929@mail.gmail.com>
+
+allerdings f?r opengl muss man dann in Irrlicht umschreiben
+
+2008/10/23 Paradoxon <dev at projectconceptor.de>
+
+> F?r die Devs mal: Toonshaders gibts hier :)
+> http://www.lighthouse3d.com/opengl/glsl/index.php?toon1
+>
+> gby
+> Matthais
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081024/7c2c35d4/attachment.html>
+
+From dev at projectconceptor.de  Fri Oct 24 13:48:31 2008
+From: dev at projectconceptor.de (Paradoxon)
+Date: Fri, 24 Oct 2008 13:48:31 +0200
+Subject: [Trinitas-main] Toonshader
+In-Reply-To: <ce6499060810240240l3604406dief2a107ceaf6a929@mail.gmail.com>
+References: <B836335D-D3BE-4AE2-B35D-2CAF9D688051@projectconceptor.de>
+	<ce6499060810240240l3604406dief2a107ceaf6a929@mail.gmail.com>
+Message-ID: <E6BA7D2D-5F9B-45F8-A4F3-8E644D3A693C@projectconceptor.de>
+
+Schon klar :)
+
+war nur ein fl?chtiger Blick drauf und ich dachte es k?nnte helfen.
+Was wahrscheilnich sogar noch besser f?r uns geeignet ist
+ist der gooch shader.
+Beispiele hier:
+http://www.hello-napalm.com/tuts/brzl_shaders_03.html
+http://img72.exs.cx/img72/1831/gooch_giraffe1.jpg
+
+Man muss ja nicht unbedingt die ganze Welt toonisch machen :)
+
+
+die Vertex und fragment shader... mit denen auch Irrlicht umgehen kann
+(HighLevelShaders f?r OpenGL):
+.vert
+http://www.koders.com/noncode/fid8C0BA8A535632A5703B5FB0FB09851CBEFB1583B.aspx
+.frag
+http://www.koders.com/noncode/fid229CAF71FEE58B9883D3BC83ED7B8ED91C51D4EF.aspx
+
+
+Hier gibts einige speziell f?r irrlicht gebaute schader (auch gooch)..
+allerdings nur f?r direct X.
+Was nun platform?bergreifend nicht gerade sooo hilfreich ist:
+
+Hier die veraltet Version
+http://irrlicht.sourceforge.net/phpBB2/viewtopic.php?t=23638&postdays=0&postorder=asc&start=75&sid=40950eaaa9016cf30f7c873a9b66338f
+Der neue  Eintrag
+http://irrlicht.sourceforge.net/phpBB2/viewtopic.php?t=30631&postdays=0&postorder=asc&start=0
+und der Link zu den sourcen
+http://irrlichtirc.g0dsoft.com/BlindSide/XEffectsR.zip
+
+:-)
+gby
+Matthias
+
+Am 24.10.2008 um 11:40 schrieb Simon Ho?:
+
+> allerdings f?r opengl muss man dann in Irrlicht umschreiben
+>
+> 2008/10/23 Paradoxon <dev at projectconceptor.de>
+> F?r die Devs mal: Toonshaders gibts hier :)
+> http://www.lighthouse3d.com/opengl/glsl/index.php?toon1
+>
+> gby
+> Matthais
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081024/ca84fc4b/attachment.html>
+
+From simonhoss at googlemail.com  Fri Oct 24 17:53:20 2008
+From: simonhoss at googlemail.com (=?ISO-8859-1?Q?Simon_Ho=DF?=)
+Date: Fri, 24 Oct 2008 17:53:20 +0200
+Subject: [Trinitas-main] Toonshader
+In-Reply-To: <E6BA7D2D-5F9B-45F8-A4F3-8E644D3A693C@projectconceptor.de>
+References: <B836335D-D3BE-4AE2-B35D-2CAF9D688051@projectconceptor.de>
+	<ce6499060810240240l3604406dief2a107ceaf6a929@mail.gmail.com>
+	<E6BA7D2D-5F9B-45F8-A4F3-8E644D3A693C@projectconceptor.de>
+Message-ID: <ce6499060810240853g55227432ge61c182e6f665cfc@mail.gmail.com>
+
+w?rde das dann dennoch erstmal mit DX testen... und den ganzen spa? dann
+noch auf opengl umschreiben! Hast ja schon ein paar nette links dazu
+geschrieben ;)
+
+Am 24. Oktober 2008 13:48 schrieb Paradoxon <dev at projectconceptor.de>:
+
+> Schon klar :)
+> war nur ein fl?chtiger Blick drauf und ich dachte es k?nnte helfen.
+> Was wahrscheilnich sogar noch besser f?r uns geeignet ist
+> ist der gooch shader.
+> Beispiele hier:
+> http://www.hello-napalm.com/tuts/brzl_shaders_03.html
+> http://img72.exs.cx/img72/1831/gooch_giraffe1.jpg
+>
+> Man muss ja nicht unbedingt die ganze Welt toonisch machen :)
+>
+>
+> die Vertex und fragment shader... mit denen auch Irrlicht umgehen kann
+> (HighLevelShaders f?r OpenGL):
+> .vert
+>
+> http://www.koders.com/noncode/fid8C0BA8A535632A5703B5FB0FB09851CBEFB1583B.aspx
+> .frag
+>
+> http://www.koders.com/noncode/fid229CAF71FEE58B9883D3BC83ED7B8ED91C51D4EF.aspx
+>
+>
+> Hier gibts einige speziell f?r irrlicht gebaute schader (auch gooch)..
+> allerdings nur f?r direct X.
+> Was nun platform?bergreifend nicht gerade sooo hilfreich ist:
+>
+> Hier die veraltet Version
+>
+> http://irrlicht.sourceforge.net/phpBB2/viewtopic.php?t=23638&postdays=0&postorder=asc&start=75&sid=40950eaaa9016cf30f7c873a9b66338f
+> Der neue  Eintrag
+>
+> http://irrlicht.sourceforge.net/phpBB2/viewtopic.php?t=30631&postdays=0&postorder=asc&start=0
+> und der Link zu den sourcen
+> http://irrlichtirc.g0dsoft.com/BlindSide/XEffectsR.zip
+>
+> :-)
+> gby
+> Matthias
+>
+> Am 24.10.2008 um 11:40 schrieb Simon Ho?:
+>
+> allerdings f?r opengl muss man dann in Irrlicht umschreiben
+>
+> 2008/10/23 Paradoxon <dev at projectconceptor.de>
+>
+>> F?r die Devs mal: Toonshaders gibts hier :)
+>> http://www.lighthouse3d.com/opengl/glsl/index.php?toon1
+>>
+>> gby
+>> Matthais
+>> _______________________________________________
+>> Trinitas-main mailing list
+>> Trinitas-main at lists.berlios.de
+>> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081024/2c3220c0/attachment.html>
+
+From ichthys1 at jesus.de  Fri Oct 24 18:37:07 2008
+From: ichthys1 at jesus.de (Jannis Froese)
+Date: Fri, 24 Oct 2008 18:37:07 +0200
+Subject: [Trinitas-main] wiedereinsteig
+In-Reply-To: <B0FA57D6-C968-4BBD-B57E-1685BA649EBE@projectconceptor.de>
+References: <940752834@web.de>
+	<B0FA57D6-C968-4BBD-B57E-1685BA649EBE@projectconceptor.de>
+Message-ID: <15c4e6840810240937j55c2c761me569b7de10ed6b3@mail.gmail.com>
+
+Hi,
+ich find's auch echt toll das du zur?ck bist.
+
+Nat?rlich haben wir dir auch noch Aufgaben ?briggelassen ;)
+
+Unser gr??ter Fortschritt bisher ist eigentlich auch das Designdokument, du
+kannst es dir ja mal durchlesen, wie es jetzt ist.
+Da ist bestimmt noch nicht alles drinnen, aber alles was mir und Paradoxon
+bisher so eingefallen ist.
+
+Ansonsten macht Christian Gayk gerade die Objektliste und wir werden wohl
+demn?chst damit anfangen, welche Plugins und Scripte wir brauchen und wie
+die untereinander kommunizieren etc.
+
+Gottes Segen
+
+ichthys1
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081024/8b5214ef/attachment.html>
+
+From der-erbe-saurons at web.de  Fri Oct 24 19:22:50 2008
+From: der-erbe-saurons at web.de (florian mann)
+Date: Fri, 24 Oct 2008 19:22:50 +0200
+Subject: [Trinitas-main] wiedereinsteig
+Message-ID: <942401347@web.de>
+
+
+> Hi,
+> ich find's auch echt toll das du zur?ck bist.
+> 
+> Nat?rlich haben wir dir auch noch Aufgaben ?briggelassen ;)
+> 
+> Unser gr??ter Fortschritt bisher ist eigentlich auch das Designdokument
+> , du kannst es dir ja mal durchlesen, wie es jetzt ist.
+>  Da ist bestimmt noch nicht alles drinnen, aber alles was mir und 
+> Paradoxon bisher so eingefallen ist.
+> 
+> Ansonsten macht Christian Gayk gerade die Objektliste und wir werden 
+> wohl demn?chst damit anfangen, welche Plugins und Scripte wir 
+> brauchen und wie die untereinander kommunizieren etc.
+> 
+> Gottes Segen
+> 
+> ichthys1
+
+
+
+
+hey,
+wo kann ich mir das design dokument anschauen? und zeichntet ihr mit hand oder nutzt ihr diese programe? falls ja besitze ich so ein program (noch) nicht. 
+gottes segen florian
+_____________________________________________________________________
+Der WEB.DE SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!
+http://smartsurfer.web.de/?mc=100071&distributionid=000000000066
+
+
+
+From ichthys1 at jesus.de  Fri Oct 24 19:32:19 2008
+From: ichthys1 at jesus.de (Jannis Froese)
+Date: Fri, 24 Oct 2008 19:32:19 +0200
+Subject: [Trinitas-main] wiedereinsteig
+In-Reply-To: <942401347@web.de>
+References: <942401347@web.de>
+Message-ID: <15c4e6840810241032p184f76abj557182120d0a54b2@mail.gmail.com>
+
+Hi,
+das Designdokument steht unter
+http://docs.google.com/View?docid=d4cmpdf_80gqrtk4
+Und Zeichnen kommt ganz drauf an. F?r Diagramme benutze ich Dia, f?r
+Elefanten die Hand und den Bleistift den ich in dieser dann halte.
+
+God bless
+
+Jannis
+
+2008/10/24 florian mann <der-erbe-saurons at web.de>
+
+>
+> > Hi,
+> > ich find's auch echt toll das du zur?ck bist.
+> >
+> > Nat?rlich haben wir dir auch noch Aufgaben ?briggelassen ;)
+> >
+> > Unser gr??ter Fortschritt bisher ist eigentlich auch das Designdokument
+> > , du kannst es dir ja mal durchlesen, wie es jetzt ist.
+> >  Da ist bestimmt noch nicht alles drinnen, aber alles was mir und
+> > Paradoxon bisher so eingefallen ist.
+> >
+> > Ansonsten macht Christian Gayk gerade die Objektliste und wir werden
+> > wohl demn?chst damit anfangen, welche Plugins und Scripte wir
+> > brauchen und wie die untereinander kommunizieren etc.
+> >
+> > Gottes Segen
+> >
+> > ichthys1
+>
+>
+>
+>
+> hey,
+> wo kann ich mir das design dokument anschauen? und zeichntet ihr mit hand
+> oder nutzt ihr diese programe? falls ja besitze ich so ein program (noch)
+> nicht.
+> gottes segen florian
+> _____________________________________________________________________
+> Der WEB.DE SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!
+> http://smartsurfer.web.de/?mc=100071&distributionid=000000000066
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081024/0acfe9d9/attachment.html>
+
+From der-erbe-saurons at web.de  Fri Oct 24 19:42:21 2008
+From: der-erbe-saurons at web.de (florian mann)
+Date: Fri, 24 Oct 2008 19:42:21 +0200
+Subject: [Trinitas-main] wiedereinsteig
+Message-ID: <942431699@web.de>
+
+> -----Urspr?ngliche Nachricht-----
+> Von: "Jannis Froese" <ichthys1 at jesus.de>
+> Gesendet: 24.10.08 19:32:48
+> An: trinitas-main at lists.berlios.de
+> Betreff: Re: [Trinitas-main] wiedereinsteig
+
+
+> 
+> Hi,
+> das Designdokument steht unter http://docs.google.com/View?docid=
+> d4cmpdf_80gqrtk4
+> Und Zeichnen kommt ganz drauf an. F?r Diagramme benutze ich Dia, f?r 
+> Elefanten die Hand und den Bleistift den ich in dieser dann halte.
+> 
+> God bless
+> 
+> Jannis
+> 
+> 
+
+
+das h?rt sich ja schon alles ganz gut an!!! respekt jungs! jetzt meine frage: was muss alses gezeichnet werden? charaktere, klar (aber geibt es 4 gute und 4 "b?se" oder untscheiden sich die seiten nur durchg farben von einander?) werden maps vorher gezeichntet bzw. elemente wie b?ume und felsen? 
+_______________________________________________________________________
+Jetzt neu! Sch?tzen Sie Ihren PC mit McAfee und WEB.DE. 30 Tage
+kostenlos testen. http://www.pc-sicherheit.web.de/startseite/?mc=022220
+
+
+
+From simonhoss at googlemail.com  Sat Oct 25 12:14:33 2008
+From: simonhoss at googlemail.com (=?ISO-8859-1?Q?Simon_Ho=DF?=)
+Date: Sat, 25 Oct 2008 12:14:33 +0200
+Subject: [Trinitas-main] wiedereinsteig
+In-Reply-To: <942431699@web.de>
+References: <942431699@web.de>
+Message-ID: <ce6499060810250314l7ee3c84l518cf417bf819e73@mail.gmail.com>
+
+Ich wuerde vorschlagen das man seinen Charakter individuell zusammen
+stellen kann!?
+
+
+Am 24.10.08 schrieb florian mann <der-erbe-saurons at web.de>:
+>> -----Urspr?ngliche Nachricht-----
+>> Von: "Jannis Froese" <ichthys1 at jesus.de>
+>> Gesendet: 24.10.08 19:32:48
+>> An: trinitas-main at lists.berlios.de
+>> Betreff: Re: [Trinitas-main] wiedereinsteig
+>
+>
+>>
+>> Hi,
+>> das Designdokument steht unter http://docs.google.com/View?docid=
+>> d4cmpdf_80gqrtk4
+>> Und Zeichnen kommt ganz drauf an. F?r Diagramme benutze ich Dia, f?r
+>> Elefanten die Hand und den Bleistift den ich in dieser dann halte.
+>>
+>> God bless
+>>
+>> Jannis
+>>
+>>
+>
+>
+> das h?rt sich ja schon alles ganz gut an!!! respekt jungs! jetzt meine
+> frage: was muss alses gezeichnet werden? charaktere, klar (aber geibt es 4
+> gute und 4 "b?se" oder untscheiden sich die seiten nur durchg farben von
+> einander?) werden maps vorher gezeichntet bzw. elemente wie b?ume und
+> felsen?
+> _______________________________________________________________________
+> Jetzt neu! Sch?tzen Sie Ihren PC mit McAfee und WEB.DE. 30 Tage
+> kostenlos testen. http://www.pc-sicherheit.web.de/startseite/?mc=022220
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+
+
+From der-erbe-saurons at web.de  Sat Oct 25 13:57:09 2008
+From: der-erbe-saurons at web.de (florian mann)
+Date: Sat, 25 Oct 2008 13:57:09 +0200
+Subject: [Trinitas-main] wiedereinsteig
+Message-ID: <943331701@web.de>
+
+also sollen dann einzelteile gezeichnet werden?!
+also oberk?rber, gesicht, beine ?
+_____________________________________________________________________
+Der WEB.DE SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!
+http://smartsurfer.web.de/?mc=100071&distributionid=000000000066
+
+
+
+From trinitas at oswald-crossmedia.de  Sat Oct 25 14:12:29 2008
+From: trinitas at oswald-crossmedia.de (Juergen Oswald)
+Date: Sat, 25 Oct 2008 14:12:29 +0200
+Subject: [Trinitas-main] wiedereinsteig
+In-Reply-To: <ce6499060810250314l7ee3c84l518cf417bf819e73@mail.gmail.com>
+References: <942431699@web.de>
+	<ce6499060810250314l7ee3c84l518cf417bf819e73@mail.gmail.com>
+Message-ID: <49030D2D.5090009@oswald-crossmedia.de>
+
+ >> Ich wuerde vorschlagen das man seinen Charakter individuell zusammen 
+stellen kann!?
+
+Des w?re gut so was vor dem Modeling zu kl?ren.
+Ich bin zwar jetzt an einer Figur dran die niedriger aufgel?st sein soll 
+als die letzte,
+aber dennoch w?re es von Vorteil das vorher festzulegen.
+
+Eine weitere Frage, die sich dadurch stellt, ist die der Animation.
+Weil, dann kann die Figur ja nicht "voranimiert" werden,
+sondern muss in Realtime ?ber z.B ein Skelett animiert werden.
+
+Ihr k?nnt mich nat?rlich gerne berichtigen.
+
+Gru? und Segen
+Juergen
+
+
+
+
+Simon Ho? schrieb:
+> Ich wuerde vorschlagen das man seinen Charakter individuell zusammen
+> stellen kann!?
+>
+>
+> Am 24.10.08 schrieb florian mann <der-erbe-saurons at web.de>:
+>   
+>>> -----Urspr?ngliche Nachricht-----
+>>> Von: "Jannis Froese" <ichthys1 at jesus.de>
+>>> Gesendet: 24.10.08 19:32:48
+>>> An: trinitas-main at lists.berlios.de
+>>> Betreff: Re: [Trinitas-main] wiedereinsteig
+>>>       
+>>     
+>>> Hi,
+>>> das Designdokument steht unter http://docs.google.com/View?docid=
+>>> d4cmpdf_80gqrtk4
+>>> Und Zeichnen kommt ganz drauf an. F?r Diagramme benutze ich Dia, f?r
+>>> Elefanten die Hand und den Bleistift den ich in dieser dann halte.
+>>>
+>>> God bless
+>>>
+>>> Jannis
+>>>
+>>>
+>>>       
+>> das h?rt sich ja schon alles ganz gut an!!! respekt jungs! jetzt meine
+>> frage: was muss alses gezeichnet werden? charaktere, klar (aber geibt es 4
+>> gute und 4 "b?se" oder untscheiden sich die seiten nur durchg farben von
+>> einander?) werden maps vorher gezeichntet bzw. elemente wie b?ume und
+>> felsen?
+>> _______________________________________________________________________
+>> Jetzt neu! Sch?tzen Sie Ihren PC mit McAfee und WEB.DE. 30 Tage
+>> kostenlos testen. http://www.pc-sicherheit.web.de/startseite/?mc=022220
+>>
+>> _______________________________________________
+>> Trinitas-main mailing list
+>> Trinitas-main at lists.berlios.de
+>> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>
+>>     
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>   
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081025/2889db9e/attachment.html>
+
+From dev at projectconceptor.de  Sat Oct 25 15:54:04 2008
+From: dev at projectconceptor.de (Paradoxon)
+Date: Sat, 25 Oct 2008 15:54:04 +0200
+Subject: [Trinitas-main] wiedereinsteig
+In-Reply-To: <ce6499060810250314l7ee3c84l518cf417bf819e73@mail.gmail.com>
+References: <942431699@web.de>
+	<ce6499060810250314l7ee3c84l518cf417bf819e73@mail.gmail.com>
+Message-ID: <EDD44577-2AB1-4787-A316-1C391DA9CE6A@projectconceptor.de>
+
+Dazu ein Zitat aus dem Design Dokument, denn dar?ber hatten wir uns  
+schon mal wochenlang Gedanken gemacht ;-)
+
+Erstellen eines eigenen Charakters
+
+Das modifizieren des eigenen Charakters wird nur in sehr beschr?nktem  
+Ma?e m?glich sein. Jeder kann die Farbe verschiedener Kleidungsst?cke  
+w?hlen und sich zwischen 4 verschieden Charakteren entscheiden  (in  
+der 1. Version) (2 weibliche und 2 m?nnliche Charaktere)
+
+Jeder kann seinen Charakternamen selber festlegen.
+Gerade wegen der Komplexit?t hatten wir damals beschlossen, dass in  
+der ersten Version auf einen Charakter Editor verzichten.
+
+Noch mal f?r alle der Link zum Designdokument
+http://docs.google.com/Doc?id=d4cmpdf_80gqrtk4
+
+Am 25.10.2008 um 12:14 schrieb Simon Ho?:
+
+> Ich wuerde vorschlagen das man seinen Charakter individuell zusammen
+> stellen kann!?
+>
+>
+> Am 24.10.08 schrieb florian mann <der-erbe-saurons at web.de>:
+>>> -----Urspr?ngliche Nachricht-----
+>>> Von: "Jannis Froese" <ichthys1 at jesus.de>
+>>> Gesendet: 24.10.08 19:32:48
+>>> An: trinitas-main at lists.berlios.de
+>>> Betreff: Re: [Trinitas-main] wiedereinsteig
+>>
+>>
+>>>
+>>> Hi,
+>>> das Designdokument steht unter http://docs.google.com/View?docid=
+>>> d4cmpdf_80gqrtk4
+>>> Und Zeichnen kommt ganz drauf an. F?r Diagramme benutze ich Dia, f?r
+>>> Elefanten die Hand und den Bleistift den ich in dieser dann halte.
+>>>
+>>> God bless
+>>>
+>>> Jannis
+>>>
+>>>
+>>
+>>
+>> das h?rt sich ja schon alles ganz gut an!!! respekt jungs! jetzt  
+>> meine
+>> frage: was muss alses gezeichnet werden? charaktere, klar (aber  
+>> geibt es 4
+>> gute und 4 "b?se" oder untscheiden sich die seiten nur durchg  
+>> farben von
+>> einander?) werden maps vorher gezeichntet bzw. elemente wie b?ume und
+>> felsen?
+>> _______________________________________________________________________
+>> Jetzt neu! Sch?tzen Sie Ihren PC mit McAfee und WEB.DE. 30 Tage
+>> kostenlos testen. http://www.pc-sicherheit.web.de/startseite/?mc=022220
+>>
+>> _______________________________________________
+>> Trinitas-main mailing list
+>> Trinitas-main at lists.berlios.de
+>> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+
+
+
+From der-erbe-saurons at web.de  Sat Oct 25 16:41:50 2008
+From: der-erbe-saurons at web.de (florian mann)
+Date: Sat, 25 Oct 2008 16:41:50 +0200
+Subject: [Trinitas-main] wiedereinsteig
+Message-ID: <943475537@web.de>
+
+> -----Urspr?ngliche Nachricht-----
+> Von: "Paradoxon" <dev at projectconceptor.de>
+> Gesendet: 25.10.08 15:54:17
+> An: trinitas-main at lists.berlios.de
+> Betreff: Re: [Trinitas-main] wiedereinsteig
+
+
+> Dazu ein Zitat aus dem Design Dokument, denn dar?ber hatten wir uns  
+> schon mal wochenlang Gedanken gemacht ;-)
+> 
+> Erstellen eines eigenen Charakters
+> 
+> Das modifizieren des eigenen Charakters wird nur in sehr beschr?nktem  
+> Ma?e m?glich sein. Jeder kann die Farbe verschiedener Kleidungsst?cke  
+> w?hlen und sich zwischen 4 verschieden Charakteren entscheiden  (in  
+> der 1. Version) (2 weibliche und 2 m?nnliche Charaktere)
+> 
+> Jeder kann seinen Charakternamen selber festlegen.
+> Gerade wegen der Komplexit?t hatten wir damals beschlossen, dass in  
+> der ersten Version auf einen Charakter Editor verzichten.
+> 
+> Noch mal f?r alle der Link zum Designdokument
+> http://docs.google.com/Doc?id=d4cmpdf_80gqrtk4
+> 
+> Am 25.10.2008 um 12:14 schrieb Simon Ho?:
+> 
+> > Ich wuerde vorschlagen das man seinen Charakter individuell zusammen
+> > stellen kann!?
+> >
+> >
+> > Am 24.10.08 schrieb florian mann <der-erbe-saurons at web.de>:
+> >>> -----Urspr?ngliche Nachricht-----
+> >>> Von: "Jannis Froese" <ichthys1 at jesus.de>
+> >>> Gesendet: 24.10.08 19:32:48
+> >>> An: trinitas-main at lists.berlios.de
+> >>> Betreff: Re: [Trinitas-main] wiedereinsteig
+> >>
+> >>
+> >>>
+> >>> Hi,
+> >>> das Designdokument steht unter http://docs.google.com/View?docid=
+> >>> d4cmpdf_80gqrtk4
+> >>> Und Zeichnen kommt ganz drauf an. F?r Diagramme benutze ich Dia, f?r
+> >>> Elefanten die Hand und den Bleistift den ich in dieser dann halte.
+> >>>
+> >>> God bless
+> >>>
+> >>> Jannis
+> >>>
+> >>>
+> >>
+> >>
+> >> das h?rt sich ja schon alles ganz gut an!!! respekt jungs! jetzt  
+> >> meine
+> >> frage: was muss alses gezeichnet werden? charaktere, klar (aber  
+> >> geibt es 4
+> >> gute und 4 "b?se" oder untscheiden sich die seiten nur durchg  
+> >> farben von
+> >> einander?) werden maps vorher gezeichntet bzw. elemente wie b?ume und
+> >> felsen?
+> >> _______________________________________________________________________
+> >> Jetzt neu! Sch?tzen Sie Ihren PC mit McAfee und WEB.DE. 30 Tage
+> >> kostenlos testen. http://www.pc-sicherheit.web.de/startseite/?mc=022220
+> >>
+> >> _______________________________________________
+> >> Trinitas-main mailing list
+> >> Trinitas-main at lists.berlios.de
+> >> https://lists.berlios.de/mailman/listinfo/trinitas-main
+> >>
+> > _______________________________________________
+> > Trinitas-main mailing list
+> > Trinitas-main at lists.berlios.de
+> > https://lists.berlios.de/mailman/listinfo/trinitas-main
+> 
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+> 
+
+
+okay dann gibt es 4 charaktere, bei den man sich die farbe der klamotten aussuchen kann.
+man kann ja bleistift zeichnung anfertigen, farbe kann ja dann nach wunsch sp?ter eingezeichnet werden...
+im anhang  ist eine zeichnung von mir, ihr k?nnt ja mal r?ckmeldung geben ob der stil in die richtung gehen soll oder was ver?ndert werden sollte (abgesehen von der stellung)
+________________________________________________________________________
+Schon geh?rt? Bei WEB.DE gibt' s viele kostenlose Spiele:
+http://games.entertainment.web.de/de/entertainment/games/free/index.html
+
+
+From ichthys1 at jesus.de  Sat Oct 25 17:22:50 2008
+From: ichthys1 at jesus.de (Jannis Froese)
+Date: Sat, 25 Oct 2008 17:22:50 +0200
+Subject: [Trinitas-main] wiedereinsteig
+In-Reply-To: <943475537@web.de>
+References: <943475537@web.de>
+Message-ID: <15c4e6840810250822g2e7f35d3v805bbe6931a78473@mail.gmail.com>
+
+Ich kann keinen Anhang entdecken.
+Sende ihn doch bitte nochmal oder lade ihn auf SVN hoch.
+
+God bless
+ichthys1
+
+Am 25. Oktober 2008 16:41 schrieb florian mann <der-erbe-saurons at web.de>:
+
+> > -----Urspr?ngliche Nachricht-----
+> > Von: "Paradoxon" <dev at projectconceptor.de>
+> > Gesendet: 25.10.08 15:54:17
+> > An: trinitas-main at lists.berlios.de
+> > Betreff: Re: [Trinitas-main] wiedereinsteig
+>
+>
+> > Dazu ein Zitat aus dem Design Dokument, denn dar?ber hatten wir uns
+> > schon mal wochenlang Gedanken gemacht ;-)
+> >
+> > Erstellen eines eigenen Charakters
+> >
+> > Das modifizieren des eigenen Charakters wird nur in sehr beschr?nktem
+> > Ma?e m?glich sein. Jeder kann die Farbe verschiedener Kleidungsst?cke
+> > w?hlen und sich zwischen 4 verschieden Charakteren entscheiden  (in
+> > der 1. Version) (2 weibliche und 2 m?nnliche Charaktere)
+> >
+> > Jeder kann seinen Charakternamen selber festlegen.
+> > Gerade wegen der Komplexit?t hatten wir damals beschlossen, dass in
+> > der ersten Version auf einen Charakter Editor verzichten.
+> >
+> > Noch mal f?r alle der Link zum Designdokument
+> > http://docs.google.com/Doc?id=d4cmpdf_80gqrtk4
+> >
+> > Am 25.10.2008 um 12:14 schrieb Simon Ho?:
+> >
+> > > Ich wuerde vorschlagen das man seinen Charakter individuell zusammen
+> > > stellen kann!?
+> > >
+> > >
+> > > Am 24.10.08 schrieb florian mann <der-erbe-saurons at web.de>:
+> > >>> -----Urspr?ngliche Nachricht-----
+> > >>> Von: "Jannis Froese" <ichthys1 at jesus.de>
+> > >>> Gesendet: 24.10.08 19:32:48
+> > >>> An: trinitas-main at lists.berlios.de
+> > >>> Betreff: Re: [Trinitas-main] wiedereinsteig
+> > >>
+> > >>
+> > >>>
+> > >>> Hi,
+> > >>> das Designdokument steht unter http://docs.google.com/View?docid=
+> > >>> d4cmpdf_80gqrtk4
+> > >>> Und Zeichnen kommt ganz drauf an. F?r Diagramme benutze ich Dia, f?r
+> > >>> Elefanten die Hand und den Bleistift den ich in dieser dann halte.
+> > >>>
+> > >>> God bless
+> > >>>
+> > >>> Jannis
+> > >>>
+> > >>>
+> > >>
+> > >>
+> > >> das h?rt sich ja schon alles ganz gut an!!! respekt jungs! jetzt
+> > >> meine
+> > >> frage: was muss alses gezeichnet werden? charaktere, klar (aber
+> > >> geibt es 4
+> > >> gute und 4 "b?se" oder untscheiden sich die seiten nur durchg
+> > >> farben von
+> > >> einander?) werden maps vorher gezeichntet bzw. elemente wie b?ume und
+> > >> felsen?
+> > >>
+> _______________________________________________________________________
+> > >> Jetzt neu! Sch?tzen Sie Ihren PC mit McAfee und WEB.DE. 30 Tage
+> > >> kostenlos testen.
+> http://www.pc-sicherheit.web.de/startseite/?mc=022220
+> > >>
+> > >> _______________________________________________
+> > >> Trinitas-main mailing list
+> > >> Trinitas-main at lists.berlios.de
+> > >> https://lists.berlios.de/mailman/listinfo/trinitas-main
+> > >>
+> > > _______________________________________________
+> > > Trinitas-main mailing list
+> > > Trinitas-main at lists.berlios.de
+> > > https://lists.berlios.de/mailman/listinfo/trinitas-main
+> >
+> > _______________________________________________
+> > Trinitas-main mailing list
+> > Trinitas-main at lists.berlios.de
+> > https://lists.berlios.de/mailman/listinfo/trinitas-main
+> >
+>
+>
+> okay dann gibt es 4 charaktere, bei den man sich die farbe der klamotten
+> aussuchen kann.
+> man kann ja bleistift zeichnung anfertigen, farbe kann ja dann nach wunsch
+> sp?ter eingezeichnet werden...
+> im anhang  ist eine zeichnung von mir, ihr k?nnt ja mal r?ckmeldung geben
+> ob der stil in die richtung gehen soll oder was ver?ndert werden sollte
+> (abgesehen von der stellung)
+> ________________________________________________________________________
+> Schon geh?rt? Bei WEB.DE gibt' s viele kostenlose Spiele:
+> http://games.entertainment.web.de/de/entertainment/games/free/index.html
+>
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+
+
+From dev at projectconceptor.de  Sat Oct 25 17:26:24 2008
+From: dev at projectconceptor.de (Paradoxon)
+Date: Sat, 25 Oct 2008 17:26:24 +0200
+Subject: [Trinitas-main] wiedereinsteig
+In-Reply-To: <943475537@web.de>
+References: <943475537@web.de>
+Message-ID: <7EA86E95-3501-4C55-B97C-1576CF9243E5@projectconceptor.de>
+
+Kannst du noch mal deine Zeichnung schicken???
+
+Sorry es gab ein Problem mit der Mailing list, die hat den Anhang  
+herausgefiltert
+Ich hab mal die gr??e f?r den Zul?ssigen Anhang auf 4 MB  
+Hochgesetzt ... das
+sollte jeder account verkraften k?nnen.
+
+gby
+Matthias
+
+
+Am 25.10.2008 um 16:41 schrieb florian mann:
+
+>> -----Urspr?ngliche Nachricht-----
+>> Von: "Paradoxon" <dev at projectconceptor.de>
+>> Gesendet: 25.10.08 15:54:17
+>> An: trinitas-main at lists.berlios.de
+>> Betreff: Re: [Trinitas-main] wiedereinsteig
+>
+>
+>> Dazu ein Zitat aus dem Design Dokument, denn dar?ber hatten wir uns
+>> schon mal wochenlang Gedanken gemacht ;-)
+>>
+>> Erstellen eines eigenen Charakters
+>>
+>> Das modifizieren des eigenen Charakters wird nur in sehr beschr?nktem
+>> Ma?e m?glich sein. Jeder kann die Farbe verschiedener Kleidungsst?cke
+>> w?hlen und sich zwischen 4 verschieden Charakteren entscheiden  (in
+>> der 1. Version) (2 weibliche und 2 m?nnliche Charaktere)
+>>
+>> Jeder kann seinen Charakternamen selber festlegen.
+>> Gerade wegen der Komplexit?t hatten wir damals beschlossen, dass in
+>> der ersten Version auf einen Charakter Editor verzichten.
+>>
+>> Noch mal f?r alle der Link zum Designdokument
+>> http://docs.google.com/Doc?id=d4cmpdf_80gqrtk4
+>>
+>> Am 25.10.2008 um 12:14 schrieb Simon Ho?:
+>>
+>>> Ich wuerde vorschlagen das man seinen Charakter individuell zusammen
+>>> stellen kann!?
+>>>
+>>>
+>>> Am 24.10.08 schrieb florian mann <der-erbe-saurons at web.de>:
+>>>>> -----Urspr?ngliche Nachricht-----
+>>>>> Von: "Jannis Froese" <ichthys1 at jesus.de>
+>>>>> Gesendet: 24.10.08 19:32:48
+>>>>> An: trinitas-main at lists.berlios.de
+>>>>> Betreff: Re: [Trinitas-main] wiedereinsteig
+>>>>
+>>>>
+>>>>>
+>>>>> Hi,
+>>>>> das Designdokument steht unter http://docs.google.com/View?docid=
+>>>>> d4cmpdf_80gqrtk4
+>>>>> Und Zeichnen kommt ganz drauf an. F?r Diagramme benutze ich Dia,  
+>>>>> f?r
+>>>>> Elefanten die Hand und den Bleistift den ich in dieser dann halte.
+>>>>>
+>>>>> God bless
+>>>>>
+>>>>> Jannis
+>>>>>
+>>>>>
+>>>>
+>>>>
+>>>> das h?rt sich ja schon alles ganz gut an!!! respekt jungs! jetzt
+>>>> meine
+>>>> frage: was muss alses gezeichnet werden? charaktere, klar (aber
+>>>> geibt es 4
+>>>> gute und 4 "b?se" oder untscheiden sich die seiten nur durchg
+>>>> farben von
+>>>> einander?) werden maps vorher gezeichntet bzw. elemente wie b?ume  
+>>>> und
+>>>> felsen?
+>>>> _______________________________________________________________________
+>>>> Jetzt neu! Sch?tzen Sie Ihren PC mit McAfee und WEB.DE. 30 Tage
+>>>> kostenlos testen. http://www.pc-sicherheit.web.de/startseite/?mc=022220
+>>>>
+>>>> _______________________________________________
+>>>> Trinitas-main mailing list
+>>>> Trinitas-main at lists.berlios.de
+>>>> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>>>
+>>> _______________________________________________
+>>> Trinitas-main mailing list
+>>> Trinitas-main at lists.berlios.de
+>>> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>
+>> _______________________________________________
+>> Trinitas-main mailing list
+>> Trinitas-main at lists.berlios.de
+>> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>
+>
+>
+> okay dann gibt es 4 charaktere, bei den man sich die farbe der  
+> klamotten aussuchen kann.
+> man kann ja bleistift zeichnung anfertigen, farbe kann ja dann nach  
+> wunsch sp?ter eingezeichnet werden...
+> im anhang  ist eine zeichnung von mir, ihr k?nnt ja mal r?ckmeldung  
+> geben ob der stil in die richtung gehen soll oder was ver?ndert  
+> werden sollte (abgesehen von der stellung)
+> ________________________________________________________________________
+> Schon geh?rt? Bei WEB.DE gibt' s viele kostenlose Spiele:
+> http://games.entertainment.web.de/de/entertainment/games/free/index.html
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+
+
+
+From der-erbe-saurons at web.de  Sat Oct 25 17:42:59 2008
+From: der-erbe-saurons at web.de (florian mann)
+Date: Sat, 25 Oct 2008 17:42:59 +0200
+Subject: [Trinitas-main] wiedereinsteig
+Message-ID: <943537520@web.de>
+
+> -----Urspr?ngliche Nachricht-----
+> Von: "Paradoxon" <dev at projectconceptor.de>
+> Gesendet: 25.10.08 17:27:00
+> An: trinitas-main at lists.berlios.de
+> Betreff: Re: [Trinitas-main] wiedereinsteig
+
+
+> Kannst du noch mal deine Zeichnung schicken???
+> 
+> Sorry es gab ein Problem mit der Mailing list, die hat den Anhang  
+> herausgefiltert
+> Ich hab mal die gr??e f?r den Zul?ssigen Anhang auf 4 MB  
+> Hochgesetzt ... das
+> sollte jeder account verkraften k?nnen.
+> 
+> gby
+> Matthias
+> 
+> 
+> Am 25.10.2008 um 16:41 schrieb florian mann:
+> 
+> >> -----Urspr?ngliche Nachricht-----
+> >> Von: "Paradoxon" <dev at projectconceptor.de>
+> >> Gesendet: 25.10.08 15:54:17
+> >> An: trinitas-main at lists.berlios.de
+> >> Betreff: Re: [Trinitas-main] wiedereinsteig
+> >
+> >
+> >> Dazu ein Zitat aus dem Design Dokument, denn dar?ber hatten wir uns
+> >> schon mal wochenlang Gedanken gemacht ;-)
+> >>
+> >> Erstellen eines eigenen Charakters
+> >>
+> >> Das modifizieren des eigenen Charakters wird nur in sehr beschr?nktem
+> >> Ma?e m?glich sein. Jeder kann die Farbe verschiedener Kleidungsst?cke
+> >> w?hlen und sich zwischen 4 verschieden Charakteren entscheiden  (in
+> >> der 1. Version) (2 weibliche und 2 m?nnliche Charaktere)
+> >>
+> >> Jeder kann seinen Charakternamen selber festlegen.
+> >> Gerade wegen der Komplexit?t hatten wir damals beschlossen, dass in
+> >> der ersten Version auf einen Charakter Editor verzichten.
+> >>
+> >> Noch mal f?r alle der Link zum Designdokument
+> >> http://docs.google.com/Doc?id=d4cmpdf_80gqrtk4
+> >>
+> >> Am 25.10.2008 um 12:14 schrieb Simon Ho?:
+> >>
+> >>> Ich wuerde vorschlagen das man seinen Charakter individuell zusammen
+> >>> stellen kann!?
+> >>>
+> >>>
+> >>> Am 24.10.08 schrieb florian mann <der-erbe-saurons at web.de>:
+> >>>>> -----Urspr?ngliche Nachricht-----
+> >>>>> Von: "Jannis Froese" <ichthys1 at jesus.de>
+> >>>>> Gesendet: 24.10.08 19:32:48
+> >>>>> An: trinitas-main at lists.berlios.de
+> >>>>> Betreff: Re: [Trinitas-main] wiedereinsteig
+> >>>>
+> >>>>
+> >>>>>
+> >>>>> Hi,
+> >>>>> das Designdokument steht unter http://docs.google.com/View?docid=
+> >>>>> d4cmpdf_80gqrtk4
+> >>>>> Und Zeichnen kommt ganz drauf an. F?r Diagramme benutze ich Dia,  
+> >>>>> f?r
+> >>>>> Elefanten die Hand und den Bleistift den ich in dieser dann halte.
+> >>>>>
+> >>>>> God bless
+> >>>>>
+> >>>>> Jannis
+> >>>>>
+> >>>>>
+> >>>>
+> >>>>
+> >>>> das h?rt sich ja schon alles ganz gut an!!! respekt jungs! jetzt
+> >>>> meine
+> >>>> frage: was muss alses gezeichnet werden? charaktere, klar (aber
+> >>>> geibt es 4
+> >>>> gute und 4 "b?se" oder untscheiden sich die seiten nur durchg
+> >>>> farben von
+> >>>> einander?) werden maps vorher gezeichntet bzw. elemente wie b?ume  
+> >>>> und
+> >>>> felsen?
+> >>>> _______________________________________________________________________
+> >>>> Jetzt neu! Sch?tzen Sie Ihren PC mit McAfee und WEB.DE. 30 Tage
+> >>>> kostenlos testen. http://www.pc-sicherheit.web.de/startseite/?mc=022220
+> >>>>
+> >>>> _______________________________________________
+> >>>> Trinitas-main mailing list
+> >>>> Trinitas-main at lists.berlios.de
+> >>>> https://lists.berlios.de/mailman/listinfo/trinitas-main
+> >>>>
+> >>> _______________________________________________
+> >>> Trinitas-main mailing list
+> >>> Trinitas-main at lists.berlios.de
+> >>> https://lists.berlios.de/mailman/listinfo/trinitas-main
+> >>
+> >> _______________________________________________
+> >> Trinitas-main mailing list
+> >> Trinitas-main at lists.berlios.de
+> >> https://lists.berlios.de/mailman/listinfo/trinitas-main
+> >>
+> >
+> >
+> > okay dann gibt es 4 charaktere, bei den man sich die farbe der  
+> > klamotten aussuchen kann.
+> > man kann ja bleistift zeichnung anfertigen, farbe kann ja dann nach  
+> > wunsch sp?ter eingezeichnet werden...
+> > im anhang  ist eine zeichnung von mir, ihr k?nnt ja mal r?ckmeldung  
+> > geben ob der stil in die richtung gehen soll oder was ver?ndert  
+> > werden sollte (abgesehen von der stellung)
+> > ________________________________________________________________________
+> > Schon geh?rt? Bei WEB.DE gibt' s viele kostenlose Spiele:
+> > http://games.entertainment.web.de/de/entertainment/games/free/index.html
+> >
+> > _______________________________________________
+> > Trinitas-main mailing list
+> > Trinitas-main at lists.berlios.de
+> > https://lists.berlios.de/mailman/listinfo/trinitas-main
+> 
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+> 
+
+
+____________________________________________________________________
+Psssst! Schon vom neuen WEB.DE MultiMessenger geh?rt? 
+Der kann`s mit allen: http://www.produkte.web.de/messenger/?did=3123
+
+
+From dev at projectconceptor.de  Sat Oct 25 17:52:41 2008
+From: dev at projectconceptor.de (Paradoxon)
+Date: Sat, 25 Oct 2008 17:52:41 +0200
+Subject: [Trinitas-main] wiedereinsteig
+In-Reply-To: <943537520@web.de>
+References: <943537520@web.de>
+Message-ID: <D8A6A104-0838-4C3A-87FB-E264539AC93E@projectconceptor.de>
+
+Jo das Passiert, wenn man im Stress administriert,
+der Contentfilter war drin, wollte damit e-mail adressen "autofiltern"  
+lassen
+damit ihr keine Spams bekommt,
+
+leider filter der auch standartm??ig anh?nge raus (obwohl ich das  
+rausgenommen hatt)
+hatte wohl vergessen den ?bernehemen button zu dr?cken.
+
+so sorry..
+also auf ein drittes ;-)
+
+Boar aber jetzt muss ich aber wirklich arbeiten
+ab Montag bin ich ne Woche weg..
+und bis dahin muss Gottesdienst vorbereiten!
+also kommt von meiner Seite ersteinmal wenig
+jetzt
+gby
+Matthias
+
+From der-erbe-saurons at web.de  Sat Oct 25 17:58:52 2008
+From: der-erbe-saurons at web.de (florian mann)
+Date: Sat, 25 Oct 2008 17:58:52 +0200
+Subject: [Trinitas-main] wiedereinsteig
+Message-ID: <943553573@web.de>
+
+> -----Urspr?ngliche Nachricht-----
+> Von: "Paradoxon" <dev at projectconceptor.de>
+> Gesendet: 25.10.08 17:53:04
+> An: trinitas-main at lists.berlios.de
+> Betreff: Re: [Trinitas-main] wiedereinsteig
+
+
+> Jo das Passiert, wenn man im Stress administriert,
+> der Contentfilter war drin, wollte damit e-mail adressen "autofiltern"  
+> lassen
+> damit ihr keine Spams bekommt,
+> 
+> leider filter der auch standartm??ig anh?nge raus (obwohl ich das  
+> rausgenommen hatt)
+> hatte wohl vergessen den ?bernehemen button zu dr?cken.
+> 
+> so sorry..
+> also auf ein drittes ;-)
+> 
+> Boar aber jetzt muss ich aber wirklich arbeiten
+> ab Montag bin ich ne Woche weg..
+> und bis dahin muss Gottesdienst vorbereiten!
+> also kommt von meiner Seite ersteinmal wenig
+> jetzt
+> gby
+> Matthias
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+> 
+
+
+_____________________________________________________________________
+Der WEB.DE SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!
+http://smartsurfer.web.de/?mc=100071&distributionid=000000000066
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: DSCN6796.JPG
+Type: image/jpeg
+Size: 803660 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081025/a284e3f0/attachment.jpe>
+
+From dev at projectconceptor.de  Sat Oct 25 18:49:07 2008
+From: dev at projectconceptor.de (Paradoxon)
+Date: Sat, 25 Oct 2008 18:49:07 +0200
+Subject: [Trinitas-main] Entwurf
+In-Reply-To: <943553573@web.de>
+References: <943553573@web.de>
+Message-ID: <D853922B-56E3-4EC1-8C16-B085F5A0EAF5@projectconceptor.de>
+
+Hi florian,
+
+jetzt kann ich mich doch net ganz zur?ck halten :-)
+
+Sehr cooler Entwurf ;-).
+
+F?r eine gutes Umsetzen br?uchten wir das ganze Jetzt noch m?glichst
+genau von der Seite und von vorn!
+(Modeller korrigiert mich wenn ich falsch liege ;-)
+Hier mal ein reihe Beispiele f?r Concepts:
+
+http://www.conceptart.org/forums/showthread.php?t=76443
+http://videogames.techfresh.net/fable-2-concept-art/
+
+Wichtig ist immer, dass es m?glichst eine Gesamtansicht, von vorn und  
+der Seite gibt
+und dann halt einige Zeichnungen von Details geben (eben wie das jetzt  
+vom Gesicht ;-)
+
+Dabei Bedenken, dass die Klamotten von vor 2000 Jahren In der Region  
+Israel, Griechenland
+und Rom an haben ;-D.
+
+ich hab mal das Bild auch ins svn gestellt
+unter
+trinitas/trunk/data/artwork/draft/Figur1
+
+ins svn kannst du ?brigens belibig gro?e Dateien committen ;-).
+
+gby
+Matthias 
+
+From simonhoss at googlemail.com  Sat Oct 25 21:52:43 2008
+From: simonhoss at googlemail.com (=?ISO-8859-1?Q?Simon_Ho=DF?=)
+Date: Sat, 25 Oct 2008 21:52:43 +0200
+Subject: [Trinitas-main] wiedereinsteig
+In-Reply-To: <943553573@web.de>
+References: <943553573@web.de>
+Message-ID: <ce6499060810251252i194dc210r81c738d64abffa4@mail.gmail.com>
+
+wo sehr gut gezeichnet! Mir gef?llt das sehr gut, nur ist das Gesicht f?r
+mein Geschmack ein bisschen makant vll. m?sste das Gesicht ein bisschen
+weicher (z.B. das Kinn!)
+
+2008/10/25 florian mann <der-erbe-saurons at web.de>
+
+> > -----Urspr?ngliche Nachricht-----
+> > Von: "Paradoxon" <dev at projectconceptor.de>
+> > Gesendet: 25.10.08 17:53:04
+> > An: trinitas-main at lists.berlios.de
+> > Betreff: Re: [Trinitas-main] wiedereinsteig
+>
+>
+> > Jo das Passiert, wenn man im Stress administriert,
+> > der Contentfilter war drin, wollte damit e-mail adressen "autofiltern"
+> > lassen
+> > damit ihr keine Spams bekommt,
+> >
+> > leider filter der auch standartm??ig anh?nge raus (obwohl ich das
+> > rausgenommen hatt)
+> > hatte wohl vergessen den ?bernehemen button zu dr?cken.
+> >
+> > so sorry..
+> > also auf ein drittes ;-)
+> >
+> > Boar aber jetzt muss ich aber wirklich arbeiten
+> > ab Montag bin ich ne Woche weg..
+> > und bis dahin muss Gottesdienst vorbereiten!
+> > also kommt von meiner Seite ersteinmal wenig
+> > jetzt
+> > gby
+> > Matthias
+> > _______________________________________________
+> > Trinitas-main mailing list
+> > Trinitas-main at lists.berlios.de
+> > https://lists.berlios.de/mailman/listinfo/trinitas-main
+> >
+>
+>
+> _____________________________________________________________________
+> Der WEB.DE SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!
+> http://smartsurfer.web.de/?mc=100071&distributionid=000000000066
+>
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081025/7ec212b1/attachment.html>
+
+From trinitas at oswald-crossmedia.de  Sun Oct 26 02:25:43 2008
+From: trinitas at oswald-crossmedia.de (Juergen Oswald)
+Date: Sun, 26 Oct 2008 02:25:43 +0100
+Subject: [Trinitas-main] wiedereinsteig
+In-Reply-To: <EDD44577-2AB1-4787-A316-1C391DA9CE6A@projectconceptor.de>
+References: <942431699@web.de>	<ce6499060810250314l7ee3c84l518cf417bf819e73@mail.gmail.com>
+	<EDD44577-2AB1-4787-A316-1C391DA9CE6A@projectconceptor.de>
+Message-ID: <4903C717.2040104@oswald-crossmedia.de>
+
+Ja ! Das habe ich gelesen.
+Genau deswegen hat es mich verwundert,
+das es nochmal zur Diskussion gestellt wird.
+
+Gru? und Segen
+Juergen
+
+
+
+
+Paradoxon schrieb:
+> Dazu ein Zitat aus dem Design Dokument, denn dar?ber hatten wir uns  
+> schon mal wochenlang Gedanken gemacht ;-)
+>
+> Erstellen eines eigenen Charakters
+>
+> Das modifizieren des eigenen Charakters wird nur in sehr beschr?nktem  
+> Ma?e m?glich sein. Jeder kann die Farbe verschiedener Kleidungsst?cke  
+> w?hlen und sich zwischen 4 verschieden Charakteren entscheiden  (in  
+> der 1. Version) (2 weibliche und 2 m?nnliche Charaktere)
+>
+> Jeder kann seinen Charakternamen selber festlegen.
+> Gerade wegen der Komplexit?t hatten wir damals beschlossen, dass in  
+> der ersten Version auf einen Charakter Editor verzichten.
+>
+> Noch mal f?r alle der Link zum Designdokument
+> http://docs.google.com/Doc?id=d4cmpdf_80gqrtk4
+>
+> Am 25.10.2008 um 12:14 schrieb Simon Ho?:
+>
+>   
+>> Ich wuerde vorschlagen das man seinen Charakter individuell zusammen
+>> stellen kann!?
+>>
+>>
+>> Am 24.10.08 schrieb florian mann <der-erbe-saurons at web.de>:
+>>     
+>>>> -----Urspr?ngliche Nachricht-----
+>>>> Von: "Jannis Froese" <ichthys1 at jesus.de>
+>>>> Gesendet: 24.10.08 19:32:48
+>>>> An: trinitas-main at lists.berlios.de
+>>>> Betreff: Re: [Trinitas-main] wiedereinsteig
+>>>>         
+>>>       
+>>>> Hi,
+>>>> das Designdokument steht unter http://docs.google.com/View?docid=
+>>>> d4cmpdf_80gqrtk4
+>>>> Und Zeichnen kommt ganz drauf an. F?r Diagramme benutze ich Dia, f?r
+>>>> Elefanten die Hand und den Bleistift den ich in dieser dann halte.
+>>>>
+>>>> God bless
+>>>>
+>>>> Jannis
+>>>>
+>>>>
+>>>>         
+>>> das h?rt sich ja schon alles ganz gut an!!! respekt jungs! jetzt  
+>>> meine
+>>> frage: was muss alses gezeichnet werden? charaktere, klar (aber  
+>>> geibt es 4
+>>> gute und 4 "b?se" oder untscheiden sich die seiten nur durchg  
+>>> farben von
+>>> einander?) werden maps vorher gezeichntet bzw. elemente wie b?ume und
+>>> felsen?
+>>> _______________________________________________________________________
+>>> Jetzt neu! Sch?tzen Sie Ihren PC mit McAfee und WEB.DE. 30 Tage
+>>> kostenlos testen. http://www.pc-sicherheit.web.de/startseite/?mc=022220
+>>>
+>>> _______________________________________________
+>>> Trinitas-main mailing list
+>>> Trinitas-main at lists.berlios.de
+>>> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>>
+>>>       
+>> _______________________________________________
+>> Trinitas-main mailing list
+>> Trinitas-main at lists.berlios.de
+>> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>     
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>   
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081026/939eb7d0/attachment.html>
+
+From der-erbe-saurons at web.de  Sun Oct 26 12:34:17 2008
+From: der-erbe-saurons at web.de (florian mann)
+Date: Sun, 26 Oct 2008 12:34:17 +0100
+Subject: [Trinitas-main] wiedereinsteig
+Message-ID: <944383059@web.de>
+
+> -----Urspr?ngliche Nachricht-----
+> Von: "Simon Ho?" <simonhoss at googlemail.com>
+> Gesendet: 25.10.08 21:52:49
+> An: trinitas-main at lists.berlios.de
+> Betreff: Re: [Trinitas-main] wiedereinsteig
+
+
+> 
+> wo sehr gut gezeichnet! Mir gef?llt das sehr gut, nur ist das Gesicht 
+> f?r mein Geschmack ein bisschen makant vll. m?sste das Gesicht ein 
+> bisschen weicher (z.B. das Kinn!)
+> 
+> 
+> 2008/10/25 florian mann <der-erbe-saurons at web.de>
+> 
+> > -----Urspr?ngliche Nachricht-----
+>  > Von: "Paradoxon" <dev at projectconceptor.de>
+> > Gesendet: 25.10.08 17:53:04
+> 
+> > An: trinitas-main at lists.berlios.de
+>  > Betreff: Re: [Trinitas-main] wiedereinsteig
+> 
+> 
+> 
+> 
+> 
+> > Jo das Passiert, wenn man im Stress administriert,
+>  > der Contentfilter war drin, wollte damit e-mail adressen "
+> autofiltern"
+>  > lassen
+>  > damit ihr keine Spams bekommt,
+>  >
+>  > leider filter der auch standartm??ig anh?nge raus (obwohl ich das
+>  > rausgenommen hatt)
+>  > hatte wohl vergessen den ?bernehemen button zu dr?cken.
+>  >
+>  > so sorry..
+>  > also auf ein drittes ;-)
+>  >
+>  > Boar aber jetzt muss ich aber wirklich arbeiten
+>  > ab Montag bin ich ne Woche weg..
+>  > und bis dahin muss Gottesdienst vorbereiten!
+>  > also kommt von meiner Seite ersteinmal wenig
+>  > jetzt
+>  > gby
+>  > Matthias
+>  > _______________________________________________
+>  > Trinitas-main mailing list
+>  > Trinitas-main at lists.berlios.de
+>  > https://lists.berlios.de/mailman/listinfo/trinitas-main
+>  >
+> 
+> 
+> 
+> 
+> 
+> _____________________________________________________________________
+>  Der WEB.DE SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!
+> http://smartsurfer.web.de/?mc=100071&distributionid=000000000066
+> 
+> 
+> _______________________________________________
+>  Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+> 
+> 
+>  _______________________________________________ Trinitas-main 
+> mailing list Trinitas-main at lists.berlios.de https://lists.berlios.de/
+> 
+> mailman/listinfo/trinitas-main 
+
+
+was mich jetzt noch interessieren w?rde... ist einer von euch game-designer von beruf oder in dem gew?rbe zuhause? ist n?hmlich so nen ziehmlicher traumberuf von mir... und bin auf der suche nach informationen ...
+____________________________________________________________________
+Psssst! Schon vom neuen WEB.DE MultiMessenger geh?rt? 
+Der kann`s mit allen: http://www.produkte.web.de/messenger/?did=3123
+
+
+
+From der-erbe-saurons at web.de  Sun Oct 26 12:53:09 2008
+From: der-erbe-saurons at web.de (florian mann)
+Date: Sun, 26 Oct 2008 12:53:09 +0100
+Subject: [Trinitas-main] Entwurf
+Message-ID: <944407825@web.de>
+
+eine zwischen frage noch dieses svn sag mir nichts.... ist das so etwas wie schuelervz oder studivz...? 
+und wie bekomm ich zugrif dadrauf?
+alles gute florian
+_____________________________________________________________________
+Der WEB.DE SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!
+http://smartsurfer.web.de/?mc=100071&distributionid=000000000066
+
+
+
+From dev at projectconceptor.de  Sun Oct 26 13:18:38 2008
+From: dev at projectconceptor.de (Paradoxon)
+Date: Sun, 26 Oct 2008 13:18:38 +0100
+Subject: [Trinitas-main] Trinitas mit svn auschecken
+In-Reply-To: <944407825@web.de>
+References: <944407825@web.de>
+Message-ID: <EB550E60-7301-4ED7-B294-72E1223FCF12@projectconceptor.de>
+
+Ok hier noch mal kurz ne Info was SVN ist :)
+wers kennt einfach die mail wegl?schen
+
+SVN ist eine art Server der unser Projekt verwaltet.
+Wenn dinge Hochgeladen werden.. werden Dateien ver?ndert
+SVN erm?glicht es aber nun immer zu einer f?rheren Version zur?ck zu  
+kehren.
+
+sagen wir du hast Figur 1 drei mal ver?ndert und immer ?berschrieben  
+(und das ganze jedesmal
+  auf den Server geschoben) dann kannst du, f?r den fall, dass du sagt  
+hmm
+die 2. Version war doch die beste... jederzeit zu der 2. Version  
+zur?ckkehren.
+
+
+(Anleitung hab ich aus dem irc in #trinitas rauskopiert... also sorry,  
+wenns komisch aussieht)
+http://tortoisesvn.tigris.org/	
+runterladen installieren
+		neues Verzeichniss anlegen
+		rechte Maustaste drauf...
+		dann nen SVN Checkout...
+		dort
+		svn+ssh://developername at svn.berlios.de/svnroot/repos/trinitas/
+		eingeben
+		also in deinem Fall
+		svn+ssh://designer at svn.berlios.de/svnroot/repos/trinitas/trunk
+		dann dein Passwort (von developer.berlios.de)
+		(eventuell 3 mal zum best?tigen)
+		dann wird das Projekt runtergeladen..
+		wenn du was erstellt hast... (datei oder Verzeichniss + Datei)
+		dann einfach rechte Maustaste (auf das neu erstelle Verzeichniss)  
+und svn->add
+		(oder ein plus.. sorry hab ich nicht mehr so im Kopp bin an nem  
+Mac ;-)
+		danach svn -> Commit (ein Verzeichniss dr?ber... damit er das neu  
+hinzugef?gte mit rein nimmt.. der
+		kopiert immer nur alles was in dem "angeklickten" Verzeichniss ist  
+auf den Server
+		GAAANZ WICHTIG ist noch eine kurze Beschreibung (m?glichst endlish  
+weil wir eventuell sp?ter exandieren wollen)
+		also noch schnell so was eingeben wie "new Design draft for figur 2"
+		danach auf ok
+		Passwort
+		und schon wirds hochgeladen.
+		in dem SVN befinden sich schon test Videos und Programme und diverse  
+andere Sachen,
+		die wir f?r die Entwicklung brauchen
+
+gby
+Matthias
+Am 26.10.2008 um 12:53 schrieb florian mann:
+
+> eine zwischen frage noch dieses svn sag mir nichts.... ist das so  
+> etwas wie schuelervz oder studivz...?
+> und wie bekomm ich zugrif dadrauf?
+> alles gute florian
+> _____________________________________________________________________
+> Der WEB.DE SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!
+> http://smartsurfer.web.de/?mc=100071&distributionid=000000000066
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+
+
+
+From trinitas at oswald-crossmedia.de  Mon Oct 27 11:37:18 2008
+From: trinitas at oswald-crossmedia.de (Juergen Oswald)
+Date: Mon, 27 Oct 2008 11:37:18 +0100
+Subject: [Trinitas-main] wiedereinsteig
+In-Reply-To: <944383059@web.de>
+References: <944383059@web.de>
+Message-ID: <490599DE.5040703@oswald-crossmedia.de>
+
+Ich denke es nicht das Thema, ob das Kinn zu kantig ist oder nicht,
+denn das ist "Geschmacksache".
+
+Wichtig ist, aus Informationen und Material etwas Eigenst?ndiges zu 
+kreieren.
+Etwas mit eigener "Handschrift". Und m?glichst auch aus einem Guss.
+Und des is kein Pappenstiel!
+
+Zu den Shadern:
+Werden da nur Shader zugewiesen, oder werden da auch Texturen ben?tigt,
+die mit diesen Shadern berechnet werden.
+Dann sollte man festlegen, wie die Texturen beschaffen sein sollen.
+Weil, wenn es ein einfacher Farbton is, dann wird doch gar keine Textur 
+ben?tigt ! ? ? ?
+Z.B. Gesicht:
+Einfacher Farbton => Keine Textur n?tig
+Narbe im Gesicht => Textur
+Soll in dem Fall das Gesicht nur ein Farbton sein, oder auch 
+Farbschattierungen aufweisen,
+was ja schon ein Schritt in Richtung Realismus ist. => Wo ist die Grenze ?
+
+
+Gru? und Segen
+Juergen
+
+
+
+
+
+florian mann schrieb:
+>> -----Urspr?ngliche Nachricht-----
+>> Von: "Simon Ho?" <simonhoss at googlemail.com>
+>> Gesendet: 25.10.08 21:52:49
+>> An: trinitas-main at lists.berlios.de
+>> Betreff: Re: [Trinitas-main] wiedereinsteig
+>>     
+>
+>
+>   
+>> wo sehr gut gezeichnet! Mir gef?llt das sehr gut, nur ist das Gesicht 
+>> f?r mein Geschmack ein bisschen makant vll. m?sste das Gesicht ein 
+>> bisschen weicher (z.B. das Kinn!)
+>>
+>>
+>> 2008/10/25 florian mann <der-erbe-saurons at web.de>
+>>
+>>     
+>>> -----Urspr?ngliche Nachricht-----
+>>>       
+>>  > Von: "Paradoxon" <dev at projectconceptor.de>
+>>     
+>>> Gesendet: 25.10.08 17:53:04
+>>>       
+>>> An: trinitas-main at lists.berlios.de
+>>>       
+>>  > Betreff: Re: [Trinitas-main] wiedereinsteig
+>>
+>>
+>>
+>>
+>>
+>>     
+>>> Jo das Passiert, wenn man im Stress administriert,
+>>>       
+>>  > der Contentfilter war drin, wollte damit e-mail adressen "
+>> autofiltern"
+>>  > lassen
+>>  > damit ihr keine Spams bekommt,
+>>  >
+>>  > leider filter der auch standartm??ig anh?nge raus (obwohl ich das
+>>  > rausgenommen hatt)
+>>  > hatte wohl vergessen den ?bernehemen button zu dr?cken.
+>>  >
+>>  > so sorry..
+>>  > also auf ein drittes ;-)
+>>  >
+>>  > Boar aber jetzt muss ich aber wirklich arbeiten
+>>  > ab Montag bin ich ne Woche weg..
+>>  > und bis dahin muss Gottesdienst vorbereiten!
+>>  > also kommt von meiner Seite ersteinmal wenig
+>>  > jetzt
+>>  > gby
+>>  > Matthias
+>>  > _______________________________________________
+>>  > Trinitas-main mailing list
+>>  > Trinitas-main at lists.berlios.de
+>>  > https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>  >
+>>
+>>
+>>
+>>
+>>
+>> _____________________________________________________________________
+>>  Der WEB.DE SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!
+>> http://smartsurfer.web.de/?mc=100071&distributionid=000000000066
+>>
+>>
+>> _______________________________________________
+>>  Trinitas-main mailing list
+>> Trinitas-main at lists.berlios.de
+>> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>>
+>>
+>>  _______________________________________________ Trinitas-main 
+>> mailing list Trinitas-main at lists.berlios.de https://lists.berlios.de/
+>>
+>> mailman/listinfo/trinitas-main 
+>>     
+>
+>
+> was mich jetzt noch interessieren w?rde... ist einer von euch game-designer von beruf oder in dem gew?rbe zuhause? ist n?hmlich so nen ziehmlicher traumberuf von mir... und bin auf der suche nach informationen ...
+> ____________________________________________________________________
+> Psssst! Schon vom neuen WEB.DE MultiMessenger geh?rt? 
+> Der kann`s mit allen: http://www.produkte.web.de/messenger/?did=3123
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>   
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081027/6b80ffed/attachment.html>
+
+From simonhoss at googlemail.com  Fri Oct 31 23:39:02 2008
+From: simonhoss at googlemail.com (=?ISO-8859-1?Q?Simon_Ho=DF?=)
+Date: Fri, 31 Oct 2008 23:39:02 +0100
+Subject: [Trinitas-main] wiedereinsteig
+In-Reply-To: <490599DE.5040703@oswald-crossmedia.de>
+References: <944383059@web.de> <490599DE.5040703@oswald-crossmedia.de>
+Message-ID: <ce6499060810311539j59dc050bx6a45afc6195895c@mail.gmail.com>
+
+hmmm, viele viele Fragen :)
+Ich w?rde denken das man sowas nur ?ber tests rausbekomt, wie das
+performance technisch aussieht! Ich bin der Meinung umso n?her an der
+Realit?t umso besser :) (stellt sich sowieso die Frage wie nahe man der
+Realit?t bei Toon Rendering kommen kann?! =)   )
+
+Am 27. Oktober 2008 11:37 schrieb Juergen Oswald <
+trinitas at oswald-crossmedia.de>:
+
+>  Ich denke es nicht das Thema, ob das Kinn zu kantig ist oder nicht,
+> denn das ist "Geschmacksache".
+>
+> Wichtig ist, aus Informationen und Material etwas Eigenst?ndiges zu
+> kreieren.
+> Etwas mit eigener "Handschrift". Und m?glichst auch aus einem Guss.
+> Und des is kein Pappenstiel!
+>
+> Zu den Shadern:
+> Werden da nur Shader zugewiesen, oder werden da auch Texturen ben?tigt,
+> die mit diesen Shadern berechnet werden.
+> Dann sollte man festlegen, wie die Texturen beschaffen sein sollen.
+> Weil, wenn es ein einfacher Farbton is, dann wird doch gar keine Textur
+> ben?tigt ! ? ? ?
+> Z.B. Gesicht:
+> Einfacher Farbton => Keine Textur n?tig
+> Narbe im Gesicht => Textur
+> Soll in dem Fall das Gesicht nur ein Farbton sein, oder auch
+> Farbschattierungen aufweisen,
+> was ja schon ein Schritt in Richtung Realismus ist. => Wo ist die Grenze ?
+>
+>
+> Gru? und Segen
+> Juergen
+>
+>
+>
+>
+>
+> florian mann schrieb:
+>
+>  -----Urspr?ngliche Nachricht-----
+> Von: "Simon Ho?" <simonhoss at googlemail.com> <simonhoss at googlemail.com>
+> Gesendet: 25.10.08 21:52:49
+> An: trinitas-main at lists.berlios.de
+> Betreff: Re: [Trinitas-main] wiedereinsteig
+>
+>
+>     wo sehr gut gezeichnet! Mir gef?llt das sehr gut, nur ist das Gesicht
+> f?r mein Geschmack ein bisschen makant vll. m?sste das Gesicht ein
+> bisschen weicher (z.B. das Kinn!)
+>
+>
+> 2008/10/25 florian mann <der-erbe-saurons at web.de> <der-erbe-saurons at web.de>
+>
+>      -----Urspr?ngliche Nachricht-----
+>
+>
+>   > Von: "Paradoxon" <dev at projectconceptor.de> <dev at projectconceptor.de>
+>
+>  Gesendet: 25.10.08 17:53:04
+>
+>
+>  An: trinitas-main at lists.berlios.de
+>
+>   > Betreff: Re: [Trinitas-main] wiedereinsteig
+>
+>
+>
+>
+>
+>
+>
+>  Jo das Passiert, wenn man im Stress administriert,
+>
+>
+>   > der Contentfilter war drin, wollte damit e-mail adressen "
+> autofiltern"
+>  > lassen
+>  > damit ihr keine Spams bekommt,
+>  >
+>  > leider filter der auch standartm??ig anh?nge raus (obwohl ich das
+>  > rausgenommen hatt)
+>  > hatte wohl vergessen den ?bernehemen button zu dr?cken.
+>  >
+>  > so sorry..
+>  > also auf ein drittes ;-)
+>  >
+>  > Boar aber jetzt muss ich aber wirklich arbeiten
+>  > ab Montag bin ich ne Woche weg..
+>  > und bis dahin muss Gottesdienst vorbereiten!
+>  > also kommt von meiner Seite ersteinmal wenig
+>  > jetzt
+>  > gby
+>  > Matthias
+>  > _______________________________________________
+>  > Trinitas-main mailing list
+>  > Trinitas-main at lists.berlios.de
+>  > https://lists.berlios.de/mailman/listinfo/trinitas-main
+>  >
+>
+>
+>
+>
+>
+> _____________________________________________________________________
+>  Der WEB.DE SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!http://smartsurfer.web.de/?mc=100071&distributionid=000000000066
+>
+>
+> _______________________________________________
+>  Trinitas-main mailing listTrinitas-main at lists.berlios.dehttps://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+>  _______________________________________________ Trinitas-main
+> mailing list Trinitas-main at lists.berlios.de https://lists.berlios.de/
+>
+> mailman/listinfo/trinitas-main
+>
+>
+>  was mich jetzt noch interessieren w?rde... ist einer von euch game-designer von beruf oder in dem gew?rbe zuhause? ist n?hmlich so nen ziehmlicher traumberuf von mir... und bin auf der suche nach informationen ...
+> ____________________________________________________________________
+> Psssst! Schon vom neuen WEB.DE MultiMessenger geh?rt?
+> Der kann`s mit allen: http://www.produkte.web.de/messenger/?did=3123
+>
+> _______________________________________________
+> Trinitas-main mailing listTrinitas-main at lists.berlios.dehttps://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+>
+> _______________________________________________
+> Trinitas-main mailing list
+> Trinitas-main at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-main
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20081031/294a514f/attachment.html>
+

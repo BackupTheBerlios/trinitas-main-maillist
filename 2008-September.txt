@@ -1,0 +1,67 @@
+From ichthys1 at jesus.de  Mon Sep 22 18:48:26 2008
+From: ichthys1 at jesus.de (Jannis Froese)
+Date: Mon, 22 Sep 2008 18:48:26 +0200
+Subject: [Trinitas-main] Designdokument
+Message-ID: <15c4e6840809220948v1f044ae5g5b78c032bb42abac@mail.gmail.com>
+
+Hi,
+als erstes muss ich mich entschuldigen, das ich erst gestern Abend die
+?nderungen ins Designdokument eingetragen habe, nicht schon Mittwoch wie
+urspr?nglich vorgesehen. Ich w?rde mich zwar gerne damit entschuldigen, das
+ich zuwenig Zeit hatte, aber ich h?tte es wie vieles andere, das ich noch
+vorhatte, durchaus auch noch fr?her schaffen k?nnen.
+
+Als zweites muss ich feststellen, das viele Dinge immer noch nicht gekl?rt
+sind.
+Das liegt haupts?chlich daran, das das ganze eher ein Gespr?ch zwischen mir
+und Schakal ist. Nat?rlich haben auch spacepainter und feuer und nat?rlich
+auch Paradoxon sich schon an der Diskussion beteiligt, aber auch das ist
+inzwischen schon etwas her.
+Und es macht auch nicht so viel Spa? und Sinn, immer nur aufgrund meiner und
+Schakals Meinung zu entscheiden.
+
+Ich w?rde also sagen, das wir uns jetzt noch bis Sonntag im Forum um die
+letzten Unklarheiten, Verbesserungen und Vorschl?ge k?mmern.
+Wenn dann noch etwas ungekl?rt seien sollte, schreibt ihr mir einfach anonym
+eine Mail, ob ich den Rest mit Paradoxon allein machen soll oder wir es in
+einem Meeting kl?ren sollen.
+
+Aber ich hoffe, bis Sonntag ist die Sache erledigt, damit wir uns so langsam
+um etwas spannenderes k?mmern k?nnen. Also schaut einfach mal im Forum rein.
+Wer noch nicht registriert ist, klickt einfach im Forum auf "registrieren".
+Wer seine Meinung im Forum nicht nennt, wird sie auch nicht im
+Designdokument ber?cksichtigt sehen.
+
+Jannis
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20080922/cdbc8598/attachment.html>
+
+From davidjablonski at web.de  Mon Sep 22 18:58:09 2008
+From: davidjablonski at web.de (davidjablonski at web.de)
+Date: Mon, 22 Sep 2008 18:58:09 +0200
+Subject: [Trinitas-main] Designdokument
+Message-ID: <28238224.1222102690294.JavaMail.fmail@fmcert02.dlan.cinetic.de>
+
+Hi,
+ich denk, dass es insofern in Ordnung ist, da du ja fast der einzige bist, der ?berhaupt noch was macht ;)
+ansonsten mal die Frage: Wer ist jetzt ?berhaupt noch dabei??
+
+Sonst, falls nur so wenige im Forum registriert sind, weil manche den Link noch nicht kennen:
+
+http://trinitas.berlios.de/dev/forum/index.php
+
+Be blessed
+David
+________________________________________________________________________
+Schon geh?rt? Bei WEB.DE gibt' s viele kostenlose Spiele:
+http://games.entertainment.web.de/de/entertainment/games/free/index.html
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: smime.p7s
+Type: application/pkcs7-signature
+Size: 1768 bytes
+Desc: S/MIME Cryptographic Signature
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20080922/93fc9035/attachment.bin>
+

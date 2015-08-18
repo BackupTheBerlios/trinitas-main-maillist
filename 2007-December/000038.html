@@ -1,0 +1,132 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+ <HEAD>
+   <TITLE> [Trinitas-main] PluginLoader unter Linux
+   </TITLE>
+   <LINK REL="Index" HREF="http://lists.berlios.de/pipermail/trinitas-main/2007-December/index.html" >
+   <LINK REL="made" HREF="mailto:trinitas-main%40lists.berlios.de?Subject=Re%3A%20%5BTrinitas-main%5D%20PluginLoader%20unter%20Linux&In-Reply-To=%3C15c4e6840712140433w710d694ewdef049ba9961084%40mail.gmail.com%3E">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <style type="text/css">
+       pre {
+           white-space: pre-wrap;       /* css-2.1, curent FF, Opera, Safari */
+           }
+   </style>
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   <LINK REL="Previous"  HREF="000037.html">
+   <LINK REL="Next"  HREF="000039.html">
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[Trinitas-main] PluginLoader unter Linux</H1>
+    <B>Jannis Froese</B> 
+    <A HREF="mailto:trinitas-main%40lists.berlios.de?Subject=Re%3A%20%5BTrinitas-main%5D%20PluginLoader%20unter%20Linux&In-Reply-To=%3C15c4e6840712140433w710d694ewdef049ba9961084%40mail.gmail.com%3E"
+       TITLE="[Trinitas-main] PluginLoader unter Linux">ichthys1 at jesus.de
+       </A><BR>
+    <I>Fri Dec 14 13:33:07 CET 2007</I>
+    <P><UL>
+        <LI>Previous message: <A HREF="000037.html">[Trinitas-main] PluginLoader unter Linux
+</A></li>
+        <LI>Next message: <A HREF="000039.html">[Trinitas-main] PluginLoader unter Linux
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#38">[ date ]</a>
+              <a href="thread.html#38">[ thread ]</a>
+              <a href="subject.html#38">[ subject ]</a>
+              <a href="author.html#38">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>Danke f&#252;r den Tipp. Funktioniert jetzt einwandfrei (zumindest das Compilen).
+Dann kommen wir ja schon zum ausf&#252;hren des Programms. Da ist eigentlich mehr
+gedacht als folgendes, oder?
+
+Searching Plugin in:    Plugins
+&gt;<i> hier!
+</I>&gt;<i> try to load:    ..
+</I>&gt;<i> loading: ... Plugins/..
+</I>&gt;<i> try to load:    .
+</I>&gt;<i> loading: ... Plugins/.
+</I>&gt;<i> try to load:    .svn
+</I>&gt;<i> loading: ... Plugins/.svn
+</I>&gt;<i> try to load:    FirstPlugin.so
+</I>&gt;<i> loading: ... Plugins/FirstPlugin.so
+</I>&gt;<i> Libhandle found
+</I>&gt;<i> terminate called after throwing an instance of 'std::out_of_range'
+</I>&gt;<i>   what():  vector::_M_range_check
+</I>&gt;<i> Aborted (core dumped)
+</I>&gt;<i>
+</I>
+Was w&#252;rdet ihr denn dazu sagen?
+
+Jannis
+2007/12/11, Simon Ho&#223; &lt;<A HREF="https://lists.berlios.de/mailman/listinfo/trinitas-main">simonhoss at googlemail.com</A>&gt;:
+&gt;<i>
+</I>&gt;<i> du brauchst noch eine library... such mal nach libdl.a oder libdl.so und
+</I>&gt;<i> gib die im linker mit an!
+</I>&gt;<i>
+</I>&gt;<i> 2007/12/11, Jannis Froese &lt;<A HREF="https://lists.berlios.de/mailman/listinfo/trinitas-main">ichthys1 at jesus.de</A> &gt;:
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt; Hi,
+</I>&gt;<i> &gt; Ich habe heute versucht, die aktuelle Version des PluginLoaders unter
+</I>&gt;<i> &gt; Linux mit Code::Blocks (Version svn4680) zu compilieren.
+</I>&gt;<i> &gt; Dabei habe ich zwei Fehler erhalten. Vielleicht habe ich auch nur
+</I>&gt;<i> &gt; vergessen ein Verzeichnis in der Einstellungen anzugeben, aber das
+</I>&gt;<i> &gt; bezweifele ich.
+</I>&gt;<i> &gt; Hier mein Build Log:
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt; -------------- Build: default in PluginLoader ---------------
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt; Linking console executable: PluginLoader
+</I>&gt;<i> &gt; .objs/PluginLoader.o: In function `PluginLoader::LoadPlugin(char*)':
+</I>&gt;<i> &gt; /home/ichthys1/trinitas/trunk/tests/pluginTest/PluginLoader.cpp:118:
+</I>&gt;<i> &gt; undefined reference to `dlopen'
+</I>&gt;<i> &gt; /home/ichthys1/trinitas/trunk/tests/pluginTest/PluginLoader.cpp:125:
+</I>&gt;<i> &gt; undefined reference to `dlsym'
+</I>&gt;<i> &gt; collect2: ld gab 1 als Ende-Status zur&#252;ck
+</I>&gt;<i> &gt; Process terminated with status 1 (0 minutes, 0 seconds)
+</I>&gt;<i> &gt; 2 errors, 0 warnings
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt; Ich bin kein C++ Experte, von daher meine Frage: Was stimmt am Code
+</I>&gt;<i> &gt; nicht? Fehlt ein Include?
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt; Jannis
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt; _______________________________________________
+</I>&gt;<i> &gt; Trinitas-main mailing list
+</I>&gt;<i> &gt; <A HREF="https://lists.berlios.de/mailman/listinfo/trinitas-main">Trinitas-main at lists.berlios.de</A>
+</I>&gt;<i> &gt; <A HREF="https://lists.berlios.de/mailman/listinfo/trinitas-main">https://lists.berlios.de/mailman/listinfo/trinitas-main</A>
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt;
+</I>&gt;<i>
+</I>&gt;<i> _______________________________________________
+</I>&gt;<i> Trinitas-main mailing list
+</I>&gt;<i> <A HREF="https://lists.berlios.de/mailman/listinfo/trinitas-main">Trinitas-main at lists.berlios.de</A>
+</I>&gt;<i> <A HREF="https://lists.berlios.de/mailman/listinfo/trinitas-main">https://lists.berlios.de/mailman/listinfo/trinitas-main</A>
+</I>&gt;<i>
+</I>&gt;<i>
+</I>-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: &lt;<A HREF="https://lists.berlios.de/pipermail/trinitas-main/attachments/20071214/ce7d6d79/attachment.html">https://lists.berlios.de/pipermail/trinitas-main/attachments/20071214/ce7d6d79/attachment.html</A>&gt;
+</PRE>
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	<LI>Previous message: <A HREF="000037.html">[Trinitas-main] PluginLoader unter Linux
+</A></li>
+	<LI>Next message: <A HREF="000039.html">[Trinitas-main] PluginLoader unter Linux
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#38">[ date ]</a>
+              <a href="thread.html#38">[ thread ]</a>
+              <a href="subject.html#38">[ subject ]</a>
+              <a href="author.html#38">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="https://lists.berlios.de/mailman/listinfo/trinitas-main">More information about the Trinitas-main
+mailing list</a><br>
+</body></html>

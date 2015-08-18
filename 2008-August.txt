@@ -1,0 +1,48 @@
+From ichthys1 at jesus.de  Fri Aug 29 20:45:15 2008
+From: ichthys1 at jesus.de (Jannis Froese)
+Date: Fri, 29 Aug 2008 20:45:15 +0200
+Subject: [Trinitas-main] Designdokument
+Message-ID: <15c4e6840808291145n66d7a1a9pfe49ad191ea906a6@mail.gmail.com>
+
+Hi,
+
+Um den bei Trinitas bald mit dem n?chsten Schritt weitermachen k?nnen, habe
+ich mir folgendes ?berlegt:
+
+Am Donnerstag, dem 4. September, werde ich die ?nderungen im Designdokument,
+auf die wir uns bis dahin im Forum geeinigt haben eingetragen.
+Danach k?nnen wir noch knapp 2 Wochen ?ber weitere ?nderungen diskutieren,
+bis ich am Mittwoch, dem 17. September nochmals ?nderungen eintrage. Sollten
+dann noch wesentliche Fragen ungekl?rt sein, k?nnen wir auch die kl?ren,
+ansonsten ist das Designdokument dann soweit abgeschlossen, damit wir uns
+wieder wichtigerem zuwenden k?nnen.
+
+Dannach sollten m?glichst keine ?nderungen mehr durchgef?hrt werden, damit
+wir das Designdokument wirklich als verbindliche Grundlage f?r unsere
+weitere Arbeit benutzen k?nnen.
+
+Sobald das Designdokument abgeschlossen ist, m?ssen wir uns f?r der
+Programmierung nur noch um das Klassendesign k?mmern (?ber das ihr euch
+ruhig schonmal Gedanken machen k?nnt), und dann k?nnen wir losprogrammieren.
+
+Alle Nicht-Programmierer k?nnen nat?rlich schon ohne Klassendesig loslegen.
+Genaueres m?sste noch besprochen werden.
+
+Zwischendurch werden wir noch die verwendeten Arbeitsmehoden besprechen
+(bez?glich Teams, Prototyp etc.).
+
+
+Ich wei?, im Moment macht es noch nicht so viel Spa?, aber es ist nunmal
+notwendig und kann uns sp?ter viel Zeit, R?ckfragen und Missverst?ndnisse
+sparen und ist somit notwendig, damit wir sp?ter wirklich Spa? daran haben
+k?nnen.
+
+Jannis
+
+PS: Wer sich noch nicht im Forum (http://trinitas.berlios.de/dev/forum)
+angemeldet hat, kann im Moment einfach im Forum auf registrieren klicken und
+ist sofort freigeschaltet.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20080829/4a9e6805/attachment.html>
+

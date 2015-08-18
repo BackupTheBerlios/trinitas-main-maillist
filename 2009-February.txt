@@ -1,0 +1,116 @@
+From ichthys1 at jesus.de  Sat Feb  7 18:23:33 2009
+From: ichthys1 at jesus.de (Jannis Froese)
+Date: Sat, 7 Feb 2009 18:23:33 +0100
+Subject: [Trinitas-main] [Trinitas-developer] Was gibts zu tun!
+In-Reply-To: <ce6499060902070416k6ce07d9atfee64a0406b57c7f@mail.gmail.com>
+References: <ce6499060902070416k6ce07d9atfee64a0406b57c7f@mail.gmail.com>
+Message-ID: <15c4e6840902070923uc2710d9w93cca4fbbb146c43@mail.gmail.com>
+
+Hi,
+cool das du fragst. Ich habe vor kurzem auch wieder begonnen, mich mit
+Trinitas zu besch?ftigen (vor allem mit der Objektliste).
+Paradoxon wollte ja den Masterserver-Test programmieren, ich wei? aber im
+Moment nicht, wie es damit steht (er hat aber schon etwas in SVN
+hochgeladen, das werde ich bald ausprobieren).
+
+Ansonsten w?re aus meiner Sicht das sinnvollste, eine Liste mit
+Plugins/Scripten die ben?tigt werden.
+Dann k?me wohl eine art grundlegendes Design und dann k?nnten wir
+losprogrammieren.
+So stelle ich mir dass zumindest im Moment vor.
+
+Gr??e
+Jannis
+
+2009/2/7 Simon Ho? <simonhoss at googlemail.com>
+
+> Hallo Leute,
+> ich wollte mich mal wieder ein bisschen in das Projekt reingeben und daher
+> meine Frage, was w?re das sinnvollste was zu tun w?re? bzw. was steht an?
+>
+> Gr??chen
+>
+> _______________________________________________
+> Trinitas-developer mailing list
+> Trinitas-developer at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-developer
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20090207/96d1ef1c/attachment.html>
+
+From davidjablonski at web.de  Tue Feb 10 18:07:27 2009
+From: davidjablonski at web.de (davidjablonski at web.de)
+Date: Tue, 10 Feb 2009 18:07:27 +0100
+Subject: [Trinitas-main] [Trinitas-developer] Was gibts zu tun!
+Message-ID: <12874676.1234285649862.JavaMail.fmail@fmcert02.dlan.cinetic.de>
+
+Hi,
+wie witzig, seit ner Woche bin auch ich wieder aktiv dabei ^^
+Im Moment schaue ich mir den bisherigen PluginLoader an und
+versuche aus meiner "Lua Engine" (<- cooler Name 8-) ) eine
+Plugin-f?hige Klasse zu machen.
+Ah Jannis, k?nntest du im Forum mal eine neue Hauptkategorie
+"Plugins" machen. Weil das f?llt ja weder in Designdokument,
+noch in offtopic =P
+Dann werde ich auch einen Artikel verfassen, wie man ein Plugin
+macht, dass auch vom PluginLoader integriert werden kann ;)
+So Leutz! Auf an die Arbeit!
+
+Gottes Segen
+David (alias Schakal)
+
+> -----Urspr?ngliche Nachricht-----
+> Von: "Jannis Froese" <ichthys1 at jesus.de>
+> Gesendet: 07.02.09 21:31:58
+> An: trinitas-main at lists.berlios.de
+> Betreff: Re: [Trinitas-main] [Trinitas-developer] Was gibts zu tun!
+
+Hi,
+> cool das du fragst. Ich habe vor kurzem auch wieder begonnen, mich 
+> mit Trinitas zu besch?ftigen (vor allem mit der Objektliste).
+> Paradoxon wollte ja den Masterserver-Test programmieren, ich wei? 
+> aber im Moment nicht, wie es damit steht (er hat aber schon etwas in 
+> SVN hochgeladen, das werde ich bald ausprobieren).
+> 
+> Ansonsten w?re aus meiner Sicht das sinnvollste, eine Liste mit 
+> Plugins/Scripten die ben?tigt werden.
+> Dann k?me wohl eine art grundlegendes Design und dann k?nnten wir 
+> losprogrammieren.
+> So stelle ich mir dass zumindest im Moment vor.
+> 
+> Gr??e
+> Jannis
+> 
+> 2009/2/7 Simon Ho? <simonhoss at googlemail.com>
+> Hallo Leute,
+> ich wollte mich mal wieder ein bisschen in das Projekt reingeben und 
+> daher meine Frage, was w?re das sinnvollste was zu tun w?re? bzw. was 
+> steht an?
+> 
+> Gr??chen
+> 
+> _______________________________________________
+> Trinitas-developer mailing list
+> Trinitas-developer at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/trinitas-developer
+> 
+> _______________________________________________ Trinitas-main mailing 
+> list Trinitas-main at lists.berlios.de https://lists.berlios.de/mailman/
+> 
+> listinfo/trinitas-main
+
+
+__________________________________________________________________
+Deutschlands gr??te Online-Videothek schenkt Ihnen 12.000 Videos!*
+http://entertainment.web.de/de/entertainment/maxdome/index.html
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: smime.p7s
+Type: application/pkcs7-signature
+Size: 1753 bytes
+Desc: S/MIME Cryptographic Signature
+URL: <https://lists.berlios.de/pipermail/trinitas-main/attachments/20090210/fe8af0c1/attachment.bin>
+
